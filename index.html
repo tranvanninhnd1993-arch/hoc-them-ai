@@ -1742,10 +1742,32 @@ function renderTest(idx){
   area.innerHTML=html;
   area.querySelectorAll('.quiz-q').forEach((qel,i)=>qel.querySelectorAll('.opt').forEach(opt=>opt.onclick=()=>{if(qel.classList.contains('graded'))return;qel.querySelectorAll('.opt').forEach(o=>o.classList.remove('sel'));opt.classList.add('sel');opt.querySelector('input').checked=true;sel[i]=parseInt(opt.dataset.opt)}));
   document.getElementById('submitTest').onclick=()=>{
-    let correct=0;
-    area.querySelectorAll('.quiz-q').forEach((qel,i)=>{qel.classList.add('graded');const q=quiz[i];qel.querySelectorAll('.opt').forEach(opt=>{const j=parseInt(opt.dataset.opt);if(j===q.correct)opt.classList.add('correct');else if(j===sel[i])opt.classList.add('wrong')});if(sel[i]===q.correct)correct++;const ex=qel.querySelector('.explain');ex.textContent='Đáp án đúng: '+String.fromCharCode(65+q.correct)+'. '+(q.explain||'');ex.classList.add('show')});
+    let correct=0;const wrongs=[];
+    area.querySelectorAll('.quiz-q').forEach((qel,i)=>{
+      qel.classList.add('graded');const q=quiz[i];
+      qel.querySelectorAll('.opt').forEach(opt=>{const j=parseInt(opt.dataset.opt);if(j===q.correct)opt.classList.add('correct');else if(j===sel[i])opt.classList.add('wrong')});
+      const ex=qel.querySelector('.explain');ex.textContent='Đáp án đúng: '+String.fromCharCode(65+q.correct)+'. '+(q.explain||'');ex.classList.add('show');
+      if(sel[i]===q.correct)correct++;
+      else wrongs.push({q:'Câu '+(i+1)+'. '+q.q,chosen:sel[i]>=0?(String.fromCharCode(65+sel[i])+'. '+q.options[sel[i]]):null,correct:String.fromCharCode(65+q.correct)+'. '+q.options[q.correct],explain:q.explain});
+    });
+    const sb=document.getElementById('submitTest');if(sb)sb.style.display='none';
     finishTest(idx,correct,quiz.length);
+    area.insertBefore(buildReview(wrongs), area.children[1]||null);
   };
+}
+function buildReview(wrongs){
+  const d=document.createElement('div');
+  if(!wrongs.length){d.innerHTML='<div class="card" style="background:var(--green-soft);border-color:#b7e4c7;text-align:center"><strong style="color:var(--green);font-size:17px">🎉 Tuyệt vời! Con làm đúng tất cả các câu!</strong></div>';return d}
+  let h='<div class="card"><h2 style="margin-bottom:4px">📌 Những câu cần xem lại ('+wrongs.length+' câu)</h2><div class="sub">Xem kỹ chỗ sai và cách làm đúng để lần sau làm được nhé!</div>';
+  wrongs.forEach(function(w){
+    h+='<div style="border:1px solid var(--line);border-left:4px solid var(--red);border-radius:10px;padding:12px 14px;margin-bottom:10px">'
+      +'<div style="font-weight:700;margin-bottom:6px">'+esc(w.q)+'</div>'
+      +'<div style="font-size:14px;color:var(--red);margin-bottom:2px">✗ Con chọn: '+(w.chosen===null?'<em>(chưa chọn)</em>':esc(w.chosen))+'</div>'
+      +'<div style="font-size:14px;color:var(--green);font-weight:600">✓ Đáp án đúng: '+esc(w.correct)+'</div>'
+      +'<div style="font-size:14px;margin-top:8px;padding:9px 11px;background:var(--bg);border-radius:8px"><strong>💡 Cách làm:</strong> '+esc(w.explain||'')+'</div>'
+      +'</div>';
+  });
+  h+='</div>';d.innerHTML=h;return d;
 }
 function finishTest(idx,correct,total){
   const ratio=correct/total;
@@ -1768,17 +1790,18 @@ function showReward(idx,correct,total,passed,stars){
     card.innerHTML='<div class="reward-emoji">🎉</div><div class="reward-stars">'
       +Array.from({length:3}).map((_,i)=>'<span class="s">'+(i<stars?'⭐':'☆')+'</span>').join('')
       +'</div><h2>Giỏi quá!</h2><p>Con đúng '+correct+'/'+total+' câu và nhận được '+stars+' sao!'+(stars<3?' Đạt ≥ 90% để được 3 sao nhé.':'')+'</p>'
-      +'<div>'+(hasNext?'<button class="btn green" id="rwNext">Bài tiếp theo →</button> ':'')+'<button class="btn ghost" id="rwClose">Đóng</button></div>';
+      +'<div>'+(hasNext?'<button class="btn green" id="rwNext">Bài tiếp theo →</button> ':'')+'<button class="btn ghost" id="rwClose">📌 Xem lại bài làm</button></div>';
   } else {
-    card.innerHTML='<div class="reward-emoji">💪</div><h2>Cố lên nào!</h2><p>Con đúng '+correct+'/'+total+' câu, cần đúng ≥ '+need+'/'+total+' (80%) để qua bài. Xem lại lời giải màu xanh rồi học/làm lại nhé!</p>'
-      +'<div><button class="btn" id="rwRetry">🔄 Làm lại</button> <button class="btn ghost" id="rwLearn">📖 Học lại bài</button></div>';
+    card.innerHTML='<div class="reward-emoji">💪</div><h2>Cố lên nào!</h2><p>Con đúng '+correct+'/'+total+' câu, cần đúng ≥ '+need+'/'+total+' (80%) để qua bài. Hãy xem kỹ các câu sai và cách làm bên dưới nhé!</p>'
+      +'<div><button class="btn" id="rwReview">📌 Xem câu sai</button> <button class="btn ghost" id="rwRetry">🔄 Làm lại</button> <button class="btn ghost" id="rwLearn">📖 Học lại bài</button></div>';
   }
   document.getElementById('reward').classList.add('show');
   const close=()=>document.getElementById('reward').classList.remove('show');
   if(passed){
     if(hasNext)document.getElementById('rwNext').onclick=()=>{close();openLesson(idx+1)};
-    document.getElementById('rwClose').onclick=()=>{close();renderCurriculum();showView('curriculum')};
+    document.getElementById('rwClose').onclick=()=>{close()};
   } else {
+    document.getElementById('rwReview').onclick=()=>{close()};
     document.getElementById('rwRetry').onclick=()=>{close();renderTest(idx)};
     document.getElementById('rwLearn').onclick=()=>{close();vLesson.querySelector('.ltab[data-pane="learn"]').click()};
   }
