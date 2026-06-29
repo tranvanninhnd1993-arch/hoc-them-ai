@@ -1,0 +1,2281 @@
+{
+ "grade": 3,
+ "week": 12,
+ "lessons": [
+  {
+   "type": 1,
+   "title": "Bài 1 - Giải toán hai bước (nhân rồi cộng)",
+   "exercises": [
+    {
+     "q": "Có 5 túi, mỗi túi 9 kẹo. Người ta bỏ thêm 11 kẹo nữa. Hỏi có tất cả bao nhiêu kẹo?",
+     "options": [
+      "67",
+      "25",
+      "45",
+      "56"
+     ],
+     "correct": 3,
+     "explain": "5 × 9 = 45; 45 + 11 = 56 (kẹo)."
+    },
+    {
+     "q": "Có 6 thùng, mỗi thùng 6 chai. Người ta bỏ thêm 13 chai nữa. Hỏi có tất cả bao nhiêu chai?",
+     "options": [
+      "36",
+      "25",
+      "62",
+      "49"
+     ],
+     "correct": 3,
+     "explain": "6 × 6 = 36; 36 + 13 = 49 (chai)."
+    },
+    {
+     "q": "Có 6 rổ, mỗi rổ 9 cam. Người ta bỏ thêm 17 cam nữa. Hỏi có tất cả bao nhiêu cam?",
+     "options": [
+      "88",
+      "32",
+      "71",
+      "54"
+     ],
+     "correct": 2,
+     "explain": "6 × 9 = 54; 54 + 17 = 71 (cam)."
+    },
+    {
+     "q": "Có 4 thùng, mỗi thùng 9 chai. Người ta bỏ thêm 9 chai nữa. Hỏi có tất cả bao nhiêu chai?",
+     "options": [
+      "54",
+      "36",
+      "45",
+      "22"
+     ],
+     "correct": 2,
+     "explain": "4 × 9 = 36; 36 + 9 = 45 (chai)."
+    },
+    {
+     "q": "Có 9 hộp, mỗi hộp 8 bút. Người ta bỏ thêm 16 bút nữa. Hỏi có tất cả bao nhiêu bút?",
+     "options": [
+      "33",
+      "72",
+      "104",
+      "88"
+     ],
+     "correct": 3,
+     "explain": "9 × 8 = 72; 72 + 16 = 88 (bút)."
+    },
+    {
+     "q": "Có 6 thùng, mỗi thùng 8 chai. Người ta bỏ thêm 19 chai nữa. Hỏi có tất cả bao nhiêu chai?",
+     "options": [
+      "48",
+      "67",
+      "33",
+      "86"
+     ],
+     "correct": 1,
+     "explain": "6 × 8 = 48; 48 + 19 = 67 (chai)."
+    },
+    {
+     "q": "Có 7 rổ, mỗi rổ 7 cam. Người ta bỏ thêm 6 cam nữa. Hỏi có tất cả bao nhiêu cam?",
+     "options": [
+      "61",
+      "49",
+      "55",
+      "20"
+     ],
+     "correct": 2,
+     "explain": "7 × 7 = 49; 49 + 6 = 55 (cam)."
+    },
+    {
+     "q": "Có 8 rổ, mỗi rổ 3 cam. Người ta bỏ thêm 2 cam nữa. Hỏi có tất cả bao nhiêu cam?",
+     "options": [
+      "28",
+      "26",
+      "24",
+      "13"
+     ],
+     "correct": 1,
+     "explain": "8 × 3 = 24; 24 + 2 = 26 (cam)."
+    },
+    {
+     "q": "Có 3 thùng, mỗi thùng 4 chai. Người ta bỏ thêm 19 chai nữa. Hỏi có tất cả bao nhiêu chai?",
+     "options": [
+      "26",
+      "31",
+      "12",
+      "50"
+     ],
+     "correct": 1,
+     "explain": "3 × 4 = 12; 12 + 19 = 31 (chai)."
+    },
+    {
+     "q": "Có 4 hộp, mỗi hộp 5 bút. Người ta bỏ thêm 19 bút nữa. Hỏi có tất cả bao nhiêu bút?",
+     "options": [
+      "39",
+      "20",
+      "58",
+      "28"
+     ],
+     "correct": 0,
+     "explain": "4 × 5 = 20; 20 + 19 = 39 (bút)."
+    },
+    {
+     "q": "Có 7 hộp, mỗi hộp 8 bút. Người ta bỏ thêm 18 bút nữa. Hỏi có tất cả bao nhiêu bút?",
+     "options": [
+      "33",
+      "92",
+      "56",
+      "74"
+     ],
+     "correct": 3,
+     "explain": "7 × 8 = 56; 56 + 18 = 74 (bút)."
+    },
+    {
+     "q": "Có 5 rổ, mỗi rổ 8 cam. Người ta bỏ thêm 11 cam nữa. Hỏi có tất cả bao nhiêu cam?",
+     "options": [
+      "51",
+      "40",
+      "62",
+      "24"
+     ],
+     "correct": 0,
+     "explain": "5 × 8 = 40; 40 + 11 = 51 (cam)."
+    },
+    {
+     "q": "Có 5 rổ, mỗi rổ 9 cam. Người ta bỏ thêm 13 cam nữa. Hỏi có tất cả bao nhiêu cam?",
+     "options": [
+      "71",
+      "45",
+      "58",
+      "27"
+     ],
+     "correct": 2,
+     "explain": "5 × 9 = 45; 45 + 13 = 58 (cam)."
+    },
+    {
+     "q": "Có 3 rổ, mỗi rổ 5 cam. Người ta bỏ thêm 19 cam nữa. Hỏi có tất cả bao nhiêu cam?",
+     "options": [
+      "27",
+      "34",
+      "15",
+      "53"
+     ],
+     "correct": 1,
+     "explain": "3 × 5 = 15; 15 + 19 = 34 (cam)."
+    },
+    {
+     "q": "Có 8 hộp, mỗi hộp 7 bút. Người ta bỏ thêm 2 bút nữa. Hỏi có tất cả bao nhiêu bút?",
+     "options": [
+      "17",
+      "58",
+      "56",
+      "60"
+     ],
+     "correct": 1,
+     "explain": "8 × 7 = 56; 56 + 2 = 58 (bút)."
+    },
+    {
+     "q": "Có 8 túi, mỗi túi 8 kẹo. Người ta bỏ thêm 2 kẹo nữa. Hỏi có tất cả bao nhiêu kẹo?",
+     "options": [
+      "68",
+      "18",
+      "66",
+      "64"
+     ],
+     "correct": 2,
+     "explain": "8 × 8 = 64; 64 + 2 = 66 (kẹo)."
+    },
+    {
+     "q": "Có 9 rổ, mỗi rổ 9 cam. Người ta bỏ thêm 14 cam nữa. Hỏi có tất cả bao nhiêu cam?",
+     "options": [
+      "109",
+      "32",
+      "95",
+      "81"
+     ],
+     "correct": 2,
+     "explain": "9 × 9 = 81; 81 + 14 = 95 (cam)."
+    },
+    {
+     "q": "Có 7 túi, mỗi túi 6 kẹo. Người ta bỏ thêm 9 kẹo nữa. Hỏi có tất cả bao nhiêu kẹo?",
+     "options": [
+      "42",
+      "51",
+      "22",
+      "60"
+     ],
+     "correct": 1,
+     "explain": "7 × 6 = 42; 42 + 9 = 51 (kẹo)."
+    },
+    {
+     "q": "Có 9 hộp, mỗi hộp 6 bút. Người ta bỏ thêm 10 bút nữa. Hỏi có tất cả bao nhiêu bút?",
+     "options": [
+      "54",
+      "64",
+      "74",
+      "25"
+     ],
+     "correct": 1,
+     "explain": "9 × 6 = 54; 54 + 10 = 64 (bút)."
+    },
+    {
+     "q": "Có 4 thùng, mỗi thùng 5 chai. Người ta bỏ thêm 5 chai nữa. Hỏi có tất cả bao nhiêu chai?",
+     "options": [
+      "14",
+      "30",
+      "25",
+      "20"
+     ],
+     "correct": 2,
+     "explain": "4 × 5 = 20; 20 + 5 = 25 (chai)."
+    },
+    {
+     "q": "Có 4 hộp, mỗi hộp 4 bút. Người ta bỏ thêm 13 bút nữa. Hỏi có tất cả bao nhiêu bút?",
+     "options": [
+      "16",
+      "29",
+      "21",
+      "42"
+     ],
+     "correct": 1,
+     "explain": "4 × 4 = 16; 16 + 13 = 29 (bút)."
+    },
+    {
+     "q": "Có 5 túi, mỗi túi 7 kẹo. Người ta bỏ thêm 15 kẹo nữa. Hỏi có tất cả bao nhiêu kẹo?",
+     "options": [
+      "50",
+      "65",
+      "27",
+      "35"
+     ],
+     "correct": 0,
+     "explain": "5 × 7 = 35; 35 + 15 = 50 (kẹo)."
+    },
+    {
+     "q": "Có 3 túi, mỗi túi 9 kẹo. Người ta bỏ thêm 20 kẹo nữa. Hỏi có tất cả bao nhiêu kẹo?",
+     "options": [
+      "47",
+      "27",
+      "32",
+      "67"
+     ],
+     "correct": 0,
+     "explain": "3 × 9 = 27; 27 + 20 = 47 (kẹo)."
+    },
+    {
+     "q": "Có 6 rổ, mỗi rổ 8 cam. Người ta bỏ thêm 9 cam nữa. Hỏi có tất cả bao nhiêu cam?",
+     "options": [
+      "66",
+      "23",
+      "57",
+      "48"
+     ],
+     "correct": 2,
+     "explain": "6 × 8 = 48; 48 + 9 = 57 (cam)."
+    },
+    {
+     "q": "Có 9 rổ, mỗi rổ 7 cam. Người ta bỏ thêm 2 cam nữa. Hỏi có tất cả bao nhiêu cam?",
+     "options": [
+      "65",
+      "18",
+      "67",
+      "63"
+     ],
+     "correct": 0,
+     "explain": "9 × 7 = 63; 63 + 2 = 65 (cam)."
+    },
+    {
+     "q": "Có 6 thùng, mỗi thùng 9 chai. Người ta bỏ thêm 17 chai nữa. Hỏi có tất cả bao nhiêu chai?",
+     "options": [
+      "71",
+      "54",
+      "32",
+      "88"
+     ],
+     "correct": 0,
+     "explain": "6 × 9 = 54; 54 + 17 = 71 (chai)."
+    },
+    {
+     "q": "Có 6 hộp, mỗi hộp 4 bút. Người ta bỏ thêm 9 bút nữa. Hỏi có tất cả bao nhiêu bút?",
+     "options": [
+      "19",
+      "33",
+      "24",
+      "42"
+     ],
+     "correct": 1,
+     "explain": "6 × 4 = 24; 24 + 9 = 33 (bút)."
+    },
+    {
+     "q": "Có 9 hộp, mỗi hộp 7 bút. Người ta bỏ thêm 3 bút nữa. Hỏi có tất cả bao nhiêu bút?",
+     "options": [
+      "69",
+      "19",
+      "66",
+      "63"
+     ],
+     "correct": 2,
+     "explain": "9 × 7 = 63; 63 + 3 = 66 (bút)."
+    },
+    {
+     "q": "Có 7 thùng, mỗi thùng 6 chai. Người ta bỏ thêm 7 chai nữa. Hỏi có tất cả bao nhiêu chai?",
+     "options": [
+      "49",
+      "42",
+      "56",
+      "20"
+     ],
+     "correct": 0,
+     "explain": "7 × 6 = 42; 42 + 7 = 49 (chai)."
+    }
+   ]
+  },
+  {
+   "type": 2,
+   "title": "Bài 2 - Giải toán hai bước (nhân rồi trừ)",
+   "exercises": [
+    {
+     "q": "Có 7 rổ, mỗi rổ 4 cam. Người ta lấy ra 23 cam. Hỏi còn lại bao nhiêu cam?",
+     "options": [
+      "51",
+      "28",
+      "10",
+      "5"
+     ],
+     "correct": 3,
+     "explain": "7 × 4 = 28; 28 − 23 = 5 (cam)."
+    },
+    {
+     "q": "Có 8 túi, mỗi túi 5 kẹo. Người ta lấy ra 32 kẹo. Hỏi còn lại bao nhiêu kẹo?",
+     "options": [
+      "13",
+      "8",
+      "72",
+      "40"
+     ],
+     "correct": 1,
+     "explain": "8 × 5 = 40; 40 − 32 = 8 (kẹo)."
+    },
+    {
+     "q": "Có 6 rổ, mỗi rổ 5 cam. Người ta lấy ra 25 cam. Hỏi còn lại bao nhiêu cam?",
+     "options": [
+      "55",
+      "5",
+      "30",
+      "10"
+     ],
+     "correct": 1,
+     "explain": "6 × 5 = 30; 30 − 25 = 5 (cam)."
+    },
+    {
+     "q": "Có 8 thùng, mỗi thùng 9 chai. Người ta lấy ra 32 chai. Hỏi còn lại bao nhiêu chai?",
+     "options": [
+      "45",
+      "72",
+      "40",
+      "104"
+     ],
+     "correct": 2,
+     "explain": "8 × 9 = 72; 72 − 32 = 40 (chai)."
+    },
+    {
+     "q": "Có 5 túi, mỗi túi 4 kẹo. Người ta lấy ra 13 kẹo. Hỏi còn lại bao nhiêu kẹo?",
+     "options": [
+      "12",
+      "7",
+      "20",
+      "33"
+     ],
+     "correct": 1,
+     "explain": "5 × 4 = 20; 20 − 13 = 7 (kẹo)."
+    },
+    {
+     "q": "Có 4 túi, mỗi túi 6 kẹo. Người ta lấy ra 12 kẹo. Hỏi còn lại bao nhiêu kẹo?",
+     "options": [
+      "12",
+      "36",
+      "24",
+      "17"
+     ],
+     "correct": 0,
+     "explain": "4 × 6 = 24; 24 − 12 = 12 (kẹo)."
+    },
+    {
+     "q": "Có 9 thùng, mỗi thùng 7 chai. Người ta lấy ra 45 chai. Hỏi còn lại bao nhiêu chai?",
+     "options": [
+      "23",
+      "18",
+      "63",
+      "108"
+     ],
+     "correct": 1,
+     "explain": "9 × 7 = 63; 63 − 45 = 18 (chai)."
+    },
+    {
+     "q": "Có 6 rổ, mỗi rổ 4 cam. Người ta lấy ra 12 cam. Hỏi còn lại bao nhiêu cam?",
+     "options": [
+      "17",
+      "36",
+      "24",
+      "12"
+     ],
+     "correct": 3,
+     "explain": "6 × 4 = 24; 24 − 12 = 12 (cam)."
+    },
+    {
+     "q": "Có 9 rổ, mỗi rổ 8 cam. Người ta lấy ra 49 cam. Hỏi còn lại bao nhiêu cam?",
+     "options": [
+      "28",
+      "72",
+      "23",
+      "121"
+     ],
+     "correct": 2,
+     "explain": "9 × 8 = 72; 72 − 49 = 23 (cam)."
+    },
+    {
+     "q": "Có 6 thùng, mỗi thùng 8 chai. Người ta lấy ra 25 chai. Hỏi còn lại bao nhiêu chai?",
+     "options": [
+      "48",
+      "73",
+      "28",
+      "23"
+     ],
+     "correct": 3,
+     "explain": "6 × 8 = 48; 48 − 25 = 23 (chai)."
+    },
+    {
+     "q": "Có 4 túi, mỗi túi 6 kẹo. Người ta lấy ra 18 kẹo. Hỏi còn lại bao nhiêu kẹo?",
+     "options": [
+      "24",
+      "42",
+      "11",
+      "6"
+     ],
+     "correct": 3,
+     "explain": "4 × 6 = 24; 24 − 18 = 6 (kẹo)."
+    },
+    {
+     "q": "Có 5 hộp, mỗi hộp 9 bút. Người ta lấy ra 5 bút. Hỏi còn lại bao nhiêu bút?",
+     "options": [
+      "40",
+      "45",
+      "35",
+      "50"
+     ],
+     "correct": 0,
+     "explain": "5 × 9 = 45; 45 − 5 = 40 (bút)."
+    },
+    {
+     "q": "Có 6 thùng, mỗi thùng 6 chai. Người ta lấy ra 28 chai. Hỏi còn lại bao nhiêu chai?",
+     "options": [
+      "13",
+      "64",
+      "8",
+      "36"
+     ],
+     "correct": 2,
+     "explain": "6 × 6 = 36; 36 − 28 = 8 (chai)."
+    },
+    {
+     "q": "Có 7 thùng, mỗi thùng 5 chai. Người ta lấy ra 29 chai. Hỏi còn lại bao nhiêu chai?",
+     "options": [
+      "64",
+      "6",
+      "35",
+      "11"
+     ],
+     "correct": 1,
+     "explain": "7 × 5 = 35; 35 − 29 = 6 (chai)."
+    },
+    {
+     "q": "Có 4 túi, mỗi túi 7 kẹo. Người ta lấy ra 4 kẹo. Hỏi còn lại bao nhiêu kẹo?",
+     "options": [
+      "28",
+      "24",
+      "32",
+      "29"
+     ],
+     "correct": 1,
+     "explain": "4 × 7 = 28; 28 − 4 = 24 (kẹo)."
+    },
+    {
+     "q": "Có 9 hộp, mỗi hộp 8 bút. Người ta lấy ra 22 bút. Hỏi còn lại bao nhiêu bút?",
+     "options": [
+      "50",
+      "55",
+      "94",
+      "72"
+     ],
+     "correct": 0,
+     "explain": "9 × 8 = 72; 72 − 22 = 50 (bút)."
+    },
+    {
+     "q": "Có 9 túi, mỗi túi 9 kẹo. Người ta lấy ra 16 kẹo. Hỏi còn lại bao nhiêu kẹo?",
+     "options": [
+      "81",
+      "97",
+      "70",
+      "65"
+     ],
+     "correct": 3,
+     "explain": "9 × 9 = 81; 81 − 16 = 65 (kẹo)."
+    },
+    {
+     "q": "Có 9 túi, mỗi túi 7 kẹo. Người ta lấy ra 11 kẹo. Hỏi còn lại bao nhiêu kẹo?",
+     "options": [
+      "63",
+      "52",
+      "57",
+      "74"
+     ],
+     "correct": 1,
+     "explain": "9 × 7 = 63; 63 − 11 = 52 (kẹo)."
+    },
+    {
+     "q": "Có 5 túi, mỗi túi 8 kẹo. Người ta lấy ra 29 kẹo. Hỏi còn lại bao nhiêu kẹo?",
+     "options": [
+      "16",
+      "40",
+      "11",
+      "69"
+     ],
+     "correct": 2,
+     "explain": "5 × 8 = 40; 40 − 29 = 11 (kẹo)."
+    },
+    {
+     "q": "Có 4 túi, mỗi túi 6 kẹo. Người ta lấy ra 9 kẹo. Hỏi còn lại bao nhiêu kẹo?",
+     "options": [
+      "20",
+      "24",
+      "33",
+      "15"
+     ],
+     "correct": 3,
+     "explain": "4 × 6 = 24; 24 − 9 = 15 (kẹo)."
+    },
+    {
+     "q": "Có 9 thùng, mỗi thùng 8 chai. Người ta lấy ra 5 chai. Hỏi còn lại bao nhiêu chai?",
+     "options": [
+      "77",
+      "72",
+      "67",
+      "62"
+     ],
+     "correct": 2,
+     "explain": "9 × 8 = 72; 72 − 5 = 67 (chai)."
+    },
+    {
+     "q": "Có 6 túi, mỗi túi 8 kẹo. Người ta lấy ra 27 kẹo. Hỏi còn lại bao nhiêu kẹo?",
+     "options": [
+      "26",
+      "21",
+      "75",
+      "48"
+     ],
+     "correct": 1,
+     "explain": "6 × 8 = 48; 48 − 27 = 21 (kẹo)."
+    },
+    {
+     "q": "Có 6 thùng, mỗi thùng 6 chai. Người ta lấy ra 24 chai. Hỏi còn lại bao nhiêu chai?",
+     "options": [
+      "12",
+      "17",
+      "60",
+      "36"
+     ],
+     "correct": 0,
+     "explain": "6 × 6 = 36; 36 − 24 = 12 (chai)."
+    },
+    {
+     "q": "Có 4 thùng, mỗi thùng 7 chai. Người ta lấy ra 3 chai. Hỏi còn lại bao nhiêu chai?",
+     "options": [
+      "30",
+      "25",
+      "31",
+      "28"
+     ],
+     "correct": 1,
+     "explain": "4 × 7 = 28; 28 − 3 = 25 (chai)."
+    },
+    {
+     "q": "Có 8 rổ, mỗi rổ 6 cam. Người ta lấy ra 37 cam. Hỏi còn lại bao nhiêu cam?",
+     "options": [
+      "16",
+      "11",
+      "85",
+      "48"
+     ],
+     "correct": 1,
+     "explain": "8 × 6 = 48; 48 − 37 = 11 (cam)."
+    },
+    {
+     "q": "Có 5 hộp, mỗi hộp 9 bút. Người ta lấy ra 6 bút. Hỏi còn lại bao nhiêu bút?",
+     "options": [
+      "45",
+      "51",
+      "39",
+      "44"
+     ],
+     "correct": 2,
+     "explain": "5 × 9 = 45; 45 − 6 = 39 (bút)."
+    },
+    {
+     "q": "Có 9 rổ, mỗi rổ 7 cam. Người ta lấy ra 32 cam. Hỏi còn lại bao nhiêu cam?",
+     "options": [
+      "31",
+      "95",
+      "36",
+      "63"
+     ],
+     "correct": 0,
+     "explain": "9 × 7 = 63; 63 − 32 = 31 (cam)."
+    },
+    {
+     "q": "Có 7 thùng, mỗi thùng 5 chai. Người ta lấy ra 4 chai. Hỏi còn lại bao nhiêu chai?",
+     "options": [
+      "36",
+      "31",
+      "35",
+      "39"
+     ],
+     "correct": 1,
+     "explain": "7 × 5 = 35; 35 − 4 = 31 (chai)."
+    },
+    {
+     "q": "Có 9 thùng, mỗi thùng 4 chai. Người ta lấy ra 26 chai. Hỏi còn lại bao nhiêu chai?",
+     "options": [
+      "36",
+      "10",
+      "62",
+      "15"
+     ],
+     "correct": 1,
+     "explain": "9 × 4 = 36; 36 − 26 = 10 (chai)."
+    }
+   ]
+  },
+  {
+   "type": 3,
+   "title": "Bài 3 - Giải toán hai bước (gộp rồi nhân)",
+   "exercises": [
+    {
+     "q": "Buổi sáng bán được 3 giỏ, buổi chiều bán được 2 giỏ, mỗi giỏ có 2 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "10",
+      "6",
+      "4",
+      "7"
+     ],
+     "correct": 0,
+     "explain": "(3 + 2) × 2 = 5 × 2 = 10 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 5 giỏ, buổi chiều bán được 3 giỏ, mỗi giỏ có 5 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "40",
+      "13",
+      "15",
+      "25"
+     ],
+     "correct": 0,
+     "explain": "(5 + 3) × 5 = 8 × 5 = 40 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 3 giỏ, buổi chiều bán được 9 giỏ, mỗi giỏ có 7 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "19",
+      "84",
+      "63",
+      "21"
+     ],
+     "correct": 1,
+     "explain": "(3 + 9) × 7 = 12 × 7 = 84 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 3 giỏ, buổi chiều bán được 6 giỏ, mỗi giỏ có 2 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "12",
+      "11",
+      "18",
+      "6"
+     ],
+     "correct": 2,
+     "explain": "(3 + 6) × 2 = 9 × 2 = 18 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 5 giỏ, buổi chiều bán được 4 giỏ, mỗi giỏ có 4 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "13",
+      "36",
+      "16",
+      "20"
+     ],
+     "correct": 1,
+     "explain": "(5 + 4) × 4 = 9 × 4 = 36 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 3 giỏ, buổi chiều bán được 7 giỏ, mỗi giỏ có 2 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "14",
+      "20",
+      "6",
+      "12"
+     ],
+     "correct": 1,
+     "explain": "(3 + 7) × 2 = 10 × 2 = 20 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 2 giỏ, buổi chiều bán được 3 giỏ, mỗi giỏ có 9 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "45",
+      "14",
+      "18",
+      "27"
+     ],
+     "correct": 0,
+     "explain": "(2 + 3) × 9 = 5 × 9 = 45 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 2 giỏ, buổi chiều bán được 4 giỏ, mỗi giỏ có 3 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "18",
+      "9",
+      "12",
+      "6"
+     ],
+     "correct": 0,
+     "explain": "(2 + 4) × 3 = 6 × 3 = 18 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 3 giỏ, buổi chiều bán được 3 giỏ, mỗi giỏ có 3 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "9",
+      "19",
+      "18",
+      "17"
+     ],
+     "correct": 2,
+     "explain": "(3 + 3) × 3 = 6 × 3 = 18 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 9 giỏ, buổi chiều bán được 5 giỏ, mỗi giỏ có 3 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "17",
+      "15",
+      "27",
+      "42"
+     ],
+     "correct": 3,
+     "explain": "(9 + 5) × 3 = 14 × 3 = 42 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 5 giỏ, buổi chiều bán được 2 giỏ, mỗi giỏ có 3 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "21",
+      "10",
+      "15",
+      "6"
+     ],
+     "correct": 0,
+     "explain": "(5 + 2) × 3 = 7 × 3 = 21 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 5 giỏ, buổi chiều bán được 4 giỏ, mỗi giỏ có 8 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "17",
+      "32",
+      "72",
+      "40"
+     ],
+     "correct": 2,
+     "explain": "(5 + 4) × 8 = 9 × 8 = 72 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 6 giỏ, buổi chiều bán được 9 giỏ, mỗi giỏ có 5 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "20",
+      "45",
+      "30",
+      "75"
+     ],
+     "correct": 3,
+     "explain": "(6 + 9) × 5 = 15 × 5 = 75 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 5 giỏ, buổi chiều bán được 8 giỏ, mỗi giỏ có 6 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "30",
+      "48",
+      "78",
+      "19"
+     ],
+     "correct": 2,
+     "explain": "(5 + 8) × 6 = 13 × 6 = 78 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 4 giỏ, buổi chiều bán được 7 giỏ, mỗi giỏ có 7 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "28",
+      "18",
+      "49",
+      "77"
+     ],
+     "correct": 3,
+     "explain": "(4 + 7) × 7 = 11 × 7 = 77 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 4 giỏ, buổi chiều bán được 4 giỏ, mỗi giỏ có 6 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "49",
+      "24",
+      "48",
+      "14"
+     ],
+     "correct": 2,
+     "explain": "(4 + 4) × 6 = 8 × 6 = 48 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 4 giỏ, buổi chiều bán được 9 giỏ, mỗi giỏ có 7 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "63",
+      "20",
+      "91",
+      "28"
+     ],
+     "correct": 2,
+     "explain": "(4 + 9) × 7 = 13 × 7 = 91 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 8 giỏ, buổi chiều bán được 2 giỏ, mỗi giỏ có 4 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "32",
+      "40",
+      "8",
+      "14"
+     ],
+     "correct": 1,
+     "explain": "(8 + 2) × 4 = 10 × 4 = 40 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 4 giỏ, buổi chiều bán được 2 giỏ, mỗi giỏ có 9 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "18",
+      "36",
+      "54",
+      "15"
+     ],
+     "correct": 2,
+     "explain": "(4 + 2) × 9 = 6 × 9 = 54 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 7 giỏ, buổi chiều bán được 7 giỏ, mỗi giỏ có 8 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "113",
+      "112",
+      "56",
+      "22"
+     ],
+     "correct": 1,
+     "explain": "(7 + 7) × 8 = 14 × 8 = 112 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 6 giỏ, buổi chiều bán được 9 giỏ, mỗi giỏ có 2 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "17",
+      "30",
+      "18",
+      "12"
+     ],
+     "correct": 1,
+     "explain": "(6 + 9) × 2 = 15 × 2 = 30 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 3 giỏ, buổi chiều bán được 4 giỏ, mỗi giỏ có 8 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "56",
+      "15",
+      "24",
+      "32"
+     ],
+     "correct": 0,
+     "explain": "(3 + 4) × 8 = 7 × 8 = 56 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 2 giỏ, buổi chiều bán được 2 giỏ, mỗi giỏ có 5 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "21",
+      "9",
+      "20",
+      "10"
+     ],
+     "correct": 2,
+     "explain": "(2 + 2) × 5 = 4 × 5 = 20 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 7 giỏ, buổi chiều bán được 9 giỏ, mỗi giỏ có 5 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "80",
+      "21",
+      "45",
+      "35"
+     ],
+     "correct": 0,
+     "explain": "(7 + 9) × 5 = 16 × 5 = 80 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 9 giỏ, buổi chiều bán được 5 giỏ, mỗi giỏ có 2 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "18",
+      "10",
+      "28",
+      "16"
+     ],
+     "correct": 2,
+     "explain": "(9 + 5) × 2 = 14 × 2 = 28 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 3 giỏ, buổi chiều bán được 9 giỏ, mỗi giỏ có 8 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "72",
+      "20",
+      "96",
+      "24"
+     ],
+     "correct": 2,
+     "explain": "(3 + 9) × 8 = 12 × 8 = 96 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 2 giỏ, buổi chiều bán được 9 giỏ, mỗi giỏ có 6 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "54",
+      "66",
+      "17",
+      "12"
+     ],
+     "correct": 1,
+     "explain": "(2 + 9) × 6 = 11 × 6 = 66 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 5 giỏ, buổi chiều bán được 5 giỏ, mỗi giỏ có 9 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "91",
+      "90",
+      "45",
+      "19"
+     ],
+     "correct": 1,
+     "explain": "(5 + 5) × 9 = 10 × 9 = 90 (quả)."
+    },
+    {
+     "q": "Buổi sáng bán được 3 giỏ, buổi chiều bán được 6 giỏ, mỗi giỏ có 8 quả. Hỏi cả ngày bán được bao nhiêu quả?",
+     "options": [
+      "24",
+      "17",
+      "48",
+      "72"
+     ],
+     "correct": 3,
+     "explain": "(3 + 6) × 8 = 9 × 8 = 72 (quả)."
+    }
+   ]
+  },
+  {
+   "type": 4,
+   "title": "Bài 4 - Giải toán hai bước (gấp số lần)",
+   "exercises": [
+    {
+     "q": "An có 10 viên bi. Số bi của An gấp lên 5 lần rồi bớt 40 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "90",
+      "50",
+      "10",
+      "15"
+     ],
+     "correct": 2,
+     "explain": "10 × 5 = 50; 50 − 40 = 10 (viên)."
+    },
+    {
+     "q": "An có 11 viên bi. Số bi của An gấp lên 4 lần rồi thêm 7 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "44",
+      "51",
+      "15",
+      "58"
+     ],
+     "correct": 1,
+     "explain": "11 × 4 = 44; 44 + 7 = 51 (viên)."
+    },
+    {
+     "q": "An có 7 viên bi. Số bi của An gấp lên 3 lần rồi bớt 13 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "34",
+      "21",
+      "8",
+      "10"
+     ],
+     "correct": 2,
+     "explain": "7 × 3 = 21; 21 − 13 = 8 (viên)."
+    },
+    {
+     "q": "An có 15 viên bi. Số bi của An gấp lên 3 lần rồi bớt 37 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "82",
+      "45",
+      "8",
+      "18"
+     ],
+     "correct": 2,
+     "explain": "15 × 3 = 45; 45 − 37 = 8 (viên)."
+    },
+    {
+     "q": "An có 3 viên bi. Số bi của An gấp lên 2 lần rồi thêm 2 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "10",
+      "6",
+      "8",
+      "5"
+     ],
+     "correct": 2,
+     "explain": "3 × 2 = 6; 6 + 2 = 8 (viên)."
+    },
+    {
+     "q": "An có 9 viên bi. Số bi của An gấp lên 4 lần rồi thêm 20 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "76",
+      "13",
+      "36",
+      "56"
+     ],
+     "correct": 3,
+     "explain": "9 × 4 = 36; 36 + 20 = 56 (viên)."
+    },
+    {
+     "q": "An có 10 viên bi. Số bi của An gấp lên 3 lần rồi bớt 13 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "17",
+      "43",
+      "13",
+      "30"
+     ],
+     "correct": 0,
+     "explain": "10 × 3 = 30; 30 − 13 = 17 (viên)."
+    },
+    {
+     "q": "An có 4 viên bi. Số bi của An gấp lên 2 lần rồi thêm 19 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "8",
+      "6",
+      "27",
+      "46"
+     ],
+     "correct": 2,
+     "explain": "4 × 2 = 8; 8 + 19 = 27 (viên)."
+    },
+    {
+     "q": "An có 5 viên bi. Số bi của An gấp lên 2 lần rồi thêm 4 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "18",
+      "14",
+      "10",
+      "7"
+     ],
+     "correct": 1,
+     "explain": "5 × 2 = 10; 10 + 4 = 14 (viên)."
+    },
+    {
+     "q": "An có 11 viên bi. Số bi của An gấp lên 2 lần rồi thêm 20 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "22",
+      "62",
+      "13",
+      "42"
+     ],
+     "correct": 3,
+     "explain": "11 × 2 = 22; 22 + 20 = 42 (viên)."
+    },
+    {
+     "q": "An có 13 viên bi. Số bi của An gấp lên 5 lần rồi bớt 10 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "18",
+      "75",
+      "55",
+      "65"
+     ],
+     "correct": 2,
+     "explain": "13 × 5 = 65; 65 − 10 = 55 (viên)."
+    },
+    {
+     "q": "An có 4 viên bi. Số bi của An gấp lên 2 lần rồi bớt 6 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "8",
+      "2",
+      "6",
+      "14"
+     ],
+     "correct": 1,
+     "explain": "4 × 2 = 8; 8 − 6 = 2 (viên)."
+    },
+    {
+     "q": "An có 8 viên bi. Số bi của An gấp lên 3 lần rồi bớt 12 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "12",
+      "36",
+      "24",
+      "11"
+     ],
+     "correct": 0,
+     "explain": "8 × 3 = 24; 24 − 12 = 12 (viên)."
+    },
+    {
+     "q": "An có 6 viên bi. Số bi của An gấp lên 2 lần rồi thêm 14 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "8",
+      "12",
+      "26",
+      "40"
+     ],
+     "correct": 2,
+     "explain": "6 × 2 = 12; 12 + 14 = 26 (viên)."
+    },
+    {
+     "q": "An có 6 viên bi. Số bi của An gấp lên 3 lần rồi thêm 17 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "9",
+      "35",
+      "52",
+      "18"
+     ],
+     "correct": 1,
+     "explain": "6 × 3 = 18; 18 + 17 = 35 (viên)."
+    },
+    {
+     "q": "An có 4 viên bi. Số bi của An gấp lên 3 lần rồi bớt 6 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "12",
+      "6",
+      "7",
+      "18"
+     ],
+     "correct": 1,
+     "explain": "4 × 3 = 12; 12 − 6 = 6 (viên)."
+    },
+    {
+     "q": "An có 10 viên bi. Số bi của An gấp lên 4 lần rồi bớt 16 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "56",
+      "24",
+      "40",
+      "14"
+     ],
+     "correct": 1,
+     "explain": "10 × 4 = 40; 40 − 16 = 24 (viên)."
+    },
+    {
+     "q": "An có 13 viên bi. Số bi của An gấp lên 4 lần rồi thêm 17 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "52",
+      "86",
+      "17",
+      "69"
+     ],
+     "correct": 3,
+     "explain": "13 × 4 = 52; 52 + 17 = 69 (viên)."
+    },
+    {
+     "q": "An có 7 viên bi. Số bi của An gấp lên 5 lần rồi bớt 7 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "28",
+      "35",
+      "42",
+      "12"
+     ],
+     "correct": 0,
+     "explain": "7 × 5 = 35; 35 − 7 = 28 (viên)."
+    },
+    {
+     "q": "An có 4 viên bi. Số bi của An gấp lên 3 lần rồi thêm 19 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "31",
+      "7",
+      "50",
+      "12"
+     ],
+     "correct": 0,
+     "explain": "4 × 3 = 12; 12 + 19 = 31 (viên)."
+    },
+    {
+     "q": "An có 5 viên bi. Số bi của An gấp lên 4 lần rồi thêm 17 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "37",
+      "20",
+      "9",
+      "54"
+     ],
+     "correct": 0,
+     "explain": "5 × 4 = 20; 20 + 17 = 37 (viên)."
+    },
+    {
+     "q": "An có 10 viên bi. Số bi của An gấp lên 3 lần rồi thêm 10 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "30",
+      "40",
+      "13",
+      "50"
+     ],
+     "correct": 1,
+     "explain": "10 × 3 = 30; 30 + 10 = 40 (viên)."
+    },
+    {
+     "q": "An có 6 viên bi. Số bi của An gấp lên 5 lần rồi thêm 3 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "33",
+      "11",
+      "36",
+      "30"
+     ],
+     "correct": 0,
+     "explain": "6 × 5 = 30; 30 + 3 = 33 (viên)."
+    },
+    {
+     "q": "An có 8 viên bi. Số bi của An gấp lên 4 lần rồi thêm 18 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "12",
+      "32",
+      "68",
+      "50"
+     ],
+     "correct": 3,
+     "explain": "8 × 4 = 32; 32 + 18 = 50 (viên)."
+    },
+    {
+     "q": "An có 8 viên bi. Số bi của An gấp lên 2 lần rồi bớt 7 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "9",
+      "23",
+      "10",
+      "16"
+     ],
+     "correct": 0,
+     "explain": "8 × 2 = 16; 16 − 7 = 9 (viên)."
+    },
+    {
+     "q": "An có 13 viên bi. Số bi của An gấp lên 2 lần rồi thêm 4 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "30",
+      "26",
+      "34",
+      "15"
+     ],
+     "correct": 0,
+     "explain": "13 × 2 = 26; 26 + 4 = 30 (viên)."
+    },
+    {
+     "q": "An có 6 viên bi. Số bi của An gấp lên 5 lần rồi bớt 27 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "57",
+      "30",
+      "11",
+      "3"
+     ],
+     "correct": 3,
+     "explain": "6 × 5 = 30; 30 − 27 = 3 (viên)."
+    },
+    {
+     "q": "An có 4 viên bi. Số bi của An gấp lên 4 lần rồi thêm 20 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "36",
+      "56",
+      "16",
+      "8"
+     ],
+     "correct": 0,
+     "explain": "4 × 4 = 16; 16 + 20 = 36 (viên)."
+    },
+    {
+     "q": "An có 3 viên bi. Số bi của An gấp lên 5 lần rồi thêm 15 viên thì được số bi của Bình. Hỏi Bình có bao nhiêu viên bi?",
+     "options": [
+      "8",
+      "45",
+      "15",
+      "30"
+     ],
+     "correct": 3,
+     "explain": "3 × 5 = 15; 15 + 15 = 30 (viên)."
+    }
+   ]
+  },
+  {
+   "type": 5,
+   "title": "Bài 5 - Giải toán hai bước (nhân rồi chia)",
+   "exercises": [
+    {
+     "q": "Có 8 hộp, mỗi hộp 6 cái bánh. Số bánh đó chia đều cho 4 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "24",
+      "13",
+      "12",
+      "48"
+     ],
+     "correct": 2,
+     "explain": "8 × 6 = 48; 48 ÷ 4 = 12 (cái)."
+    },
+    {
+     "q": "Có 5 hộp, mỗi hộp 4 cái bánh. Số bánh đó chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "10",
+      "9",
+      "20",
+      "11"
+     ],
+     "correct": 0,
+     "explain": "5 × 4 = 20; 20 ÷ 2 = 10 (cái)."
+    },
+    {
+     "q": "Có 9 hộp, mỗi hộp 8 cái bánh. Số bánh đó chia đều cho 8 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "36",
+      "72",
+      "10",
+      "9"
+     ],
+     "correct": 3,
+     "explain": "9 × 8 = 72; 72 ÷ 8 = 9 (cái)."
+    },
+    {
+     "q": "Có 3 hộp, mỗi hộp 5 cái bánh. Số bánh đó chia đều cho 5 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "3",
+      "15",
+      "5",
+      "4"
+     ],
+     "correct": 0,
+     "explain": "3 × 5 = 15; 15 ÷ 5 = 3 (cái)."
+    },
+    {
+     "q": "Có 3 hộp, mỗi hộp 5 cái bánh. Số bánh đó chia đều cho 3 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "15",
+      "5",
+      "7",
+      "6"
+     ],
+     "correct": 1,
+     "explain": "3 × 5 = 15; 15 ÷ 3 = 5 (cái)."
+    },
+    {
+     "q": "Có 7 hộp, mỗi hộp 4 cái bánh. Số bánh đó chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "13",
+      "14",
+      "28",
+      "15"
+     ],
+     "correct": 1,
+     "explain": "7 × 4 = 28; 28 ÷ 2 = 14 (cái)."
+    },
+    {
+     "q": "Có 3 hộp, mỗi hộp 8 cái bánh. Số bánh đó chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "11",
+      "12",
+      "24",
+      "13"
+     ],
+     "correct": 1,
+     "explain": "3 × 8 = 24; 24 ÷ 2 = 12 (cái)."
+    },
+    {
+     "q": "Có 3 hộp, mỗi hộp 7 cái bánh. Số bánh đó chia đều cho 3 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "21",
+      "8",
+      "9",
+      "7"
+     ],
+     "correct": 3,
+     "explain": "3 × 7 = 21; 21 ÷ 3 = 7 (cái)."
+    },
+    {
+     "q": "Có 5 hộp, mỗi hộp 6 cái bánh. Số bánh đó chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "14",
+      "15",
+      "16",
+      "30"
+     ],
+     "correct": 1,
+     "explain": "5 × 6 = 30; 30 ÷ 2 = 15 (cái)."
+    },
+    {
+     "q": "Có 9 hộp, mỗi hộp 9 cái bánh. Số bánh đó chia đều cho 3 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "81",
+      "27",
+      "28",
+      "29"
+     ],
+     "correct": 1,
+     "explain": "9 × 9 = 81; 81 ÷ 3 = 27 (cái)."
+    },
+    {
+     "q": "Có 4 hộp, mỗi hộp 5 cái bánh. Số bánh đó chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "20",
+      "11",
+      "9",
+      "10"
+     ],
+     "correct": 3,
+     "explain": "4 × 5 = 20; 20 ÷ 2 = 10 (cái)."
+    },
+    {
+     "q": "Có 8 hộp, mỗi hộp 5 cái bánh. Số bánh đó chia đều cho 4 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "40",
+      "10",
+      "11",
+      "20"
+     ],
+     "correct": 1,
+     "explain": "8 × 5 = 40; 40 ÷ 4 = 10 (cái)."
+    },
+    {
+     "q": "Có 6 hộp, mỗi hộp 8 cái bánh. Số bánh đó chia đều cho 4 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "48",
+      "13",
+      "12",
+      "24"
+     ],
+     "correct": 2,
+     "explain": "6 × 8 = 48; 48 ÷ 4 = 12 (cái)."
+    },
+    {
+     "q": "Có 9 hộp, mỗi hộp 6 cái bánh. Số bánh đó chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "54",
+      "26",
+      "27",
+      "28"
+     ],
+     "correct": 2,
+     "explain": "9 × 6 = 54; 54 ÷ 2 = 27 (cái)."
+    },
+    {
+     "q": "Có 9 hộp, mỗi hộp 6 cái bánh. Số bánh đó chia đều cho 6 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "9",
+      "10",
+      "27",
+      "54"
+     ],
+     "correct": 0,
+     "explain": "9 × 6 = 54; 54 ÷ 6 = 9 (cái)."
+    },
+    {
+     "q": "Có 6 hộp, mỗi hộp 8 cái bánh. Số bánh đó chia đều cho 8 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "6",
+      "24",
+      "48",
+      "7"
+     ],
+     "correct": 0,
+     "explain": "6 × 8 = 48; 48 ÷ 8 = 6 (cái)."
+    },
+    {
+     "q": "Có 6 hộp, mỗi hộp 6 cái bánh. Số bánh đó chia đều cho 3 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "13",
+      "18",
+      "36",
+      "12"
+     ],
+     "correct": 3,
+     "explain": "6 × 6 = 36; 36 ÷ 3 = 12 (cái)."
+    },
+    {
+     "q": "Có 7 hộp, mỗi hộp 7 cái bánh. Số bánh đó chia đều cho 7 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "49",
+      "7",
+      "9",
+      "8"
+     ],
+     "correct": 1,
+     "explain": "7 × 7 = 49; 49 ÷ 7 = 7 (cái)."
+    },
+    {
+     "q": "Có 5 hộp, mỗi hộp 5 cái bánh. Số bánh đó chia đều cho 5 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "7",
+      "5",
+      "25",
+      "6"
+     ],
+     "correct": 1,
+     "explain": "5 × 5 = 25; 25 ÷ 5 = 5 (cái)."
+    },
+    {
+     "q": "Có 9 hộp, mỗi hộp 4 cái bánh. Số bánh đó chia đều cho 4 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "36",
+      "10",
+      "9",
+      "18"
+     ],
+     "correct": 2,
+     "explain": "9 × 4 = 36; 36 ÷ 4 = 9 (cái)."
+    },
+    {
+     "q": "Có 3 hộp, mỗi hộp 8 cái bánh. Số bánh đó chia đều cho 6 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "5",
+      "4",
+      "12",
+      "24"
+     ],
+     "correct": 1,
+     "explain": "3 × 8 = 24; 24 ÷ 6 = 4 (cái)."
+    },
+    {
+     "q": "Có 4 hộp, mỗi hộp 3 cái bánh. Số bánh đó chia đều cho 3 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "5",
+      "4",
+      "6",
+      "12"
+     ],
+     "correct": 1,
+     "explain": "4 × 3 = 12; 12 ÷ 3 = 4 (cái)."
+    },
+    {
+     "q": "Có 5 hộp, mỗi hộp 6 cái bánh. Số bánh đó chia đều cho 6 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "5",
+      "6",
+      "15",
+      "30"
+     ],
+     "correct": 0,
+     "explain": "5 × 6 = 30; 30 ÷ 6 = 5 (cái)."
+    },
+    {
+     "q": "Có 4 hộp, mỗi hộp 3 cái bánh. Số bánh đó chia đều cho 4 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "4",
+      "3",
+      "12",
+      "6"
+     ],
+     "correct": 1,
+     "explain": "4 × 3 = 12; 12 ÷ 4 = 3 (cái)."
+    },
+    {
+     "q": "Có 6 hộp, mỗi hộp 3 cái bánh. Số bánh đó chia đều cho 3 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "18",
+      "7",
+      "6",
+      "9"
+     ],
+     "correct": 2,
+     "explain": "6 × 3 = 18; 18 ÷ 3 = 6 (cái)."
+    },
+    {
+     "q": "Có 6 hộp, mỗi hộp 5 cái bánh. Số bánh đó chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "15",
+      "30",
+      "16",
+      "14"
+     ],
+     "correct": 0,
+     "explain": "6 × 5 = 30; 30 ÷ 2 = 15 (cái)."
+    },
+    {
+     "q": "Có 8 hộp, mỗi hộp 4 cái bánh. Số bánh đó chia đều cho 4 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "9",
+      "16",
+      "8",
+      "32"
+     ],
+     "correct": 2,
+     "explain": "8 × 4 = 32; 32 ÷ 4 = 8 (cái)."
+    },
+    {
+     "q": "Có 5 hộp, mỗi hộp 9 cái bánh. Số bánh đó chia đều cho 5 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "9",
+      "10",
+      "45",
+      "11"
+     ],
+     "correct": 0,
+     "explain": "5 × 9 = 45; 45 ÷ 5 = 9 (cái)."
+    },
+    {
+     "q": "Có 6 hộp, mỗi hộp 9 cái bánh. Số bánh đó chia đều cho 3 bạn. Hỏi mỗi bạn được bao nhiêu cái?",
+     "options": [
+      "19",
+      "54",
+      "18",
+      "27"
+     ],
+     "correct": 2,
+     "explain": "6 × 9 = 54; 54 ÷ 3 = 18 (cái)."
+    }
+   ]
+  },
+  {
+   "type": 6,
+   "title": "Bài 6 - Đặt tính rồi tính",
+   "exercises": [
+    {
+     "q": "Đặt tính rồi tính: 292 + 466 = ?",
+     "options": [
+      "858",
+      "758",
+      "748",
+      "768"
+     ],
+     "correct": 1,
+     "explain": "292 + 466 = 758."
+    },
+    {
+     "q": "Đặt tính rồi tính: 156 + 192 = ?",
+     "options": [
+      "348",
+      "338",
+      "448",
+      "358"
+     ],
+     "correct": 0,
+     "explain": "156 + 192 = 348."
+    },
+    {
+     "q": "Đặt tính rồi tính: 114 × 3 = ?",
+     "options": [
+      "345",
+      "339",
+      "342",
+      "352"
+     ],
+     "correct": 2,
+     "explain": "114 × 3 = 342."
+    },
+    {
+     "q": "Đặt tính rồi tính: 45 × 6 = ?",
+     "options": [
+      "270",
+      "264",
+      "276",
+      "280"
+     ],
+     "correct": 0,
+     "explain": "45 × 6 = 270."
+    },
+    {
+     "q": "Đặt tính rồi tính: 786 + 144 = ?",
+     "options": [
+      "930",
+      "920",
+      "940",
+      "1030"
+     ],
+     "correct": 0,
+     "explain": "786 + 144 = 930."
+    },
+    {
+     "q": "Đặt tính rồi tính: 98 × 3 = ?",
+     "options": [
+      "294",
+      "304",
+      "291",
+      "297"
+     ],
+     "correct": 0,
+     "explain": "98 × 3 = 294."
+    },
+    {
+     "q": "Đặt tính rồi tính: 168 × 9 = ?",
+     "options": [
+      "1522",
+      "1503",
+      "1512",
+      "1521"
+     ],
+     "correct": 2,
+     "explain": "168 × 9 = 1512."
+    },
+    {
+     "q": "Đặt tính rồi tính: 438 + 135 = ?",
+     "options": [
+      "673",
+      "573",
+      "563",
+      "583"
+     ],
+     "correct": 1,
+     "explain": "438 + 135 = 573."
+    },
+    {
+     "q": "Đặt tính rồi tính: 413 + 409 = ?",
+     "options": [
+      "832",
+      "812",
+      "822",
+      "922"
+     ],
+     "correct": 2,
+     "explain": "413 + 409 = 822."
+    },
+    {
+     "q": "Đặt tính rồi tính: 41 × 7 = ?",
+     "options": [
+      "287",
+      "297",
+      "280",
+      "294"
+     ],
+     "correct": 0,
+     "explain": "41 × 7 = 287."
+    },
+    {
+     "q": "Đặt tính rồi tính: 751 − 114 = ?",
+     "options": [
+      "638",
+      "627",
+      "647",
+      "637"
+     ],
+     "correct": 3,
+     "explain": "751 − 114 = 637."
+    },
+    {
+     "q": "Đặt tính rồi tính: 835 + 102 = ?",
+     "options": [
+      "1037",
+      "937",
+      "947",
+      "927"
+     ],
+     "correct": 1,
+     "explain": "835 + 102 = 937."
+    },
+    {
+     "q": "Đặt tính rồi tính: 737 + 135 = ?",
+     "options": [
+      "862",
+      "882",
+      "972",
+      "872"
+     ],
+     "correct": 3,
+     "explain": "737 + 135 = 872."
+    },
+    {
+     "q": "Đặt tính rồi tính: 105 × 3 = ?",
+     "options": [
+      "312",
+      "318",
+      "325",
+      "315"
+     ],
+     "correct": 3,
+     "explain": "105 × 3 = 315."
+    },
+    {
+     "q": "Đặt tính rồi tính: 424 − 58 = ?",
+     "options": [
+      "376",
+      "366",
+      "367",
+      "356"
+     ],
+     "correct": 1,
+     "explain": "424 − 58 = 366."
+    },
+    {
+     "q": "Đặt tính rồi tính: 716 + 241 = ?",
+     "options": [
+      "1057",
+      "967",
+      "957",
+      "947"
+     ],
+     "correct": 2,
+     "explain": "716 + 241 = 957."
+    },
+    {
+     "q": "Đặt tính rồi tính: 366 − 108 = ?",
+     "options": [
+      "248",
+      "268",
+      "258",
+      "259"
+     ],
+     "correct": 2,
+     "explain": "366 − 108 = 258."
+    },
+    {
+     "q": "Đặt tính rồi tính: 718 + 116 = ?",
+     "options": [
+      "934",
+      "824",
+      "844",
+      "834"
+     ],
+     "correct": 3,
+     "explain": "718 + 116 = 834."
+    },
+    {
+     "q": "Đặt tính rồi tính: 642 − 528 = ?",
+     "options": [
+      "124",
+      "115",
+      "104",
+      "114"
+     ],
+     "correct": 3,
+     "explain": "642 − 528 = 114."
+    },
+    {
+     "q": "Đặt tính rồi tính: 282 − 156 = ?",
+     "options": [
+      "126",
+      "116",
+      "127",
+      "136"
+     ],
+     "correct": 0,
+     "explain": "282 − 156 = 126."
+    },
+    {
+     "q": "Đặt tính rồi tính: 696 − 204 = ?",
+     "options": [
+      "492",
+      "482",
+      "502",
+      "493"
+     ],
+     "correct": 0,
+     "explain": "696 − 204 = 492."
+    },
+    {
+     "q": "Đặt tính rồi tính: 12 × 7 = ?",
+     "options": [
+      "91",
+      "94",
+      "84",
+      "77"
+     ],
+     "correct": 2,
+     "explain": "12 × 7 = 84."
+    },
+    {
+     "q": "Đặt tính rồi tính: 522 − 146 = ?",
+     "options": [
+      "376",
+      "377",
+      "386",
+      "366"
+     ],
+     "correct": 0,
+     "explain": "522 − 146 = 376."
+    },
+    {
+     "q": "Đặt tính rồi tính: 570 − 313 = ?",
+     "options": [
+      "267",
+      "257",
+      "258",
+      "247"
+     ],
+     "correct": 1,
+     "explain": "570 − 313 = 257."
+    },
+    {
+     "q": "Đặt tính rồi tính: 690 − 184 = ?",
+     "options": [
+      "516",
+      "496",
+      "506",
+      "507"
+     ],
+     "correct": 2,
+     "explain": "690 − 184 = 506."
+    },
+    {
+     "q": "Đặt tính rồi tính: 450 − 236 = ?",
+     "options": [
+      "215",
+      "204",
+      "214",
+      "224"
+     ],
+     "correct": 2,
+     "explain": "450 − 236 = 214."
+    },
+    {
+     "q": "Đặt tính rồi tính: 621 − 227 = ?",
+     "options": [
+      "404",
+      "384",
+      "394",
+      "395"
+     ],
+     "correct": 2,
+     "explain": "621 − 227 = 394."
+    },
+    {
+     "q": "Đặt tính rồi tính: 25 × 5 = ?",
+     "options": [
+      "130",
+      "120",
+      "135",
+      "125"
+     ],
+     "correct": 3,
+     "explain": "25 × 5 = 125."
+    },
+    {
+     "q": "Đặt tính rồi tính: 113 × 3 = ?",
+     "options": [
+      "342",
+      "336",
+      "349",
+      "339"
+     ],
+     "correct": 3,
+     "explain": "113 × 3 = 339."
+    }
+   ]
+  },
+  {
+   "type": 7,
+   "title": "Bài 7 - Dạng toán tăng, giảm số lần",
+   "exercises": [
+    {
+     "q": "Thùng A có 15 lít, thùng B có 5 lít. Hỏi thùng A gấp mấy lần thùng B?",
+     "options": [
+      "5",
+      "3",
+      "4",
+      "15"
+     ],
+     "correct": 1,
+     "explain": "15 ÷ 5 = 3 (lần)."
+    },
+    {
+     "q": "Số 33 được giảm đi 3 lần thì được số nào?",
+     "options": [
+      "33",
+      "12",
+      "30",
+      "11"
+     ],
+     "correct": 3,
+     "explain": "Giảm 3 lần: 33 ÷ 3 = 11."
+    },
+    {
+     "q": "Thùng A có 36 lít, thùng B có 9 lít. Hỏi thùng A gấp mấy lần thùng B?",
+     "options": [
+      "5",
+      "9",
+      "4",
+      "36"
+     ],
+     "correct": 2,
+     "explain": "36 ÷ 9 = 4 (lần)."
+    },
+    {
+     "q": "Số 108 được giảm đi 6 lần thì được số nào?",
+     "options": [
+      "18",
+      "102",
+      "108",
+      "19"
+     ],
+     "correct": 0,
+     "explain": "Giảm 6 lần: 108 ÷ 6 = 18."
+    },
+    {
+     "q": "Số 18 được gấp lên 3 lần thì được số nào?",
+     "options": [
+      "36",
+      "21",
+      "54",
+      "72"
+     ],
+     "correct": 2,
+     "explain": "Gấp 3 lần: 18 × 3 = 54."
+    },
+    {
+     "q": "Thùng A có 20 lít, thùng B có 4 lít. Hỏi thùng A gấp mấy lần thùng B?",
+     "options": [
+      "4",
+      "6",
+      "20",
+      "5"
+     ],
+     "correct": 3,
+     "explain": "20 ÷ 4 = 5 (lần)."
+    },
+    {
+     "q": "Thùng A có 12 lít, thùng B có 4 lít. Hỏi thùng A gấp mấy lần thùng B?",
+     "options": [
+      "3",
+      "8",
+      "12",
+      "4"
+     ],
+     "correct": 0,
+     "explain": "12 ÷ 4 = 3 (lần)."
+    },
+    {
+     "q": "Số 15 được giảm đi 3 lần thì được số nào?",
+     "options": [
+      "6",
+      "5",
+      "12",
+      "15"
+     ],
+     "correct": 1,
+     "explain": "Giảm 3 lần: 15 ÷ 3 = 5."
+    },
+    {
+     "q": "Thùng A có 12 lít, thùng B có 6 lít. Hỏi thùng A gấp mấy lần thùng B?",
+     "options": [
+      "3",
+      "2",
+      "12",
+      "6"
+     ],
+     "correct": 1,
+     "explain": "12 ÷ 6 = 2 (lần)."
+    },
+    {
+     "q": "Số 20 được gấp lên 3 lần thì được số nào?",
+     "options": [
+      "40",
+      "60",
+      "23",
+      "80"
+     ],
+     "correct": 1,
+     "explain": "Gấp 3 lần: 20 × 3 = 60."
+    },
+    {
+     "q": "Số 54 được giảm đi 6 lần thì được số nào?",
+     "options": [
+      "48",
+      "54",
+      "10",
+      "9"
+     ],
+     "correct": 3,
+     "explain": "Giảm 6 lần: 54 ÷ 6 = 9."
+    },
+    {
+     "q": "Thùng A có 72 lít, thùng B có 12 lít. Hỏi thùng A gấp mấy lần thùng B?",
+     "options": [
+      "6",
+      "7",
+      "72",
+      "12"
+     ],
+     "correct": 0,
+     "explain": "72 ÷ 12 = 6 (lần)."
+    },
+    {
+     "q": "Số 32 được giảm đi 4 lần thì được số nào?",
+     "options": [
+      "32",
+      "9",
+      "8",
+      "28"
+     ],
+     "correct": 2,
+     "explain": "Giảm 4 lần: 32 ÷ 4 = 8."
+    },
+    {
+     "q": "Số 6 được gấp lên 2 lần thì được số nào?",
+     "options": [
+      "8",
+      "6",
+      "12",
+      "18"
+     ],
+     "correct": 2,
+     "explain": "Gấp 2 lần: 6 × 2 = 12."
+    },
+    {
+     "q": "Số 42 được giảm đi 6 lần thì được số nào?",
+     "options": [
+      "42",
+      "8",
+      "36",
+      "7"
+     ],
+     "correct": 3,
+     "explain": "Giảm 6 lần: 42 ÷ 6 = 7."
+    },
+    {
+     "q": "Số 9 được gấp lên 4 lần thì được số nào?",
+     "options": [
+      "13",
+      "45",
+      "36",
+      "27"
+     ],
+     "correct": 2,
+     "explain": "Gấp 4 lần: 9 × 4 = 36."
+    },
+    {
+     "q": "Số 75 được giảm đi 5 lần thì được số nào?",
+     "options": [
+      "15",
+      "16",
+      "75",
+      "70"
+     ],
+     "correct": 0,
+     "explain": "Giảm 5 lần: 75 ÷ 5 = 15."
+    },
+    {
+     "q": "Thùng A có 16 lít, thùng B có 8 lít. Hỏi thùng A gấp mấy lần thùng B?",
+     "options": [
+      "2",
+      "8",
+      "16",
+      "3"
+     ],
+     "correct": 0,
+     "explain": "16 ÷ 8 = 2 (lần)."
+    },
+    {
+     "q": "Số 55 được giảm đi 5 lần thì được số nào?",
+     "options": [
+      "11",
+      "50",
+      "55",
+      "12"
+     ],
+     "correct": 0,
+     "explain": "Giảm 5 lần: 55 ÷ 5 = 11."
+    },
+    {
+     "q": "Số 9 được gấp lên 5 lần thì được số nào?",
+     "options": [
+      "14",
+      "54",
+      "36",
+      "45"
+     ],
+     "correct": 3,
+     "explain": "Gấp 5 lần: 9 × 5 = 45."
+    },
+    {
+     "q": "Số 19 được gấp lên 6 lần thì được số nào?",
+     "options": [
+      "25",
+      "133",
+      "95",
+      "114"
+     ],
+     "correct": 3,
+     "explain": "Gấp 6 lần: 19 × 6 = 114."
+    },
+    {
+     "q": "Số 64 được giảm đi 4 lần thì được số nào?",
+     "options": [
+      "17",
+      "60",
+      "64",
+      "16"
+     ],
+     "correct": 3,
+     "explain": "Giảm 4 lần: 64 ÷ 4 = 16."
+    },
+    {
+     "q": "Thùng A có 60 lít, thùng B có 12 lít. Hỏi thùng A gấp mấy lần thùng B?",
+     "options": [
+      "6",
+      "12",
+      "60",
+      "5"
+     ],
+     "correct": 3,
+     "explain": "60 ÷ 12 = 5 (lần)."
+    },
+    {
+     "q": "Số 4 được gấp lên 5 lần thì được số nào?",
+     "options": [
+      "16",
+      "24",
+      "20",
+      "9"
+     ],
+     "correct": 2,
+     "explain": "Gấp 5 lần: 4 × 5 = 20."
+    },
+    {
+     "q": "Thùng A có 8 lít, thùng B có 4 lít. Hỏi thùng A gấp mấy lần thùng B?",
+     "options": [
+      "4",
+      "8",
+      "2",
+      "3"
+     ],
+     "correct": 2,
+     "explain": "8 ÷ 4 = 2 (lần)."
+    },
+    {
+     "q": "Thùng A có 42 lít, thùng B có 7 lít. Hỏi thùng A gấp mấy lần thùng B?",
+     "options": [
+      "42",
+      "7",
+      "35",
+      "6"
+     ],
+     "correct": 3,
+     "explain": "42 ÷ 7 = 6 (lần)."
+    },
+    {
+     "q": "Số 9 được gấp lên 3 lần thì được số nào?",
+     "options": [
+      "18",
+      "12",
+      "27",
+      "36"
+     ],
+     "correct": 2,
+     "explain": "Gấp 3 lần: 9 × 3 = 27."
+    },
+    {
+     "q": "Thùng A có 30 lít, thùng B có 6 lít. Hỏi thùng A gấp mấy lần thùng B?",
+     "options": [
+      "24",
+      "6",
+      "30",
+      "5"
+     ],
+     "correct": 3,
+     "explain": "30 ÷ 6 = 5 (lần)."
+    },
+    {
+     "q": "Thùng A có 18 lít, thùng B có 3 lít. Hỏi thùng A gấp mấy lần thùng B?",
+     "options": [
+      "6",
+      "3",
+      "7",
+      "18"
+     ],
+     "correct": 0,
+     "explain": "18 ÷ 3 = 6 (lần)."
+    }
+   ]
+  }
+ ]
+}

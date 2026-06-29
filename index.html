@@ -378,6 +378,20 @@ function saveSettings(){LS.set('gsai_settings',settings);checkKey()}
 let STEPS={};
 try{fetch('steps.json',{cache:'no-store'}).then(function(r){return r.json()}).then(function(d){STEPS=d||{}}).catch(function(){})}catch(e){}
 
+/* ===== LỚP 3 THEO TUẦN (video thầy Quyền + kho bài tập) ===== */
+let G3=null;
+try{fetch('curriculum_g3.json',{cache:'no-store'}).then(function(r){return r.json()}).then(function(d){G3=d;applyG3()}).catch(function(){})}catch(e){}
+function applyG3(){
+  if(!G3||!G3.weeks||typeof BUILTIN==='undefined')return;
+  BUILTIN[3]={grade:3,byWeek:true,lessons:G3.weeks.map(function(w){
+    return {title:w.title, desc:w.videos.length+' video bài giảng · kho '+w.bank.length+' bài tập',
+            fromBank:true, videos:w.videos, summary:w.summary, quiz:w.bank};
+  })};
+  if(typeof activeGrade!=='undefined' && activeGrade===3){CUR=BUILTIN[3];
+    var vc=document.getElementById('view-curriculum');
+    if(vc&&vc.classList.contains('active')&&typeof renderCurriculum==='function')renderCurriculum();}
+}
+
 /* ===== HELPERS ===== */
 function esc(t){return(''+t).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
 function mdLite(t){return esc(t).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/`([^`]+)`/g,'<code>$1</code>').replace(/^#{1,3} (.*)$/gm,'<h3>$1</h3>')}
@@ -625,7 +639,19 @@ function genFor(idx){
   const g=GEN[activeGrade]&&GEN[activeGrade][idx];if(g)return g();
   const pool=CUR.lessons[idx].quiz;if(pool&&pool.length)return pool[ri(0,pool.length-1)];return null;
 }
+function shufOpts(q){
+  const correctText=q.options[q.correct];
+  const opts=q.options.slice();shuffle(opts);
+  return {q:q.q,options:opts,correct:opts.indexOf(correctText),explain:q.explain};
+}
+function buildFromBank(pool){
+  const out=[],seen={};let tr=0;
+  while(out.length<QPER&&tr<QPER*30){const q=pool[ri(0,pool.length-1)];tr++;if(q&&!seen[q.q]){seen[q.q]=1;out.push(shufOpts(q))}}
+  shuffle(out);return out;
+}
 function buildQuiz(idx){
+  const les=CUR.lessons[idx];
+  if(les&&les.fromBank&&les.quiz&&les.quiz.length)return buildFromBank(les.quiz);
   const out=[],seen={};
   function take(fn,n){let c=0,tr=0;while(c<n&&tr<n*10){const q=fn();tr++;if(q&&!seen[q.q]){seen[q.q]=1;out.push(q);c++}}}
   const hard=HARD[activeGrade];
@@ -1839,6 +1865,7 @@ let curIdx=null;
    Mã video lấy trong link: youtube.com/watch?v=<MÃ>  hoặc youtu.be/<MÃ>. */
 const VIDEOS={
   2:{ 0:'2MgXjp2Iei8' }
+  /* Lớp 3: video theo tuần lấy từ curriculum_g3.json (nhiều video/bài, xem initMultiVideoPane) */
 };
 function videoFor(grade,idx){const g=VIDEOS[grade];return (g&&g[idx])||null}
 
@@ -1913,28 +1940,77 @@ function initVideoPane(idx){
   document.getElementById('vidReplay').onclick=function(){if(lessonPlayer){done.classList.remove('show');lessonPlayer.seekTo(0,true);lessonPlayer.playVideo()}};
 }
 
+/* Nhiều video bài giảng cho 1 tuần (playlist chống thoát ra YouTube) */
+function initMultiVideoPane(idx){
+  const pane=document.getElementById('pane-video');if(!pane)return;
+  const les=CUR.lessons[idx];const vids=(les.videos||[]);if(!vids.length){pane.innerHTML='';return}
+  pane.innerHTML='<div class="card">'
+    +'<div class="vidwrap">'
+      +'<div id="ytmount"></div>'
+      +'<div class="vid-center" id="vidCenter"><div class="pbtn">▶</div></div>'
+      +'<div class="vid-block" id="vidBlock" title="Bấm để phát/dừng"></div>'
+    +'</div>'
+    +'<div class="vid-controls"><button class="btn ghost sm" id="vidToggle" style="min-width:96px">▶ Phát</button>'
+      +'<div class="vid-bar"><i id="vidProg"></i></div><span class="vid-time" id="vidTime">0:00 / 0:00</span></div>'
+    +'<div style="margin-top:14px"><div class="hint" style="margin-bottom:8px">📺 Chọn bài giảng (Thầy Nguyễn Văn Quyền) — bấm để xem:</div><div id="vidList" style="display:flex;flex-direction:column;gap:8px"></div></div>'
+    +'</div>';
+  const listEl=document.getElementById('vidList');
+  const center=document.getElementById('vidCenter'),block=document.getElementById('vidBlock'),
+        toggle=document.getElementById('vidToggle'),bar=document.getElementById('vidProg'),timeEl=document.getElementById('vidTime');
+  function highlight(i){Array.from(listEl.children).forEach((b,j)=>{b.classList.toggle('active',j===i);b.style.background=j===i?'var(--brand-soft)':'';b.style.borderColor=j===i?'var(--brand)':'';b.style.color=j===i?'var(--brand-dark)':''})}
+  vids.forEach((v,i)=>{const b=document.createElement('button');b.className='btn ghost sm';b.style.cssText='text-align:left;justify-content:flex-start;white-space:normal';b.innerHTML='▶ '+esc(v.t);b.onclick=()=>select(i);listEl.appendChild(b)});
+  function startPoll(){clearInterval(_vidPoll);_vidPoll=setInterval(function(){if(!lessonPlayer||!lessonPlayer.getDuration)return;const d=lessonPlayer.getDuration()||0,c=lessonPlayer.getCurrentTime()||0;bar.style.width=(d?Math.min(100,c/d*100):0)+'%';timeEl.textContent=fmtTime(c)+' / '+fmtTime(d)},300)}
+  function onState(e){const S=YT.PlayerState;if(e.data===S.PLAYING){center.classList.add('hide');toggle.textContent='⏸ Dừng';startPoll()}else{center.classList.remove('hide');toggle.textContent='▶ Phát';clearInterval(_vidPoll);if(e.data===S.ENDED)bar.style.width='100%'}}
+  function select(i){highlight(i);bar.style.width='0%';if(lessonPlayer&&lessonPlayer.loadVideoById)lessonPlayer.loadVideoById(vids[i].id)}
+  loadYTApi().then(function(){
+    if(!document.getElementById('ytmount'))return;
+    lessonPlayer=new YT.Player('ytmount',{videoId:vids[0].id,
+      playerVars:{controls:0,rel:0,modestbranding:1,disablekb:1,fs:0,playsinline:1,iv_load_policy:3,origin:location.origin},
+      events:{onStateChange:onState}});
+  });
+  function tog(){if(!lessonPlayer||!lessonPlayer.getPlayerState)return;const st=lessonPlayer.getPlayerState();if(st===YT.PlayerState.PLAYING)lessonPlayer.pauseVideo();else lessonPlayer.playVideo()}
+  block.onclick=tog;toggle.onclick=tog;
+  highlight(0);
+}
 function lessonCtx(i){const l=CUR.lessons[i];return 'Môn Toán, '+gradeName(activeGrade)+' (chương trình Việt Nam). Bài học: "'+l.title+'". '+(l.desc||'')}
 function openLesson(idx){
   curIdx=idx;const les=CUR.lessons[idx];const r=progress.results[idx];
-  const hasVid=!!videoFor(activeGrade,idx);
+  const isBank=!!les.fromBank;
+  const hasVid=isBank?(les.videos&&les.videos.length>0):!!videoFor(activeGrade,idx);
   const learnCount=(progress.learns[idx]||0)+1;progress.learns[idx]=learnCount;saveProg();
-  learnGateUnlocked=learnCount>=SKIP_AFTER;
+  learnGateUnlocked=isBank?true:(learnCount>=SKIP_AFTER);
   showView('lesson');
-  document.getElementById('pageTitle').textContent='Bài '+(idx+1)+': '+les.title;
+  const lessonLabel=isBank?les.title:('Bài '+(idx+1)+': '+les.title);
+  document.getElementById('pageTitle').textContent=lessonLabel;
+  /* Bài theo tuần: tab Video đứng đầu (active); Bài thường: tab Học bài đứng đầu */
+  let tabs,panes;
+  if(isBank){
+    tabs='<button class="ltab active" data-pane="video">📺 Video bài giảng</button><button class="ltab" data-pane="learn">📖 Tóm tắt</button><button class="ltab" data-pane="ask">💬 Hỏi bài AI</button><button class="ltab" data-pane="test">✅ Kiểm tra</button>';
+    panes='<div class="lpane active" id="pane-video"></div><div class="lpane" id="pane-learn"></div><div class="lpane" id="pane-ask"></div><div class="lpane" id="pane-test"></div>';
+  }else{
+    tabs='<button class="ltab active" data-pane="learn">📖 Học bài</button>'+(hasVid?'<button class="ltab" data-pane="video">📹 Video</button>':'')+'<button class="ltab" data-pane="ask">💬 Hỏi bài AI</button><button class="ltab" data-pane="test">✅ Kiểm tra</button>';
+    panes='<div class="lpane active" id="pane-learn"></div>'+(hasVid?'<div class="lpane" id="pane-video"></div>':'')+'<div class="lpane" id="pane-ask"></div><div class="lpane" id="pane-test"></div>';
+  }
   vLesson.innerHTML='<div class="crumb" id="backCurr">← Quay lại lộ trình</div>'
-    +'<div class="card" style="margin-bottom:14px"><h2>Bài '+(idx+1)+': '+esc(les.title)+'</h2><div class="sub" style="margin-bottom:0">'+esc(les.desc||'')+(r&&r.passed?' · <strong style="color:var(--gold)">'+starStr(r.stars||0)+'</strong>':'')+'</div></div>'
-    +'<div class="ltabs"><button class="ltab active" data-pane="learn">📖 Học bài</button>'+(hasVid?'<button class="ltab" data-pane="video">📹 Video</button>':'')+'<button class="ltab" data-pane="ask">💬 Hỏi bài AI</button><button class="ltab" data-pane="test">✅ Kiểm tra</button></div>'
-    +'<div class="lpane active" id="pane-learn"></div>'+(hasVid?'<div class="lpane" id="pane-video"></div>':'')+'<div class="lpane" id="pane-ask"></div><div class="lpane" id="pane-test"></div>';
+    +'<div class="card" style="margin-bottom:14px"><h2>'+esc(lessonLabel)+'</h2><div class="sub" style="margin-bottom:0">'+esc(les.desc||'')+(r&&r.passed?' · <strong style="color:var(--gold)">'+starStr(r.stars||0)+'</strong>':'')+'</div></div>'
+    +'<div class="ltabs">'+tabs+'</div>'+panes;
   document.getElementById('backCurr').onclick=()=>{pauseLessonVideo();showView('curriculum')};
   vLesson.querySelectorAll('.ltab').forEach(t=>t.onclick=()=>{if(t.dataset.pane==='test'&&!learnGateUnlocked){alert('Con nghe hết bài giảng (hoặc xem hết video) rồi mới làm kiểm tra nhé! 😊');return}stopSpeak();pauseLessonVideo();vLesson.querySelectorAll('.ltab').forEach(x=>x.classList.remove('active'));vLesson.querySelectorAll('.lpane').forEach(x=>x.classList.remove('active'));t.classList.add('active');document.getElementById('pane-'+t.dataset.pane).classList.add('active')});
   initLearnPane(idx);
   initAskPane(idx);
   initTestPane(idx);
-  if(hasVid)initVideoPane(idx);
+  if(isBank)initMultiVideoPane(idx);
+  else if(hasVid)initVideoPane(idx);
 }
 function initLearnPane(idx){
   const pane=document.getElementById('pane-learn');
   const les=CUR.lessons[idx];
+  if(les.fromBank){
+    learnGateUnlocked=true;
+    pane.innerHTML='<div class="card">'+(les.summary||'')+'<div style="margin-top:16px;text-align:center"><button class="btn big" id="goTest">Mình hiểu rồi, làm kiểm tra ✅</button></div></div>';
+    document.getElementById('goTest').onclick=function(){vLesson.querySelector('.ltab[data-pane="test"]').click()};
+    return;
+  }
   const steps=(STEPS[activeGrade]&&STEPS[activeGrade][idx])||null;
   if(steps&&steps.length){buildStepPlayer(pane,idx,steps);return}
   learnGateUnlocked=true;/* nhanh khong co buoc audio: khong khoa */

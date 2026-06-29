@@ -1,0 +1,2242 @@
+{
+ "grade": 3,
+ "week": 1,
+ "lessons": [
+  {
+   "type": 1,
+   "title": "Bài 1 - Giải toán có lời văn",
+   "exercises": [
+    {
+     "q": "Sau khi nuôi thêm 43 con gà, bác Ba có 93 con gà. Hỏi lúc đầu bác Ba có bao nhiêu con gà?",
+     "options": [
+      "136",
+      "93",
+      "43",
+      "50"
+     ],
+     "correct": 3,
+     "explain": "Lúc đầu = 93 − 43 = 50 (con gà)."
+    },
+    {
+     "q": "Sau khi mua thêm 25 chiếc ghế, lớp em có 83 chiếc ghế. Hỏi lúc đầu lớp em có bao nhiêu chiếc ghế?",
+     "options": [
+      "25",
+      "58",
+      "83",
+      "108"
+     ],
+     "correct": 1,
+     "explain": "Lúc đầu = 83 − 25 = 58 (chiếc ghế)."
+    },
+    {
+     "q": "Sau khi thả thêm 55 con cá, ao cá có 445 con cá. Hỏi lúc đầu ao cá có bao nhiêu con cá?",
+     "options": [
+      "500",
+      "55",
+      "390",
+      "445"
+     ],
+     "correct": 2,
+     "explain": "Lúc đầu = 445 − 55 = 390 (con cá)."
+    },
+    {
+     "q": "Sau khi được tặng thêm 80 viên bi, An có 302 viên bi. Hỏi lúc đầu An có bao nhiêu viên bi?",
+     "options": [
+      "222",
+      "302",
+      "80",
+      "382"
+     ],
+     "correct": 0,
+     "explain": "Lúc đầu = 302 − 80 = 222 (viên bi)."
+    },
+    {
+     "q": "Sau khi nuôi thêm 51 con gà, bác Ba có 366 con gà. Hỏi lúc đầu bác Ba có bao nhiêu con gà?",
+     "options": [
+      "51",
+      "366",
+      "417",
+      "315"
+     ],
+     "correct": 3,
+     "explain": "Lúc đầu = 366 − 51 = 315 (con gà)."
+    },
+    {
+     "q": "Sau khi mua thêm 74 quả trứng, nhà Mai có 302 quả trứng. Hỏi lúc đầu nhà Mai có bao nhiêu quả trứng?",
+     "options": [
+      "74",
+      "302",
+      "376",
+      "228"
+     ],
+     "correct": 3,
+     "explain": "Lúc đầu = 302 − 74 = 228 (quả trứng)."
+    },
+    {
+     "q": "Sau khi mua thêm 69 chiếc ghế, lớp em có 134 chiếc ghế. Hỏi lúc đầu lớp em có bao nhiêu chiếc ghế?",
+     "options": [
+      "203",
+      "69",
+      "134",
+      "65"
+     ],
+     "correct": 3,
+     "explain": "Lúc đầu = 134 − 69 = 65 (chiếc ghế)."
+    },
+    {
+     "q": "Sau khi có thêm 88 chiếc xe, bến xe có 154 chiếc xe. Hỏi lúc đầu bến xe có bao nhiêu chiếc xe?",
+     "options": [
+      "66",
+      "88",
+      "242",
+      "154"
+     ],
+     "correct": 0,
+     "explain": "Lúc đầu = 154 − 88 = 66 (chiếc xe)."
+    },
+    {
+     "q": "Sau khi nhập thêm 69 bao gạo, kho gạo có 155 bao gạo. Hỏi lúc đầu kho gạo có bao nhiêu bao gạo?",
+     "options": [
+      "69",
+      "155",
+      "224",
+      "86"
+     ],
+     "correct": 3,
+     "explain": "Lúc đầu = 155 − 69 = 86 (bao gạo)."
+    },
+    {
+     "q": "Sau khi trồng thêm 75 cây xanh, vườn trường có 177 cây xanh. Hỏi lúc đầu vườn trường có bao nhiêu cây xanh?",
+     "options": [
+      "252",
+      "177",
+      "102",
+      "75"
+     ],
+     "correct": 2,
+     "explain": "Lúc đầu = 177 − 75 = 102 (cây xanh)."
+    },
+    {
+     "q": "Sau khi mua thêm 66 quyển sách, thư viện có 437 quyển sách. Hỏi lúc đầu thư viện có bao nhiêu quyển sách?",
+     "options": [
+      "66",
+      "437",
+      "503",
+      "371"
+     ],
+     "correct": 3,
+     "explain": "Lúc đầu = 437 − 66 = 371 (quyển sách)."
+    },
+    {
+     "q": "Sau khi mua thêm 73 quyển sách, thư viện có 103 quyển sách. Hỏi lúc đầu thư viện có bao nhiêu quyển sách?",
+     "options": [
+      "73",
+      "176",
+      "103",
+      "30"
+     ],
+     "correct": 3,
+     "explain": "Lúc đầu = 103 − 73 = 30 (quyển sách)."
+    },
+    {
+     "q": "Sau khi mua thêm 80 quyển sách, thư viện có 368 quyển sách. Hỏi lúc đầu thư viện có bao nhiêu quyển sách?",
+     "options": [
+      "80",
+      "448",
+      "368",
+      "288"
+     ],
+     "correct": 3,
+     "explain": "Lúc đầu = 368 − 80 = 288 (quyển sách)."
+    },
+    {
+     "q": "Sau khi mua thêm 71 quyển sách, thư viện có 121 quyển sách. Hỏi lúc đầu thư viện có bao nhiêu quyển sách?",
+     "options": [
+      "50",
+      "192",
+      "121",
+      "71"
+     ],
+     "correct": 0,
+     "explain": "Lúc đầu = 121 − 71 = 50 (quyển sách)."
+    },
+    {
+     "q": "Sau khi có thêm 49 chiếc xe, bến xe có 132 chiếc xe. Hỏi lúc đầu bến xe có bao nhiêu chiếc xe?",
+     "options": [
+      "49",
+      "181",
+      "132",
+      "83"
+     ],
+     "correct": 3,
+     "explain": "Lúc đầu = 132 − 49 = 83 (chiếc xe)."
+    },
+    {
+     "q": "Sau khi trồng thêm 72 cây xanh, vườn trường có 149 cây xanh. Hỏi lúc đầu vườn trường có bao nhiêu cây xanh?",
+     "options": [
+      "149",
+      "72",
+      "77",
+      "221"
+     ],
+     "correct": 2,
+     "explain": "Lúc đầu = 149 − 72 = 77 (cây xanh)."
+    },
+    {
+     "q": "Sau khi thả thêm 40 con cá, ao cá có 107 con cá. Hỏi lúc đầu ao cá có bao nhiêu con cá?",
+     "options": [
+      "67",
+      "40",
+      "147",
+      "107"
+     ],
+     "correct": 0,
+     "explain": "Lúc đầu = 107 − 40 = 67 (con cá)."
+    },
+    {
+     "q": "Sau khi nhập thêm 34 bao gạo, kho gạo có 416 bao gạo. Hỏi lúc đầu kho gạo có bao nhiêu bao gạo?",
+     "options": [
+      "382",
+      "34",
+      "416",
+      "450"
+     ],
+     "correct": 0,
+     "explain": "Lúc đầu = 416 − 34 = 382 (bao gạo)."
+    },
+    {
+     "q": "Sau khi nhập thêm 90 chiếc bút, cửa hàng có 244 chiếc bút. Hỏi lúc đầu cửa hàng có bao nhiêu chiếc bút?",
+     "options": [
+      "334",
+      "154",
+      "90",
+      "244"
+     ],
+     "correct": 1,
+     "explain": "Lúc đầu = 244 − 90 = 154 (chiếc bút)."
+    },
+    {
+     "q": "Sau khi nuôi thêm 32 con gà, bác Ba có 88 con gà. Hỏi lúc đầu bác Ba có bao nhiêu con gà?",
+     "options": [
+      "120",
+      "88",
+      "56",
+      "32"
+     ],
+     "correct": 2,
+     "explain": "Lúc đầu = 88 − 32 = 56 (con gà)."
+    },
+    {
+     "q": "Sau khi có thêm 63 chiếc xe, bến xe có 144 chiếc xe. Hỏi lúc đầu bến xe có bao nhiêu chiếc xe?",
+     "options": [
+      "63",
+      "144",
+      "81",
+      "207"
+     ],
+     "correct": 2,
+     "explain": "Lúc đầu = 144 − 63 = 81 (chiếc xe)."
+    },
+    {
+     "q": "Sau khi nuôi thêm 18 con gà, bác Ba có 235 con gà. Hỏi lúc đầu bác Ba có bao nhiêu con gà?",
+     "options": [
+      "217",
+      "235",
+      "18",
+      "253"
+     ],
+     "correct": 0,
+     "explain": "Lúc đầu = 235 − 18 = 217 (con gà)."
+    },
+    {
+     "q": "Sau khi được tặng thêm 56 viên bi, An có 251 viên bi. Hỏi lúc đầu An có bao nhiêu viên bi?",
+     "options": [
+      "195",
+      "56",
+      "251",
+      "307"
+     ],
+     "correct": 0,
+     "explain": "Lúc đầu = 251 − 56 = 195 (viên bi)."
+    },
+    {
+     "q": "Sau khi mua thêm 90 chiếc ghế, lớp em có 159 chiếc ghế. Hỏi lúc đầu lớp em có bao nhiêu chiếc ghế?",
+     "options": [
+      "249",
+      "90",
+      "69",
+      "159"
+     ],
+     "correct": 2,
+     "explain": "Lúc đầu = 159 − 90 = 69 (chiếc ghế)."
+    },
+    {
+     "q": "Sau khi thả thêm 85 con cá, ao cá có 153 con cá. Hỏi lúc đầu ao cá có bao nhiêu con cá?",
+     "options": [
+      "153",
+      "85",
+      "238",
+      "68"
+     ],
+     "correct": 3,
+     "explain": "Lúc đầu = 153 − 85 = 68 (con cá)."
+    },
+    {
+     "q": "Sau khi nhập thêm 72 chiếc bút, cửa hàng có 104 chiếc bút. Hỏi lúc đầu cửa hàng có bao nhiêu chiếc bút?",
+     "options": [
+      "72",
+      "176",
+      "32",
+      "104"
+     ],
+     "correct": 2,
+     "explain": "Lúc đầu = 104 − 72 = 32 (chiếc bút)."
+    },
+    {
+     "q": "Sau khi nhập thêm 81 chiếc bút, cửa hàng có 152 chiếc bút. Hỏi lúc đầu cửa hàng có bao nhiêu chiếc bút?",
+     "options": [
+      "71",
+      "81",
+      "233",
+      "152"
+     ],
+     "correct": 0,
+     "explain": "Lúc đầu = 152 − 81 = 71 (chiếc bút)."
+    },
+    {
+     "q": "Sau khi có thêm 25 chiếc xe, bến xe có 282 chiếc xe. Hỏi lúc đầu bến xe có bao nhiêu chiếc xe?",
+     "options": [
+      "25",
+      "307",
+      "282",
+      "257"
+     ],
+     "correct": 3,
+     "explain": "Lúc đầu = 282 − 25 = 257 (chiếc xe)."
+    },
+    {
+     "q": "Sau khi được tặng thêm 78 viên bi, An có 252 viên bi. Hỏi lúc đầu An có bao nhiêu viên bi?",
+     "options": [
+      "330",
+      "78",
+      "252",
+      "174"
+     ],
+     "correct": 3,
+     "explain": "Lúc đầu = 252 − 78 = 174 (viên bi)."
+    },
+    {
+     "q": "Sau khi nhập thêm 71 chiếc bút, cửa hàng có 376 chiếc bút. Hỏi lúc đầu cửa hàng có bao nhiêu chiếc bút?",
+     "options": [
+      "305",
+      "376",
+      "71",
+      "447"
+     ],
+     "correct": 0,
+     "explain": "Lúc đầu = 376 − 71 = 305 (chiếc bút)."
+    },
+    {
+     "q": "Sau khi nuôi thêm 15 con gà, bác Ba có 99 con gà. Hỏi lúc đầu bác Ba có bao nhiêu con gà?",
+     "options": [
+      "84",
+      "15",
+      "99",
+      "114"
+     ],
+     "correct": 0,
+     "explain": "Lúc đầu = 99 − 15 = 84 (con gà)."
+    },
+    {
+     "q": "Sau khi có thêm 18 chiếc xe, bến xe có 82 chiếc xe. Hỏi lúc đầu bến xe có bao nhiêu chiếc xe?",
+     "options": [
+      "64",
+      "82",
+      "100",
+      "18"
+     ],
+     "correct": 0,
+     "explain": "Lúc đầu = 82 − 18 = 64 (chiếc xe)."
+    },
+    {
+     "q": "Sau khi nhập thêm 29 bao gạo, kho gạo có 102 bao gạo. Hỏi lúc đầu kho gạo có bao nhiêu bao gạo?",
+     "options": [
+      "102",
+      "131",
+      "73",
+      "29"
+     ],
+     "correct": 2,
+     "explain": "Lúc đầu = 102 − 29 = 73 (bao gạo)."
+    },
+    {
+     "q": "Sau khi mua thêm 86 chiếc ghế, lớp em có 414 chiếc ghế. Hỏi lúc đầu lớp em có bao nhiêu chiếc ghế?",
+     "options": [
+      "86",
+      "328",
+      "500",
+      "414"
+     ],
+     "correct": 1,
+     "explain": "Lúc đầu = 414 − 86 = 328 (chiếc ghế)."
+    }
+   ]
+  },
+  {
+   "type": 2,
+   "title": "Bài 2 - Giải toán đố",
+   "exercises": [
+    {
+     "q": "Thùng thứ nhất và thùng thứ hai đựng 646 lít, trong đó Thùng thứ nhất đựng 470 lít. Hỏi thùng thứ hai đựng bao nhiêu lít?",
+     "options": [
+      "470",
+      "176",
+      "646",
+      "1116"
+     ],
+     "correct": 1,
+     "explain": "thùng thứ hai = 646 − 470 = 176 (lít)."
+    },
+    {
+     "q": "Thùng thứ nhất và thùng thứ hai đựng 700 lít, trong đó Thùng thứ nhất đựng 185 lít. Hỏi thùng thứ hai đựng bao nhiêu lít?",
+     "options": [
+      "515",
+      "885",
+      "700",
+      "185"
+     ],
+     "correct": 0,
+     "explain": "thùng thứ hai = 700 − 185 = 515 (lít)."
+    },
+    {
+     "q": "Đội Một và đội Hai trồng được 462 cây, trong đó Đội Một trồng được 330 cây. Hỏi đội Hai trồng được bao nhiêu cây?",
+     "options": [
+      "132",
+      "792",
+      "462",
+      "330"
+     ],
+     "correct": 0,
+     "explain": "đội Hai = 462 − 330 = 132 (cây)."
+    },
+    {
+     "q": "Con trâu và con bò cân nặng 298 kg, trong đó Con trâu cân nặng 199 kg. Hỏi con bò cân nặng bao nhiêu kg?",
+     "options": [
+      "199",
+      "298",
+      "99",
+      "497"
+     ],
+     "correct": 2,
+     "explain": "con bò = 298 − 199 = 99 (kg)."
+    },
+    {
+     "q": "Rổ cam và rổ quýt có 666 quả, trong đó Rổ cam có 593 quả. Hỏi rổ quýt có bao nhiêu quả?",
+     "options": [
+      "593",
+      "1259",
+      "666",
+      "73"
+     ],
+     "correct": 3,
+     "explain": "rổ quýt = 666 − 593 = 73 (quả)."
+    },
+    {
+     "q": "Xe thứ nhất và xe thứ hai chở 500 bao xi măng, trong đó Xe thứ nhất chở 376 bao xi măng. Hỏi xe thứ hai chở bao nhiêu bao xi măng?",
+     "options": [
+      "876",
+      "124",
+      "500",
+      "376"
+     ],
+     "correct": 1,
+     "explain": "xe thứ hai = 500 − 376 = 124 (bao xi măng)."
+    },
+    {
+     "q": "Rổ cam và rổ quýt có 259 quả, trong đó Rổ cam có 156 quả. Hỏi rổ quýt có bao nhiêu quả?",
+     "options": [
+      "103",
+      "415",
+      "259",
+      "156"
+     ],
+     "correct": 0,
+     "explain": "rổ quýt = 259 − 156 = 103 (quả)."
+    },
+    {
+     "q": "Đội Một và đội Hai trồng được 626 cây, trong đó Đội Một trồng được 397 cây. Hỏi đội Hai trồng được bao nhiêu cây?",
+     "options": [
+      "626",
+      "229",
+      "1023",
+      "397"
+     ],
+     "correct": 1,
+     "explain": "đội Hai = 626 − 397 = 229 (cây)."
+    },
+    {
+     "q": "Thùng thứ nhất và thùng thứ hai đựng 366 lít, trong đó Thùng thứ nhất đựng 150 lít. Hỏi thùng thứ hai đựng bao nhiêu lít?",
+     "options": [
+      "150",
+      "366",
+      "216",
+      "516"
+     ],
+     "correct": 2,
+     "explain": "thùng thứ hai = 366 − 150 = 216 (lít)."
+    },
+    {
+     "q": "Đội Một và đội Hai trồng được 229 cây, trong đó Đội Một trồng được 142 cây. Hỏi đội Hai trồng được bao nhiêu cây?",
+     "options": [
+      "371",
+      "142",
+      "229",
+      "87"
+     ],
+     "correct": 3,
+     "explain": "đội Hai = 229 − 142 = 87 (cây)."
+    },
+    {
+     "q": "Buổi sáng và buổi chiều bán được 631 cái bánh, trong đó Buổi sáng bán được 213 cái bánh. Hỏi buổi chiều bán được bao nhiêu cái bánh?",
+     "options": [
+      "418",
+      "631",
+      "213",
+      "844"
+     ],
+     "correct": 0,
+     "explain": "buổi chiều = 631 − 213 = 418 (cái bánh)."
+    },
+    {
+     "q": "Đội Một và đội Hai trồng được 351 cây, trong đó Đội Một trồng được 124 cây. Hỏi đội Hai trồng được bao nhiêu cây?",
+     "options": [
+      "475",
+      "351",
+      "227",
+      "124"
+     ],
+     "correct": 2,
+     "explain": "đội Hai = 351 − 124 = 227 (cây)."
+    },
+    {
+     "q": "Bao thứ nhất và bao thứ hai nặng 470 kg, trong đó Bao thứ nhất nặng 165 kg. Hỏi bao thứ hai nặng bao nhiêu kg?",
+     "options": [
+      "305",
+      "635",
+      "165",
+      "470"
+     ],
+     "correct": 0,
+     "explain": "bao thứ hai = 470 − 165 = 305 (kg)."
+    },
+    {
+     "q": "Đội Một và đội Hai trồng được 546 cây, trong đó Đội Một trồng được 148 cây. Hỏi đội Hai trồng được bao nhiêu cây?",
+     "options": [
+      "546",
+      "398",
+      "148",
+      "694"
+     ],
+     "correct": 1,
+     "explain": "đội Hai = 546 − 148 = 398 (cây)."
+    },
+    {
+     "q": "Xe thứ nhất và xe thứ hai chở 259 bao xi măng, trong đó Xe thứ nhất chở 171 bao xi măng. Hỏi xe thứ hai chở bao nhiêu bao xi măng?",
+     "options": [
+      "88",
+      "259",
+      "430",
+      "171"
+     ],
+     "correct": 0,
+     "explain": "xe thứ hai = 259 − 171 = 88 (bao xi măng)."
+    },
+    {
+     "q": "Rổ cam và rổ quýt có 700 quả, trong đó Rổ cam có 590 quả. Hỏi rổ quýt có bao nhiêu quả?",
+     "options": [
+      "1290",
+      "700",
+      "590",
+      "110"
+     ],
+     "correct": 3,
+     "explain": "rổ quýt = 700 − 590 = 110 (quả)."
+    },
+    {
+     "q": "Đội Một và đội Hai trồng được 600 cây, trong đó Đội Một trồng được 198 cây. Hỏi đội Hai trồng được bao nhiêu cây?",
+     "options": [
+      "198",
+      "600",
+      "798",
+      "402"
+     ],
+     "correct": 3,
+     "explain": "đội Hai = 600 − 198 = 402 (cây)."
+    },
+    {
+     "q": "Bao thứ nhất và bao thứ hai nặng 238 kg, trong đó Bao thứ nhất nặng 158 kg. Hỏi bao thứ hai nặng bao nhiêu kg?",
+     "options": [
+      "396",
+      "238",
+      "80",
+      "158"
+     ],
+     "correct": 2,
+     "explain": "bao thứ hai = 238 − 158 = 80 (kg)."
+    },
+    {
+     "q": "Ngăn trên và ngăn dưới có 303 quyển sách, trong đó Ngăn trên có 198 quyển sách. Hỏi ngăn dưới có bao nhiêu quyển sách?",
+     "options": [
+      "105",
+      "198",
+      "303",
+      "501"
+     ],
+     "correct": 0,
+     "explain": "ngăn dưới = 303 − 198 = 105 (quyển sách)."
+    },
+    {
+     "q": "Ngăn trên và ngăn dưới có 720 quyển sách, trong đó Ngăn trên có 265 quyển sách. Hỏi ngăn dưới có bao nhiêu quyển sách?",
+     "options": [
+      "985",
+      "265",
+      "720",
+      "455"
+     ],
+     "correct": 3,
+     "explain": "ngăn dưới = 720 − 265 = 455 (quyển sách)."
+    },
+    {
+     "q": "Đội Một và đội Hai trồng được 242 cây, trong đó Đội Một trồng được 140 cây. Hỏi đội Hai trồng được bao nhiêu cây?",
+     "options": [
+      "382",
+      "102",
+      "242",
+      "140"
+     ],
+     "correct": 1,
+     "explain": "đội Hai = 242 − 140 = 102 (cây)."
+    },
+    {
+     "q": "Rổ cam và rổ quýt có 337 quả, trong đó Rổ cam có 281 quả. Hỏi rổ quýt có bao nhiêu quả?",
+     "options": [
+      "56",
+      "337",
+      "281",
+      "618"
+     ],
+     "correct": 0,
+     "explain": "rổ quýt = 337 − 281 = 56 (quả)."
+    },
+    {
+     "q": "Bao thứ nhất và bao thứ hai nặng 564 kg, trong đó Bao thứ nhất nặng 489 kg. Hỏi bao thứ hai nặng bao nhiêu kg?",
+     "options": [
+      "489",
+      "564",
+      "75",
+      "1053"
+     ],
+     "correct": 2,
+     "explain": "bao thứ hai = 564 − 489 = 75 (kg)."
+    },
+    {
+     "q": "Ngăn trên và ngăn dưới có 367 quyển sách, trong đó Ngăn trên có 251 quyển sách. Hỏi ngăn dưới có bao nhiêu quyển sách?",
+     "options": [
+      "251",
+      "116",
+      "367",
+      "618"
+     ],
+     "correct": 1,
+     "explain": "ngăn dưới = 367 − 251 = 116 (quyển sách)."
+    },
+    {
+     "q": "Rổ cam và rổ quýt có 509 quả, trong đó Rổ cam có 426 quả. Hỏi rổ quýt có bao nhiêu quả?",
+     "options": [
+      "83",
+      "426",
+      "935",
+      "509"
+     ],
+     "correct": 0,
+     "explain": "rổ quýt = 509 − 426 = 83 (quả)."
+    },
+    {
+     "q": "Rổ cam và rổ quýt có 696 quả, trong đó Rổ cam có 510 quả. Hỏi rổ quýt có bao nhiêu quả?",
+     "options": [
+      "1206",
+      "696",
+      "186",
+      "510"
+     ],
+     "correct": 2,
+     "explain": "rổ quýt = 696 − 510 = 186 (quả)."
+    },
+    {
+     "q": "Thùng thứ nhất và thùng thứ hai đựng 800 lít, trong đó Thùng thứ nhất đựng 243 lít. Hỏi thùng thứ hai đựng bao nhiêu lít?",
+     "options": [
+      "1043",
+      "243",
+      "557",
+      "800"
+     ],
+     "correct": 2,
+     "explain": "thùng thứ hai = 800 − 243 = 557 (lít)."
+    },
+    {
+     "q": "Rổ cam và rổ quýt có 284 quả, trong đó Rổ cam có 223 quả. Hỏi rổ quýt có bao nhiêu quả?",
+     "options": [
+      "507",
+      "223",
+      "284",
+      "61"
+     ],
+     "correct": 3,
+     "explain": "rổ quýt = 284 − 223 = 61 (quả)."
+    },
+    {
+     "q": "Buổi sáng và buổi chiều bán được 700 cái bánh, trong đó Buổi sáng bán được 638 cái bánh. Hỏi buổi chiều bán được bao nhiêu cái bánh?",
+     "options": [
+      "1338",
+      "62",
+      "700",
+      "638"
+     ],
+     "correct": 1,
+     "explain": "buổi chiều = 700 − 638 = 62 (cái bánh)."
+    },
+    {
+     "q": "Bao thứ nhất và bao thứ hai nặng 521 kg, trong đó Bao thứ nhất nặng 357 kg. Hỏi bao thứ hai nặng bao nhiêu kg?",
+     "options": [
+      "878",
+      "164",
+      "357",
+      "521"
+     ],
+     "correct": 1,
+     "explain": "bao thứ hai = 521 − 357 = 164 (kg)."
+    },
+    {
+     "q": "Rổ cam và rổ quýt có 546 quả, trong đó Rổ cam có 228 quả. Hỏi rổ quýt có bao nhiêu quả?",
+     "options": [
+      "228",
+      "774",
+      "318",
+      "546"
+     ],
+     "correct": 2,
+     "explain": "rổ quýt = 546 − 228 = 318 (quả)."
+    },
+    {
+     "q": "Bao thứ nhất và bao thứ hai nặng 474 kg, trong đó Bao thứ nhất nặng 283 kg. Hỏi bao thứ hai nặng bao nhiêu kg?",
+     "options": [
+      "757",
+      "191",
+      "474",
+      "283"
+     ],
+     "correct": 1,
+     "explain": "bao thứ hai = 474 − 283 = 191 (kg)."
+    },
+    {
+     "q": "Ngăn trên và ngăn dưới có 758 quyển sách, trong đó Ngăn trên có 459 quyển sách. Hỏi ngăn dưới có bao nhiêu quyển sách?",
+     "options": [
+      "299",
+      "1217",
+      "459",
+      "758"
+     ],
+     "correct": 0,
+     "explain": "ngăn dưới = 758 − 459 = 299 (quyển sách)."
+    }
+   ]
+  },
+  {
+   "type": 3,
+   "title": "Bài 3 - Tìm quy luật",
+   "exercises": [
+    {
+     "q": "Tìm số tiếp theo của dãy số: 499; 493; 487; 481; ... ?",
+     "options": [
+      "474",
+      "481",
+      "476",
+      "475"
+     ],
+     "correct": 3,
+     "explain": "Quy luật: trừ dần 6. Số tiếp theo = 481 − 6 = 475."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 345; 395; 445; 495; ... ?",
+     "options": [
+      "546",
+      "495",
+      "595",
+      "545"
+     ],
+     "correct": 3,
+     "explain": "Quy luật: cộng thêm 50. Số tiếp theo = 495 + 50 = 545."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 253; 260; 267; 274; ... ?",
+     "options": [
+      "274",
+      "282",
+      "281",
+      "288"
+     ],
+     "correct": 2,
+     "explain": "Quy luật: cộng thêm 7. Số tiếp theo = 274 + 7 = 281."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 204; 211; 218; 225; ... ?",
+     "options": [
+      "233",
+      "232",
+      "225",
+      "239"
+     ],
+     "correct": 1,
+     "explain": "Quy luật: cộng thêm 7. Số tiếp theo = 225 + 7 = 232."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 66; 116; 166; 216; ... ?",
+     "options": [
+      "216",
+      "316",
+      "266",
+      "267"
+     ],
+     "correct": 2,
+     "explain": "Quy luật: cộng thêm 50. Số tiếp theo = 216 + 50 = 266."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 247; 267; 287; 307; ... ?",
+     "options": [
+      "347",
+      "327",
+      "307",
+      "328"
+     ],
+     "correct": 1,
+     "explain": "Quy luật: cộng thêm 20. Số tiếp theo = 307 + 20 = 327."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 338; 343; 348; 353; ... ?",
+     "options": [
+      "358",
+      "353",
+      "363",
+      "359"
+     ],
+     "correct": 0,
+     "explain": "Quy luật: cộng thêm 5. Số tiếp theo = 353 + 5 = 358."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 263; 268; 273; 278; ... ?",
+     "options": [
+      "278",
+      "288",
+      "283",
+      "284"
+     ],
+     "correct": 2,
+     "explain": "Quy luật: cộng thêm 5. Số tiếp theo = 278 + 5 = 283."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 96; 99; 102; 105; ... ?",
+     "options": [
+      "111",
+      "109",
+      "108",
+      "105"
+     ],
+     "correct": 2,
+     "explain": "Quy luật: cộng thêm 3. Số tiếp theo = 105 + 3 = 108."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 237; 247; 257; 267; ... ?",
+     "options": [
+      "277",
+      "267",
+      "278",
+      "287"
+     ],
+     "correct": 0,
+     "explain": "Quy luật: cộng thêm 10. Số tiếp theo = 267 + 10 = 277."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 290; 299; 308; 317; ... ?",
+     "options": [
+      "335",
+      "317",
+      "327",
+      "326"
+     ],
+     "correct": 3,
+     "explain": "Quy luật: cộng thêm 9. Số tiếp theo = 317 + 9 = 326."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 444; 441; 438; 435; ... ?",
+     "options": [
+      "433",
+      "431",
+      "432",
+      "435"
+     ],
+     "correct": 2,
+     "explain": "Quy luật: trừ dần 3. Số tiếp theo = 435 − 3 = 432."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 174; 194; 214; 234; ... ?",
+     "options": [
+      "234",
+      "254",
+      "274",
+      "255"
+     ],
+     "correct": 1,
+     "explain": "Quy luật: cộng thêm 20. Số tiếp theo = 234 + 20 = 254."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 250; 350; 450; 550; ... ?",
+     "options": [
+      "650",
+      "550",
+      "750",
+      "651"
+     ],
+     "correct": 0,
+     "explain": "Quy luật: cộng thêm 100. Số tiếp theo = 550 + 100 = 650."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 11; 18; 25; 32; ... ?",
+     "options": [
+      "32",
+      "40",
+      "46",
+      "39"
+     ],
+     "correct": 3,
+     "explain": "Quy luật: cộng thêm 7. Số tiếp theo = 32 + 7 = 39."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 380; 360; 340; 320; ... ?",
+     "options": [
+      "299",
+      "320",
+      "301",
+      "300"
+     ],
+     "correct": 3,
+     "explain": "Quy luật: trừ dần 20. Số tiếp theo = 320 − 20 = 300."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 710; 610; 510; 410; ... ?",
+     "options": [
+      "310",
+      "311",
+      "309",
+      "410"
+     ],
+     "correct": 0,
+     "explain": "Quy luật: trừ dần 100. Số tiếp theo = 410 − 100 = 310."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 260; 280; 300; 320; ... ?",
+     "options": [
+      "320",
+      "340",
+      "360",
+      "341"
+     ],
+     "correct": 1,
+     "explain": "Quy luật: cộng thêm 20. Số tiếp theo = 320 + 20 = 340."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 92; 99; 106; 113; ... ?",
+     "options": [
+      "127",
+      "120",
+      "121",
+      "113"
+     ],
+     "correct": 1,
+     "explain": "Quy luật: cộng thêm 7. Số tiếp theo = 113 + 7 = 120."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 270; 276; 282; 288; ... ?",
+     "options": [
+      "300",
+      "288",
+      "295",
+      "294"
+     ],
+     "correct": 3,
+     "explain": "Quy luật: cộng thêm 6. Số tiếp theo = 288 + 6 = 294."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 14; 114; 214; 314; ... ?",
+     "options": [
+      "514",
+      "415",
+      "314",
+      "414"
+     ],
+     "correct": 3,
+     "explain": "Quy luật: cộng thêm 100. Số tiếp theo = 314 + 100 = 414."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 269; 280; 291; 302; ... ?",
+     "options": [
+      "313",
+      "302",
+      "314",
+      "324"
+     ],
+     "correct": 0,
+     "explain": "Quy luật: cộng thêm 11. Số tiếp theo = 302 + 11 = 313."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 366; 372; 378; 384; ... ?",
+     "options": [
+      "391",
+      "396",
+      "384",
+      "390"
+     ],
+     "correct": 3,
+     "explain": "Quy luật: cộng thêm 6. Số tiếp theo = 384 + 6 = 390."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 200; 210; 220; 230; ... ?",
+     "options": [
+      "240",
+      "241",
+      "230",
+      "250"
+     ],
+     "correct": 0,
+     "explain": "Quy luật: cộng thêm 10. Số tiếp theo = 230 + 10 = 240."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 861; 852; 843; 834; ... ?",
+     "options": [
+      "826",
+      "825",
+      "824",
+      "834"
+     ],
+     "correct": 1,
+     "explain": "Quy luật: trừ dần 9. Số tiếp theo = 834 − 9 = 825."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 91; 97; 103; 109; ... ?",
+     "options": [
+      "109",
+      "116",
+      "115",
+      "121"
+     ],
+     "correct": 2,
+     "explain": "Quy luật: cộng thêm 6. Số tiếp theo = 109 + 6 = 115."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 95; 99; 103; 107; ... ?",
+     "options": [
+      "115",
+      "112",
+      "111",
+      "107"
+     ],
+     "correct": 2,
+     "explain": "Quy luật: cộng thêm 4. Số tiếp theo = 107 + 4 = 111."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 250; 261; 272; 283; ... ?",
+     "options": [
+      "295",
+      "294",
+      "305",
+      "283"
+     ],
+     "correct": 1,
+     "explain": "Quy luật: cộng thêm 11. Số tiếp theo = 283 + 11 = 294."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 277; 327; 377; 427; ... ?",
+     "options": [
+      "477",
+      "478",
+      "527",
+      "427"
+     ],
+     "correct": 0,
+     "explain": "Quy luật: cộng thêm 50. Số tiếp theo = 427 + 50 = 477."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 74; 78; 82; 86; ... ?",
+     "options": [
+      "91",
+      "90",
+      "94",
+      "86"
+     ],
+     "correct": 1,
+     "explain": "Quy luật: cộng thêm 4. Số tiếp theo = 86 + 4 = 90."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 610; 608; 606; 604; ... ?",
+     "options": [
+      "602",
+      "604",
+      "603",
+      "601"
+     ],
+     "correct": 0,
+     "explain": "Quy luật: trừ dần 2. Số tiếp theo = 604 − 2 = 602."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 46; 50; 54; 58; ... ?",
+     "options": [
+      "58",
+      "66",
+      "63",
+      "62"
+     ],
+     "correct": 3,
+     "explain": "Quy luật: cộng thêm 4. Số tiếp theo = 58 + 4 = 62."
+    },
+    {
+     "q": "Tìm số tiếp theo của dãy số: 87; 92; 97; 102; ... ?",
+     "options": [
+      "108",
+      "107",
+      "102",
+      "112"
+     ],
+     "correct": 1,
+     "explain": "Quy luật: cộng thêm 5. Số tiếp theo = 102 + 5 = 107."
+    }
+   ]
+  },
+  {
+   "type": 4,
+   "title": "Bài 4 - Phân tích & trình bày",
+   "exercises": [
+    {
+     "q": "Lan và Huệ có một số cái kẹo. Hôm nay Lan được cho thêm 19 cái kẹo, còn Huệ làm mất 13 cái kẹo thì hai bạn đều có đúng 64 cái kẹo. Hỏi lúc đầu Huệ có bao nhiêu cái kẹo?",
+     "options": [
+      "51",
+      "64",
+      "58",
+      "77"
+     ],
+     "correct": 3,
+     "explain": "Lúc đầu Huệ = 64 + 13 = 77."
+    },
+    {
+     "q": "Hà và Linh có một số chiếc bút. Hôm nay Hà được cho thêm 14 chiếc bút, còn Linh làm mất 17 chiếc bút thì hai bạn đều có đúng 70 chiếc bút. Hỏi lúc đầu cả hai bạn có tất cả bao nhiêu chiếc bút?",
+     "options": [
+      "140",
+      "157",
+      "126",
+      "143"
+     ],
+     "correct": 3,
+     "explain": "Hà: 70−14=56; Linh: 70+17=87; tất cả = 56+87 = 143."
+    },
+    {
+     "q": "Nam và Việt có một số viên bi. Hôm nay Nam được cho thêm 14 viên bi, còn Việt làm mất 14 viên bi thì hai bạn đều có đúng 37 viên bi. Hỏi lúc đầu Nam có bao nhiêu viên bi?",
+     "options": [
+      "37",
+      "51",
+      "23",
+      "14"
+     ],
+     "correct": 2,
+     "explain": "Lúc đầu Nam = 37 − 14 = 23."
+    },
+    {
+     "q": "Nam và Việt có một số viên bi. Hôm nay Nam được cho thêm 13 viên bi, còn Việt làm mất 14 viên bi thì hai bạn đều có đúng 71 viên bi. Hỏi lúc đầu Việt có bao nhiêu viên bi?",
+     "options": [
+      "71",
+      "57",
+      "85",
+      "72"
+     ],
+     "correct": 2,
+     "explain": "Lúc đầu Việt = 71 + 14 = 85."
+    },
+    {
+     "q": "Tú và Khôi có một số con tem. Hôm nay Tú được cho thêm 12 con tem, còn Khôi làm mất 16 con tem thì hai bạn đều có đúng 48 con tem. Hỏi lúc đầu cả hai bạn có tất cả bao nhiêu con tem?",
+     "options": [
+      "100",
+      "96",
+      "112",
+      "84"
+     ],
+     "correct": 0,
+     "explain": "Tú: 48−12=36; Khôi: 48+16=64; tất cả = 36+64 = 100."
+    },
+    {
+     "q": "Mai và Đào có một số bông hoa. Hôm nay Mai được cho thêm 24 bông hoa, còn Đào làm mất 22 bông hoa thì hai bạn đều có đúng 47 bông hoa. Hỏi lúc đầu Đào có bao nhiêu bông hoa?",
+     "options": [
+      "45",
+      "47",
+      "25",
+      "69"
+     ],
+     "correct": 3,
+     "explain": "Lúc đầu Đào = 47 + 22 = 69."
+    },
+    {
+     "q": "Lan và Huệ có một số cái kẹo. Hôm nay Lan được cho thêm 25 cái kẹo, còn Huệ làm mất 15 cái kẹo thì hai bạn đều có đúng 52 cái kẹo. Hỏi lúc đầu Huệ có bao nhiêu cái kẹo?",
+     "options": [
+      "42",
+      "37",
+      "52",
+      "67"
+     ],
+     "correct": 3,
+     "explain": "Lúc đầu Huệ = 52 + 15 = 67."
+    },
+    {
+     "q": "Hà và Linh có một số chiếc bút. Hôm nay Hà được cho thêm 25 chiếc bút, còn Linh làm mất 18 chiếc bút thì hai bạn đều có đúng 78 chiếc bút. Hỏi lúc đầu Linh có bao nhiêu chiếc bút?",
+     "options": [
+      "96",
+      "78",
+      "71",
+      "60"
+     ],
+     "correct": 0,
+     "explain": "Lúc đầu Linh = 78 + 18 = 96."
+    },
+    {
+     "q": "Bình và Hùng có một số quyển truyện. Hôm nay Bình được cho thêm 25 quyển truyện, còn Hùng làm mất 24 quyển truyện thì hai bạn đều có đúng 63 quyển truyện. Hỏi lúc đầu Bình có bao nhiêu quyển truyện?",
+     "options": [
+      "38",
+      "88",
+      "62",
+      "63"
+     ],
+     "correct": 0,
+     "explain": "Lúc đầu Bình = 63 − 25 = 38."
+    },
+    {
+     "q": "Nam và Việt có một số viên bi. Hôm nay Nam được cho thêm 9 viên bi, còn Việt làm mất 10 viên bi thì hai bạn đều có đúng 63 viên bi. Hỏi lúc đầu Việt có bao nhiêu viên bi?",
+     "options": [
+      "73",
+      "63",
+      "64",
+      "53"
+     ],
+     "correct": 0,
+     "explain": "Lúc đầu Việt = 63 + 10 = 73."
+    },
+    {
+     "q": "Tú và Khôi có một số con tem. Hôm nay Tú được cho thêm 23 con tem, còn Khôi làm mất 25 con tem thì hai bạn đều có đúng 31 con tem. Hỏi lúc đầu Tú có bao nhiêu con tem?",
+     "options": [
+      "33",
+      "8",
+      "54",
+      "31"
+     ],
+     "correct": 1,
+     "explain": "Lúc đầu Tú = 31 − 23 = 8."
+    },
+    {
+     "q": "Nam và Việt có một số viên bi. Hôm nay Nam được cho thêm 20 viên bi, còn Việt làm mất 10 viên bi thì hai bạn đều có đúng 40 viên bi. Hỏi lúc đầu cả hai bạn có tất cả bao nhiêu viên bi?",
+     "options": [
+      "90",
+      "70",
+      "80",
+      "60"
+     ],
+     "correct": 1,
+     "explain": "Nam: 40−20=20; Việt: 40+10=50; tất cả = 20+50 = 70."
+    },
+    {
+     "q": "Hà và Linh có một số chiếc bút. Hôm nay Hà được cho thêm 10 chiếc bút, còn Linh làm mất 24 chiếc bút thì hai bạn đều có đúng 37 chiếc bút. Hỏi lúc đầu cả hai bạn có tất cả bao nhiêu chiếc bút?",
+     "options": [
+      "98",
+      "74",
+      "88",
+      "64"
+     ],
+     "correct": 2,
+     "explain": "Hà: 37−10=27; Linh: 37+24=61; tất cả = 27+61 = 88."
+    },
+    {
+     "q": "Bình và Hùng có một số quyển truyện. Hôm nay Bình được cho thêm 23 quyển truyện, còn Hùng làm mất 15 quyển truyện thì hai bạn đều có đúng 50 quyển truyện. Hỏi lúc đầu cả hai bạn có tất cả bao nhiêu quyển truyện?",
+     "options": [
+      "115",
+      "100",
+      "77",
+      "92"
+     ],
+     "correct": 3,
+     "explain": "Bình: 50−23=27; Hùng: 50+15=65; tất cả = 27+65 = 92."
+    },
+    {
+     "q": "Mai và Đào có một số bông hoa. Hôm nay Mai được cho thêm 15 bông hoa, còn Đào làm mất 24 bông hoa thì hai bạn đều có đúng 50 bông hoa. Hỏi lúc đầu Đào có bao nhiêu bông hoa?",
+     "options": [
+      "50",
+      "74",
+      "59",
+      "26"
+     ],
+     "correct": 1,
+     "explain": "Lúc đầu Đào = 50 + 24 = 74."
+    },
+    {
+     "q": "Tú và Khôi có một số con tem. Hôm nay Tú được cho thêm 13 con tem, còn Khôi làm mất 22 con tem thì hai bạn đều có đúng 42 con tem. Hỏi lúc đầu Tú có bao nhiêu con tem?",
+     "options": [
+      "55",
+      "51",
+      "42",
+      "29"
+     ],
+     "correct": 3,
+     "explain": "Lúc đầu Tú = 42 − 13 = 29."
+    },
+    {
+     "q": "Mai và Đào có một số bông hoa. Hôm nay Mai được cho thêm 24 bông hoa, còn Đào làm mất 8 bông hoa thì hai bạn đều có đúng 61 bông hoa. Hỏi lúc đầu Mai có bao nhiêu bông hoa?",
+     "options": [
+      "45",
+      "85",
+      "61",
+      "37"
+     ],
+     "correct": 3,
+     "explain": "Lúc đầu Mai = 61 − 24 = 37."
+    },
+    {
+     "q": "Tú và Khôi có một số con tem. Hôm nay Tú được cho thêm 22 con tem, còn Khôi làm mất 12 con tem thì hai bạn đều có đúng 48 con tem. Hỏi lúc đầu Tú có bao nhiêu con tem?",
+     "options": [
+      "70",
+      "26",
+      "38",
+      "48"
+     ],
+     "correct": 1,
+     "explain": "Lúc đầu Tú = 48 − 22 = 26."
+    },
+    {
+     "q": "Hà và Linh có một số chiếc bút. Hôm nay Hà được cho thêm 8 chiếc bút, còn Linh làm mất 19 chiếc bút thì hai bạn đều có đúng 68 chiếc bút. Hỏi lúc đầu cả hai bạn có tất cả bao nhiêu chiếc bút?",
+     "options": [
+      "147",
+      "136",
+      "128",
+      "155"
+     ],
+     "correct": 0,
+     "explain": "Hà: 68−8=60; Linh: 68+19=87; tất cả = 60+87 = 147."
+    },
+    {
+     "q": "Tú và Khôi có một số con tem. Hôm nay Tú được cho thêm 19 con tem, còn Khôi làm mất 14 con tem thì hai bạn đều có đúng 67 con tem. Hỏi lúc đầu Tú có bao nhiêu con tem?",
+     "options": [
+      "86",
+      "67",
+      "48",
+      "62"
+     ],
+     "correct": 2,
+     "explain": "Lúc đầu Tú = 67 − 19 = 48."
+    },
+    {
+     "q": "Nam và Việt có một số viên bi. Hôm nay Nam được cho thêm 11 viên bi, còn Việt làm mất 21 viên bi thì hai bạn đều có đúng 55 viên bi. Hỏi lúc đầu Nam có bao nhiêu viên bi?",
+     "options": [
+      "44",
+      "55",
+      "66",
+      "65"
+     ],
+     "correct": 0,
+     "explain": "Lúc đầu Nam = 55 − 11 = 44."
+    },
+    {
+     "q": "Bình và Hùng có một số quyển truyện. Hôm nay Bình được cho thêm 13 quyển truyện, còn Hùng làm mất 24 quyển truyện thì hai bạn đều có đúng 47 quyển truyện. Hỏi lúc đầu Hùng có bao nhiêu quyển truyện?",
+     "options": [
+      "47",
+      "71",
+      "58",
+      "23"
+     ],
+     "correct": 1,
+     "explain": "Lúc đầu Hùng = 47 + 24 = 71."
+    },
+    {
+     "q": "Nam và Việt có một số viên bi. Hôm nay Nam được cho thêm 14 viên bi, còn Việt làm mất 25 viên bi thì hai bạn đều có đúng 37 viên bi. Hỏi lúc đầu Việt có bao nhiêu viên bi?",
+     "options": [
+      "62",
+      "37",
+      "48",
+      "12"
+     ],
+     "correct": 0,
+     "explain": "Lúc đầu Việt = 37 + 25 = 62."
+    },
+    {
+     "q": "Tú và Khôi có một số con tem. Hôm nay Tú được cho thêm 9 con tem, còn Khôi làm mất 14 con tem thì hai bạn đều có đúng 71 con tem. Hỏi lúc đầu cả hai bạn có tất cả bao nhiêu con tem?",
+     "options": [
+      "133",
+      "156",
+      "142",
+      "147"
+     ],
+     "correct": 3,
+     "explain": "Tú: 71−9=62; Khôi: 71+14=85; tất cả = 62+85 = 147."
+    },
+    {
+     "q": "Nam và Việt có một số viên bi. Hôm nay Nam được cho thêm 13 viên bi, còn Việt làm mất 10 viên bi thì hai bạn đều có đúng 47 viên bi. Hỏi lúc đầu Nam có bao nhiêu viên bi?",
+     "options": [
+      "47",
+      "34",
+      "44",
+      "60"
+     ],
+     "correct": 1,
+     "explain": "Lúc đầu Nam = 47 − 13 = 34."
+    },
+    {
+     "q": "Mai và Đào có một số bông hoa. Hôm nay Mai được cho thêm 16 bông hoa, còn Đào làm mất 10 bông hoa thì hai bạn đều có đúng 74 bông hoa. Hỏi lúc đầu cả hai bạn có tất cả bao nhiêu bông hoa?",
+     "options": [
+      "142",
+      "148",
+      "132",
+      "158"
+     ],
+     "correct": 0,
+     "explain": "Mai: 74−16=58; Đào: 74+10=84; tất cả = 58+84 = 142."
+    },
+    {
+     "q": "Mai và Đào có một số bông hoa. Hôm nay Mai được cho thêm 9 bông hoa, còn Đào làm mất 25 bông hoa thì hai bạn đều có đúng 52 bông hoa. Hỏi lúc đầu Mai có bao nhiêu bông hoa?",
+     "options": [
+      "52",
+      "61",
+      "68",
+      "43"
+     ],
+     "correct": 3,
+     "explain": "Lúc đầu Mai = 52 − 9 = 43."
+    },
+    {
+     "q": "Lan và Huệ có một số cái kẹo. Hôm nay Lan được cho thêm 9 cái kẹo, còn Huệ làm mất 8 cái kẹo thì hai bạn đều có đúng 56 cái kẹo. Hỏi lúc đầu Huệ có bao nhiêu cái kẹo?",
+     "options": [
+      "56",
+      "64",
+      "55",
+      "48"
+     ],
+     "correct": 1,
+     "explain": "Lúc đầu Huệ = 56 + 8 = 64."
+    },
+    {
+     "q": "Lan và Huệ có một số cái kẹo. Hôm nay Lan được cho thêm 15 cái kẹo, còn Huệ làm mất 13 cái kẹo thì hai bạn đều có đúng 65 cái kẹo. Hỏi lúc đầu Lan có bao nhiêu cái kẹo?",
+     "options": [
+      "80",
+      "50",
+      "63",
+      "65"
+     ],
+     "correct": 1,
+     "explain": "Lúc đầu Lan = 65 − 15 = 50."
+    },
+    {
+     "q": "Hà và Linh có một số chiếc bút. Hôm nay Hà được cho thêm 13 chiếc bút, còn Linh làm mất 22 chiếc bút thì hai bạn đều có đúng 35 chiếc bút. Hỏi lúc đầu Hà có bao nhiêu chiếc bút?",
+     "options": [
+      "44",
+      "22",
+      "48",
+      "35"
+     ],
+     "correct": 1,
+     "explain": "Lúc đầu Hà = 35 − 13 = 22."
+    },
+    {
+     "q": "Tú và Khôi có một số con tem. Hôm nay Tú được cho thêm 24 con tem, còn Khôi làm mất 15 con tem thì hai bạn đều có đúng 60 con tem. Hỏi lúc đầu cả hai bạn có tất cả bao nhiêu con tem?",
+     "options": [
+      "120",
+      "111",
+      "96",
+      "135"
+     ],
+     "correct": 1,
+     "explain": "Tú: 60−24=36; Khôi: 60+15=75; tất cả = 36+75 = 111."
+    },
+    {
+     "q": "Lan và Huệ có một số cái kẹo. Hôm nay Lan được cho thêm 23 cái kẹo, còn Huệ làm mất 25 cái kẹo thì hai bạn đều có đúng 37 cái kẹo. Hỏi lúc đầu Lan có bao nhiêu cái kẹo?",
+     "options": [
+      "37",
+      "14",
+      "39",
+      "60"
+     ],
+     "correct": 1,
+     "explain": "Lúc đầu Lan = 37 − 23 = 14."
+    },
+    {
+     "q": "Hà và Linh có một số chiếc bút. Hôm nay Hà được cho thêm 23 chiếc bút, còn Linh làm mất 21 chiếc bút thì hai bạn đều có đúng 72 chiếc bút. Hỏi lúc đầu cả hai bạn có tất cả bao nhiêu chiếc bút?",
+     "options": [
+      "144",
+      "165",
+      "142",
+      "121"
+     ],
+     "correct": 2,
+     "explain": "Hà: 72−23=49; Linh: 72+21=93; tất cả = 49+93 = 142."
+    }
+   ]
+  },
+  {
+   "type": 5,
+   "title": "Bài 5 - Nhiều hơn, ít hơn",
+   "exercises": [
+    {
+     "q": "Mẹ sinh Hà năm mẹ 28 tuổi. Năm nay mẹ 38 tuổi. Hỏi năm nay Hà mấy tuổi?",
+     "options": [
+      "28",
+      "10",
+      "38",
+      "66"
+     ],
+     "correct": 1,
+     "explain": "Mẹ hơn Hà 28 tuổi → Hà = 38 − 28 = 10 (tuổi)."
+    },
+    {
+     "q": "Hộp A nhiều hơn hộp B 54 viên kẹo. Hộp A có 346 viên kẹo. Hỏi hộp B có bao nhiêu viên kẹo?",
+     "options": [
+      "54",
+      "346",
+      "292",
+      "400"
+     ],
+     "correct": 2,
+     "explain": "hộp B = 346 − 54 = 292 (viên kẹo)."
+    },
+    {
+     "q": "Hộp A nhiều hơn hộp B 106 viên kẹo. Hộp A có 360 viên kẹo. Hỏi hộp B có bao nhiêu viên kẹo?",
+     "options": [
+      "106",
+      "360",
+      "254",
+      "466"
+     ],
+     "correct": 2,
+     "explain": "hộp B = 360 − 106 = 254 (viên kẹo)."
+    },
+    {
+     "q": "Hộp A nhiều hơn hộp B 92 viên kẹo. Hộp A có 369 viên kẹo. Hỏi hộp B có bao nhiêu viên kẹo?",
+     "options": [
+      "369",
+      "92",
+      "461",
+      "277"
+     ],
+     "correct": 3,
+     "explain": "hộp B = 369 − 92 = 277 (viên kẹo)."
+    },
+    {
+     "q": "Mẹ sinh Nam năm mẹ 24 tuổi. Năm nay mẹ 40 tuổi. Hỏi năm nay Nam mấy tuổi?",
+     "options": [
+      "16",
+      "40",
+      "64",
+      "24"
+     ],
+     "correct": 0,
+     "explain": "Mẹ hơn Nam 24 tuổi → Nam = 40 − 24 = 16 (tuổi)."
+    },
+    {
+     "q": "Hộp A nhiều hơn hộp B 63 viên kẹo. Hộp A có 407 viên kẹo. Hỏi hộp B có bao nhiêu viên kẹo?",
+     "options": [
+      "63",
+      "344",
+      "407",
+      "470"
+     ],
+     "correct": 1,
+     "explain": "hộp B = 407 − 63 = 344 (viên kẹo)."
+    },
+    {
+     "q": "Mẹ sinh Mai năm mẹ 34 tuổi. Năm nay mẹ 62 tuổi. Hỏi năm nay Mai mấy tuổi?",
+     "options": [
+      "28",
+      "34",
+      "62",
+      "96"
+     ],
+     "correct": 0,
+     "explain": "Mẹ hơn Mai 34 tuổi → Mai = 62 − 34 = 28 (tuổi)."
+    },
+    {
+     "q": "Mẹ sinh Linh năm mẹ 29 tuổi. Năm nay mẹ 40 tuổi. Hỏi năm nay Linh mấy tuổi?",
+     "options": [
+      "69",
+      "40",
+      "29",
+      "11"
+     ],
+     "correct": 3,
+     "explain": "Mẹ hơn Linh 29 tuổi → Linh = 40 − 29 = 11 (tuổi)."
+    },
+    {
+     "q": "Mẹ sinh Mai năm mẹ 25 tuổi. Năm nay mẹ 31 tuổi. Hỏi năm nay Mai mấy tuổi?",
+     "options": [
+      "31",
+      "25",
+      "6",
+      "56"
+     ],
+     "correct": 2,
+     "explain": "Mẹ hơn Mai 25 tuổi → Mai = 31 − 25 = 6 (tuổi)."
+    },
+    {
+     "q": "Đàn A nhiều hơn đàn B 106 con gà. Đàn A có 332 con gà. Hỏi đàn B có bao nhiêu con gà?",
+     "options": [
+      "438",
+      "226",
+      "106",
+      "332"
+     ],
+     "correct": 1,
+     "explain": "đàn B = 332 − 106 = 226 (con gà)."
+    },
+    {
+     "q": "Mẹ sinh An năm mẹ 27 tuổi. Năm nay mẹ 42 tuổi. Hỏi năm nay An mấy tuổi?",
+     "options": [
+      "69",
+      "15",
+      "27",
+      "42"
+     ],
+     "correct": 1,
+     "explain": "Mẹ hơn An 27 tuổi → An = 42 − 27 = 15 (tuổi)."
+    },
+    {
+     "q": "Hàng A nhiều hơn hàng B 41 cây. Hàng A có 376 cây. Hỏi hàng B có bao nhiêu cây?",
+     "options": [
+      "417",
+      "376",
+      "335",
+      "41"
+     ],
+     "correct": 2,
+     "explain": "hàng B = 376 − 41 = 335 (cây)."
+    },
+    {
+     "q": "Đàn A nhiều hơn đàn B 72 con gà. Đàn A có 216 con gà. Hỏi đàn B có bao nhiêu con gà?",
+     "options": [
+      "288",
+      "144",
+      "72",
+      "216"
+     ],
+     "correct": 1,
+     "explain": "đàn B = 216 − 72 = 144 (con gà)."
+    },
+    {
+     "q": "Mẹ sinh Lan năm mẹ 29 tuổi. Năm nay mẹ 37 tuổi. Hỏi năm nay Lan mấy tuổi?",
+     "options": [
+      "37",
+      "66",
+      "29",
+      "8"
+     ],
+     "correct": 3,
+     "explain": "Mẹ hơn Lan 29 tuổi → Lan = 37 − 29 = 8 (tuổi)."
+    },
+    {
+     "q": "Mẹ sinh Tú năm mẹ 35 tuổi. Năm nay mẹ 59 tuổi. Hỏi năm nay Tú mấy tuổi?",
+     "options": [
+      "24",
+      "59",
+      "35",
+      "94"
+     ],
+     "correct": 0,
+     "explain": "Mẹ hơn Tú 35 tuổi → Tú = 59 − 35 = 24 (tuổi)."
+    },
+    {
+     "q": "Đàn A nhiều hơn đàn B 86 con gà. Đàn A có 258 con gà. Hỏi đàn B có bao nhiêu con gà?",
+     "options": [
+      "86",
+      "258",
+      "344",
+      "172"
+     ],
+     "correct": 3,
+     "explain": "đàn B = 258 − 86 = 172 (con gà)."
+    },
+    {
+     "q": "Đàn A nhiều hơn đàn B 59 con gà. Đàn A có 278 con gà. Hỏi đàn B có bao nhiêu con gà?",
+     "options": [
+      "59",
+      "219",
+      "337",
+      "278"
+     ],
+     "correct": 1,
+     "explain": "đàn B = 278 − 59 = 219 (con gà)."
+    },
+    {
+     "q": "Mẹ sinh Tú năm mẹ 31 tuổi. Năm nay mẹ 61 tuổi. Hỏi năm nay Tú mấy tuổi?",
+     "options": [
+      "92",
+      "30",
+      "31",
+      "61"
+     ],
+     "correct": 1,
+     "explain": "Mẹ hơn Tú 31 tuổi → Tú = 61 − 31 = 30 (tuổi)."
+    },
+    {
+     "q": "Mẹ sinh Hà năm mẹ 23 tuổi. Năm nay mẹ 33 tuổi. Hỏi năm nay Hà mấy tuổi?",
+     "options": [
+      "23",
+      "10",
+      "56",
+      "33"
+     ],
+     "correct": 1,
+     "explain": "Mẹ hơn Hà 23 tuổi → Hà = 33 − 23 = 10 (tuổi)."
+    },
+    {
+     "q": "Hàng A nhiều hơn hàng B 119 cây. Hàng A có 219 cây. Hỏi hàng B có bao nhiêu cây?",
+     "options": [
+      "219",
+      "338",
+      "119",
+      "100"
+     ],
+     "correct": 3,
+     "explain": "hàng B = 219 − 119 = 100 (cây)."
+    },
+    {
+     "q": "Mẹ sinh An năm mẹ 23 tuổi. Năm nay mẹ 29 tuổi. Hỏi năm nay An mấy tuổi?",
+     "options": [
+      "23",
+      "52",
+      "6",
+      "29"
+     ],
+     "correct": 2,
+     "explain": "Mẹ hơn An 23 tuổi → An = 29 − 23 = 6 (tuổi)."
+    },
+    {
+     "q": "Mẹ sinh Mai năm mẹ 23 tuổi. Năm nay mẹ 39 tuổi. Hỏi năm nay Mai mấy tuổi?",
+     "options": [
+      "62",
+      "23",
+      "16",
+      "39"
+     ],
+     "correct": 2,
+     "explain": "Mẹ hơn Mai 23 tuổi → Mai = 39 − 23 = 16 (tuổi)."
+    },
+    {
+     "q": "Giá A nhiều hơn giá B 23 quyển sách. Giá A có 217 quyển sách. Hỏi giá B có bao nhiêu quyển sách?",
+     "options": [
+      "240",
+      "23",
+      "194",
+      "217"
+     ],
+     "correct": 2,
+     "explain": "giá B = 217 − 23 = 194 (quyển sách)."
+    },
+    {
+     "q": "Mẹ sinh An năm mẹ 26 tuổi. Năm nay mẹ 56 tuổi. Hỏi năm nay An mấy tuổi?",
+     "options": [
+      "26",
+      "82",
+      "56",
+      "30"
+     ],
+     "correct": 3,
+     "explain": "Mẹ hơn An 26 tuổi → An = 56 − 26 = 30 (tuổi)."
+    },
+    {
+     "q": "Mẹ sinh Mai năm mẹ 27 tuổi. Năm nay mẹ 34 tuổi. Hỏi năm nay Mai mấy tuổi?",
+     "options": [
+      "27",
+      "61",
+      "34",
+      "7"
+     ],
+     "correct": 3,
+     "explain": "Mẹ hơn Mai 27 tuổi → Mai = 34 − 27 = 7 (tuổi)."
+    },
+    {
+     "q": "Hàng A nhiều hơn hàng B 111 cây. Hàng A có 198 cây. Hỏi hàng B có bao nhiêu cây?",
+     "options": [
+      "111",
+      "198",
+      "87",
+      "309"
+     ],
+     "correct": 2,
+     "explain": "hàng B = 198 − 111 = 87 (cây)."
+    },
+    {
+     "q": "Mẹ sinh An năm mẹ 34 tuổi. Năm nay mẹ 52 tuổi. Hỏi năm nay An mấy tuổi?",
+     "options": [
+      "18",
+      "34",
+      "52",
+      "86"
+     ],
+     "correct": 0,
+     "explain": "Mẹ hơn An 34 tuổi → An = 52 − 34 = 18 (tuổi)."
+    },
+    {
+     "q": "Mẹ sinh An năm mẹ 21 tuổi. Năm nay mẹ 37 tuổi. Hỏi năm nay An mấy tuổi?",
+     "options": [
+      "21",
+      "58",
+      "16",
+      "37"
+     ],
+     "correct": 2,
+     "explain": "Mẹ hơn An 21 tuổi → An = 37 − 21 = 16 (tuổi)."
+    },
+    {
+     "q": "Mẹ sinh Lan năm mẹ 33 tuổi. Năm nay mẹ 39 tuổi. Hỏi năm nay Lan mấy tuổi?",
+     "options": [
+      "39",
+      "6",
+      "72",
+      "33"
+     ],
+     "correct": 1,
+     "explain": "Mẹ hơn Lan 33 tuổi → Lan = 39 − 33 = 6 (tuổi)."
+    },
+    {
+     "q": "Đàn A nhiều hơn đàn B 48 con gà. Đàn A có 290 con gà. Hỏi đàn B có bao nhiêu con gà?",
+     "options": [
+      "290",
+      "242",
+      "48",
+      "338"
+     ],
+     "correct": 1,
+     "explain": "đàn B = 290 − 48 = 242 (con gà)."
+    },
+    {
+     "q": "Mẹ sinh An năm mẹ 33 tuổi. Năm nay mẹ 56 tuổi. Hỏi năm nay An mấy tuổi?",
+     "options": [
+      "23",
+      "56",
+      "33",
+      "89"
+     ],
+     "correct": 0,
+     "explain": "Mẹ hơn An 33 tuổi → An = 56 − 33 = 23 (tuổi)."
+    },
+    {
+     "q": "Mẹ sinh Nam năm mẹ 27 tuổi. Năm nay mẹ 53 tuổi. Hỏi năm nay Nam mấy tuổi?",
+     "options": [
+      "80",
+      "26",
+      "27",
+      "53"
+     ],
+     "correct": 1,
+     "explain": "Mẹ hơn Nam 27 tuổi → Nam = 53 − 27 = 26 (tuổi)."
+    },
+    {
+     "q": "Mẹ sinh Nam năm mẹ 34 tuổi. Năm nay mẹ 46 tuổi. Hỏi năm nay Nam mấy tuổi?",
+     "options": [
+      "80",
+      "46",
+      "34",
+      "12"
+     ],
+     "correct": 3,
+     "explain": "Mẹ hơn Nam 34 tuổi → Nam = 46 − 34 = 12 (tuổi)."
+    }
+   ]
+  },
+  {
+   "type": 6,
+   "title": "Bài 6 - Sơ đồ đoạn thẳng",
+   "exercises": [
+    {
+     "q": "Thùng 1 có 346 gói kẹo. Thùng 2 có nhiều hơn Thùng 1 25 gói kẹo. Thùng 3 có nhiều hơn Thùng 2 42 gói kẹo. Hỏi Thùng 3 có bao nhiêu gói kẹo?",
+     "options": [
+      "371",
+      "413",
+      "346",
+      "455"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: Thùng 2 = 346 + 25 = 371. Bước 2: Thùng 3 = 371 + 42 = 413 (gói kẹo)."
+    },
+    {
+     "q": "Khối 1 có 221 học sinh. Khối 2 có nhiều hơn Khối 1 53 học sinh. Khối 3 có nhiều hơn Khối 2 58 học sinh. Hỏi Khối 3 có bao nhiêu học sinh?",
+     "options": [
+      "332",
+      "274",
+      "390",
+      "221"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: Khối 2 = 221 + 53 = 274. Bước 2: Khối 3 = 274 + 58 = 332 (học sinh)."
+    },
+    {
+     "q": "Trại 1 có 337 con vịt. trại 2 có nhiều hơn Trại 1 54 con vịt. trại 3 có ít hơn trại 2 49 con vịt. Hỏi trại 3 có bao nhiêu con vịt?",
+     "options": [
+      "337",
+      "342",
+      "391",
+      "293"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: trại 2 = 337 + 54 = 391. Bước 2: trại 3 = 391 − 49 = 342 (con vịt)."
+    },
+    {
+     "q": "Kho 1 có 286 bao gạo. kho 2 có nhiều hơn Kho 1 51 bao gạo. kho 3 có ít hơn kho 2 44 bao gạo. Hỏi kho 3 có bao nhiêu bao gạo?",
+     "options": [
+      "286",
+      "293",
+      "337",
+      "249"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: kho 2 = 286 + 51 = 337. Bước 2: kho 3 = 337 − 44 = 293 (bao gạo)."
+    },
+    {
+     "q": "Cửa hàng A có 365 chiếc áo. cửa hàng B có nhiều hơn Cửa hàng A 15 chiếc áo. cửa hàng C có nhiều hơn cửa hàng B 43 chiếc áo. Hỏi cửa hàng C có bao nhiêu chiếc áo?",
+     "options": [
+      "380",
+      "423",
+      "466",
+      "365"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: cửa hàng B = 365 + 15 = 380. Bước 2: cửa hàng C = 380 + 43 = 423 (chiếc áo)."
+    },
+    {
+     "q": "Cửa hàng A có 396 chiếc áo. cửa hàng B có ít hơn Cửa hàng A 49 chiếc áo. cửa hàng C có ít hơn cửa hàng B 70 chiếc áo. Hỏi cửa hàng C có bao nhiêu chiếc áo?",
+     "options": [
+      "396",
+      "277",
+      "347",
+      "207"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: cửa hàng B = 396 − 49 = 347. Bước 2: cửa hàng C = 347 − 70 = 277 (chiếc áo)."
+    },
+    {
+     "q": "Trại 1 có 273 con vịt. trại 2 có ít hơn Trại 1 60 con vịt. trại 3 có ít hơn trại 2 36 con vịt. Hỏi trại 3 có bao nhiêu con vịt?",
+     "options": [
+      "177",
+      "141",
+      "273",
+      "213"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: trại 2 = 273 − 60 = 213. Bước 2: trại 3 = 213 − 36 = 177 (con vịt)."
+    },
+    {
+     "q": "Thùng 1 có 210 gói kẹo. Thùng 2 có nhiều hơn Thùng 1 18 gói kẹo. Thùng 3 có nhiều hơn Thùng 2 65 gói kẹo. Hỏi Thùng 3 có bao nhiêu gói kẹo?",
+     "options": [
+      "228",
+      "293",
+      "358",
+      "210"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: Thùng 2 = 210 + 18 = 228. Bước 2: Thùng 3 = 228 + 65 = 293 (gói kẹo)."
+    },
+    {
+     "q": "Cửa hàng A có 184 chiếc áo. cửa hàng B có nhiều hơn Cửa hàng A 21 chiếc áo. cửa hàng C có ít hơn cửa hàng B 75 chiếc áo. Hỏi cửa hàng C có bao nhiêu chiếc áo?",
+     "options": [
+      "205",
+      "130",
+      "55",
+      "184"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: cửa hàng B = 184 + 21 = 205. Bước 2: cửa hàng C = 205 − 75 = 130 (chiếc áo)."
+    },
+    {
+     "q": "Khối 1 có 156 học sinh. Khối 2 có nhiều hơn Khối 1 52 học sinh. Khối 3 có ít hơn Khối 2 75 học sinh. Hỏi Khối 3 có bao nhiêu học sinh?",
+     "options": [
+      "58",
+      "156",
+      "133",
+      "208"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: Khối 2 = 156 + 52 = 208. Bước 2: Khối 3 = 208 − 75 = 133 (học sinh)."
+    },
+    {
+     "q": "Cửa hàng A có 329 chiếc áo. cửa hàng B có nhiều hơn Cửa hàng A 38 chiếc áo. cửa hàng C có ít hơn cửa hàng B 55 chiếc áo. Hỏi cửa hàng C có bao nhiêu chiếc áo?",
+     "options": [
+      "312",
+      "257",
+      "367",
+      "329"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: cửa hàng B = 329 + 38 = 367. Bước 2: cửa hàng C = 367 − 55 = 312 (chiếc áo)."
+    },
+    {
+     "q": "Thùng 1 có 256 gói kẹo. Thùng 2 có ít hơn Thùng 1 55 gói kẹo. Thùng 3 có nhiều hơn Thùng 2 79 gói kẹo. Hỏi Thùng 3 có bao nhiêu gói kẹo?",
+     "options": [
+      "359",
+      "201",
+      "280",
+      "256"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: Thùng 2 = 256 − 55 = 201. Bước 2: Thùng 3 = 201 + 79 = 280 (gói kẹo)."
+    },
+    {
+     "q": "Kho 1 có 331 bao gạo. kho 2 có ít hơn Kho 1 45 bao gạo. kho 3 có ít hơn kho 2 48 bao gạo. Hỏi kho 3 có bao nhiêu bao gạo?",
+     "options": [
+      "286",
+      "238",
+      "331",
+      "190"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: kho 2 = 331 − 45 = 286. Bước 2: kho 3 = 286 − 48 = 238 (bao gạo)."
+    },
+    {
+     "q": "Trại 1 có 218 con vịt. trại 2 có nhiều hơn Trại 1 32 con vịt. trại 3 có ít hơn trại 2 67 con vịt. Hỏi trại 3 có bao nhiêu con vịt?",
+     "options": [
+      "116",
+      "218",
+      "183",
+      "250"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: trại 2 = 218 + 32 = 250. Bước 2: trại 3 = 250 − 67 = 183 (con vịt)."
+    },
+    {
+     "q": "Cửa hàng A có 135 chiếc áo. cửa hàng B có nhiều hơn Cửa hàng A 21 chiếc áo. cửa hàng C có nhiều hơn cửa hàng B 32 chiếc áo. Hỏi cửa hàng C có bao nhiêu chiếc áo?",
+     "options": [
+      "188",
+      "220",
+      "156",
+      "135"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: cửa hàng B = 135 + 21 = 156. Bước 2: cửa hàng C = 156 + 32 = 188 (chiếc áo)."
+    },
+    {
+     "q": "Khối 1 có 125 học sinh. Khối 2 có ít hơn Khối 1 38 học sinh. Khối 3 có nhiều hơn Khối 2 56 học sinh. Hỏi Khối 3 có bao nhiêu học sinh?",
+     "options": [
+      "199",
+      "143",
+      "125",
+      "87"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: Khối 2 = 125 − 38 = 87. Bước 2: Khối 3 = 87 + 56 = 143 (học sinh)."
+    },
+    {
+     "q": "Cửa hàng A có 167 chiếc áo. cửa hàng B có ít hơn Cửa hàng A 34 chiếc áo. cửa hàng C có ít hơn cửa hàng B 54 chiếc áo. Hỏi cửa hàng C có bao nhiêu chiếc áo?",
+     "options": [
+      "167",
+      "25",
+      "79",
+      "133"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: cửa hàng B = 167 − 34 = 133. Bước 2: cửa hàng C = 133 − 54 = 79 (chiếc áo)."
+    },
+    {
+     "q": "Thùng 1 có 207 gói kẹo. Thùng 2 có nhiều hơn Thùng 1 24 gói kẹo. Thùng 3 có ít hơn Thùng 2 32 gói kẹo. Hỏi Thùng 3 có bao nhiêu gói kẹo?",
+     "options": [
+      "207",
+      "167",
+      "231",
+      "199"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: Thùng 2 = 207 + 24 = 231. Bước 2: Thùng 3 = 231 − 32 = 199 (gói kẹo)."
+    },
+    {
+     "q": "Cửa hàng A có 217 chiếc áo. cửa hàng B có ít hơn Cửa hàng A 27 chiếc áo. cửa hàng C có nhiều hơn cửa hàng B 68 chiếc áo. Hỏi cửa hàng C có bao nhiêu chiếc áo?",
+     "options": [
+      "190",
+      "326",
+      "217",
+      "258"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: cửa hàng B = 217 − 27 = 190. Bước 2: cửa hàng C = 190 + 68 = 258 (chiếc áo)."
+    },
+    {
+     "q": "Kho 1 có 266 bao gạo. kho 2 có nhiều hơn Kho 1 49 bao gạo. kho 3 có ít hơn kho 2 23 bao gạo. Hỏi kho 3 có bao nhiêu bao gạo?",
+     "options": [
+      "292",
+      "266",
+      "315",
+      "269"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: kho 2 = 266 + 49 = 315. Bước 2: kho 3 = 315 − 23 = 292 (bao gạo)."
+    },
+    {
+     "q": "Cửa hàng A có 197 chiếc áo. cửa hàng B có nhiều hơn Cửa hàng A 32 chiếc áo. cửa hàng C có ít hơn cửa hàng B 49 chiếc áo. Hỏi cửa hàng C có bao nhiêu chiếc áo?",
+     "options": [
+      "131",
+      "197",
+      "180",
+      "229"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: cửa hàng B = 197 + 32 = 229. Bước 2: cửa hàng C = 229 − 49 = 180 (chiếc áo)."
+    },
+    {
+     "q": "Cửa hàng A có 332 chiếc áo. cửa hàng B có nhiều hơn Cửa hàng A 19 chiếc áo. cửa hàng C có nhiều hơn cửa hàng B 50 chiếc áo. Hỏi cửa hàng C có bao nhiêu chiếc áo?",
+     "options": [
+      "351",
+      "401",
+      "332",
+      "451"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: cửa hàng B = 332 + 19 = 351. Bước 2: cửa hàng C = 351 + 50 = 401 (chiếc áo)."
+    },
+    {
+     "q": "Khối 1 có 269 học sinh. Khối 2 có ít hơn Khối 1 42 học sinh. Khối 3 có ít hơn Khối 2 25 học sinh. Hỏi Khối 3 có bao nhiêu học sinh?",
+     "options": [
+      "177",
+      "227",
+      "202",
+      "269"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: Khối 2 = 269 − 42 = 227. Bước 2: Khối 3 = 227 − 25 = 202 (học sinh)."
+    },
+    {
+     "q": "Thùng 1 có 134 gói kẹo. Thùng 2 có nhiều hơn Thùng 1 55 gói kẹo. Thùng 3 có ít hơn Thùng 2 73 gói kẹo. Hỏi Thùng 3 có bao nhiêu gói kẹo?",
+     "options": [
+      "134",
+      "116",
+      "189",
+      "43"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: Thùng 2 = 134 + 55 = 189. Bước 2: Thùng 3 = 189 − 73 = 116 (gói kẹo)."
+    },
+    {
+     "q": "Cửa hàng A có 396 chiếc áo. cửa hàng B có ít hơn Cửa hàng A 54 chiếc áo. cửa hàng C có nhiều hơn cửa hàng B 34 chiếc áo. Hỏi cửa hàng C có bao nhiêu chiếc áo?",
+     "options": [
+      "396",
+      "342",
+      "410",
+      "376"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: cửa hàng B = 396 − 54 = 342. Bước 2: cửa hàng C = 342 + 34 = 376 (chiếc áo)."
+    },
+    {
+     "q": "Trại 1 có 151 con vịt. trại 2 có nhiều hơn Trại 1 55 con vịt. trại 3 có nhiều hơn trại 2 61 con vịt. Hỏi trại 3 có bao nhiêu con vịt?",
+     "options": [
+      "151",
+      "267",
+      "328",
+      "206"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: trại 2 = 151 + 55 = 206. Bước 2: trại 3 = 206 + 61 = 267 (con vịt)."
+    },
+    {
+     "q": "Kho 1 có 388 bao gạo. kho 2 có nhiều hơn Kho 1 37 bao gạo. kho 3 có ít hơn kho 2 71 bao gạo. Hỏi kho 3 có bao nhiêu bao gạo?",
+     "options": [
+      "354",
+      "283",
+      "425",
+      "388"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: kho 2 = 388 + 37 = 425. Bước 2: kho 3 = 425 − 71 = 354 (bao gạo)."
+    },
+    {
+     "q": "Khối 1 có 140 học sinh. Khối 2 có nhiều hơn Khối 1 45 học sinh. Khối 3 có nhiều hơn Khối 2 29 học sinh. Hỏi Khối 3 có bao nhiêu học sinh?",
+     "options": [
+      "214",
+      "185",
+      "243",
+      "140"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: Khối 2 = 140 + 45 = 185. Bước 2: Khối 3 = 185 + 29 = 214 (học sinh)."
+    },
+    {
+     "q": "Khối 1 có 255 học sinh. Khối 2 có nhiều hơn Khối 1 22 học sinh. Khối 3 có ít hơn Khối 2 35 học sinh. Hỏi Khối 3 có bao nhiêu học sinh?",
+     "options": [
+      "207",
+      "255",
+      "242",
+      "277"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: Khối 2 = 255 + 22 = 277. Bước 2: Khối 3 = 277 − 35 = 242 (học sinh)."
+    },
+    {
+     "q": "Trại 1 có 124 con vịt. trại 2 có nhiều hơn Trại 1 22 con vịt. trại 3 có nhiều hơn trại 2 22 con vịt. Hỏi trại 3 có bao nhiêu con vịt?",
+     "options": [
+      "190",
+      "124",
+      "168",
+      "146"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: trại 2 = 124 + 22 = 146. Bước 2: trại 3 = 146 + 22 = 168 (con vịt)."
+    },
+    {
+     "q": "Thùng 1 có 274 gói kẹo. Thùng 2 có nhiều hơn Thùng 1 26 gói kẹo. Thùng 3 có nhiều hơn Thùng 2 39 gói kẹo. Hỏi Thùng 3 có bao nhiêu gói kẹo?",
+     "options": [
+      "274",
+      "378",
+      "300",
+      "339"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: Thùng 2 = 274 + 26 = 300. Bước 2: Thùng 3 = 300 + 39 = 339 (gói kẹo)."
+    },
+    {
+     "q": "Thùng 1 có 165 gói kẹo. Thùng 2 có nhiều hơn Thùng 1 40 gói kẹo. Thùng 3 có ít hơn Thùng 2 44 gói kẹo. Hỏi Thùng 3 có bao nhiêu gói kẹo?",
+     "options": [
+      "165",
+      "117",
+      "205",
+      "161"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: Thùng 2 = 165 + 40 = 205. Bước 2: Thùng 3 = 205 − 44 = 161 (gói kẹo)."
+    },
+    {
+     "q": "Thùng 1 có 289 gói kẹo. Thùng 2 có ít hơn Thùng 1 50 gói kẹo. Thùng 3 có nhiều hơn Thùng 2 25 gói kẹo. Hỏi Thùng 3 có bao nhiêu gói kẹo?",
+     "options": [
+      "364",
+      "264",
+      "289",
+      "239"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: Thùng 2 = 289 − 50 = 239. Bước 2: Thùng 3 = 239 + 25 = 264 (gói kẹo)."
+    },
+    {
+     "q": "Thùng 1 có 232 gói kẹo. Thùng 2 có nhiều hơn Thùng 1 29 gói kẹo. Thùng 3 có nhiều hơn Thùng 2 79 gói kẹo. Hỏi Thùng 3 có bao nhiêu gói kẹo?",
+     "options": [
+      "419",
+      "232",
+      "261",
+      "340"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: Thùng 2 = 232 + 29 = 261. Bước 2: Thùng 3 = 261 + 79 = 340 (gói kẹo)."
+    }
+   ]
+  }
+ ]
+}

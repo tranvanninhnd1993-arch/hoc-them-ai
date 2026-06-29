@@ -1,0 +1,2236 @@
+{
+ "grade": 3,
+ "week": 6,
+ "lessons": [
+  {
+   "type": 1,
+   "title": "Bài 1 - Chia số có hai chữ số cho số có một chữ số",
+   "exercises": [
+    {
+     "q": "Đặt tính rồi tính: 81 : 4 = ?",
+     "options": [
+      "20 dư 2",
+      "19 dư 1",
+      "20 dư 1",
+      "21 dư 1"
+     ],
+     "correct": 2,
+     "explain": "81 : 4 = 20 (dư 1) vì 4 × 20 + 1 = 81."
+    },
+    {
+     "q": "Đặt tính rồi tính: 74 : 8 = ?",
+     "options": [
+      "9 dư 3",
+      "8 dư 2",
+      "10 dư 2",
+      "9 dư 2"
+     ],
+     "correct": 3,
+     "explain": "74 : 8 = 9 (dư 2) vì 8 × 9 + 2 = 74."
+    },
+    {
+     "q": "Đặt tính rồi tính: 75 : 9 = ?",
+     "options": [
+      "9 dư 3",
+      "8 dư 4",
+      "7 dư 3",
+      "8 dư 3"
+     ],
+     "correct": 3,
+     "explain": "75 : 9 = 8 (dư 3) vì 9 × 8 + 3 = 75."
+    },
+    {
+     "q": "Đặt tính rồi tính: 51 : 2 = ?",
+     "options": [
+      "26 dư 1",
+      "25 dư 1",
+      "24 dư 1",
+      "25 dư 0"
+     ],
+     "correct": 1,
+     "explain": "51 : 2 = 25 (dư 1) vì 2 × 25 + 1 = 51."
+    },
+    {
+     "q": "Đặt tính rồi tính: 91 : 7 = ?",
+     "options": [
+      "23",
+      "12",
+      "14",
+      "13"
+     ],
+     "correct": 3,
+     "explain": "91 : 7 = 13."
+    },
+    {
+     "q": "Đặt tính rồi tính: 68 : 2 = ?",
+     "options": [
+      "34",
+      "33",
+      "44",
+      "35"
+     ],
+     "correct": 0,
+     "explain": "68 : 2 = 34."
+    },
+    {
+     "q": "Đặt tính rồi tính: 84 : 7 = ?",
+     "options": [
+      "22",
+      "11",
+      "12",
+      "13"
+     ],
+     "correct": 2,
+     "explain": "84 : 7 = 12."
+    },
+    {
+     "q": "Đặt tính rồi tính: 53 : 8 = ?",
+     "options": [
+      "5 dư 5",
+      "6 dư 6",
+      "6 dư 5",
+      "7 dư 5"
+     ],
+     "correct": 2,
+     "explain": "53 : 8 = 6 (dư 5) vì 8 × 6 + 5 = 53."
+    },
+    {
+     "q": "Đặt tính rồi tính: 79 : 3 = ?",
+     "options": [
+      "26 dư 1",
+      "26 dư 2",
+      "27 dư 1",
+      "25 dư 1"
+     ],
+     "correct": 0,
+     "explain": "79 : 3 = 26 (dư 1) vì 3 × 26 + 1 = 79."
+    },
+    {
+     "q": "Đặt tính rồi tính: 99 : 5 = ?",
+     "options": [
+      "18 dư 4",
+      "20 dư 4",
+      "19 dư 4",
+      "19 dư 0"
+     ],
+     "correct": 2,
+     "explain": "99 : 5 = 19 (dư 4) vì 5 × 19 + 4 = 99."
+    },
+    {
+     "q": "Đặt tính rồi tính: 80 : 3 = ?",
+     "options": [
+      "25 dư 2",
+      "26 dư 0",
+      "26 dư 2",
+      "27 dư 2"
+     ],
+     "correct": 2,
+     "explain": "80 : 3 = 26 (dư 2) vì 3 × 26 + 2 = 80."
+    },
+    {
+     "q": "Đặt tính rồi tính: 48 : 6 = ?",
+     "options": [
+      "8",
+      "9",
+      "7",
+      "18"
+     ],
+     "correct": 0,
+     "explain": "48 : 6 = 8."
+    },
+    {
+     "q": "Đặt tính rồi tính: 28 : 2 = ?",
+     "options": [
+      "15",
+      "14",
+      "24",
+      "13"
+     ],
+     "correct": 1,
+     "explain": "28 : 2 = 14."
+    },
+    {
+     "q": "Đặt tính rồi tính: 42 : 4 = ?",
+     "options": [
+      "10 dư 3",
+      "9 dư 2",
+      "10 dư 2",
+      "11 dư 2"
+     ],
+     "correct": 2,
+     "explain": "42 : 4 = 10 (dư 2) vì 4 × 10 + 2 = 42."
+    },
+    {
+     "q": "Đặt tính rồi tính: 86 : 6 = ?",
+     "options": [
+      "15 dư 2",
+      "13 dư 2",
+      "14 dư 2",
+      "14 dư 3"
+     ],
+     "correct": 2,
+     "explain": "86 : 6 = 14 (dư 2) vì 6 × 14 + 2 = 86."
+    },
+    {
+     "q": "Đặt tính rồi tính: 35 : 6 = ?",
+     "options": [
+      "4 dư 5",
+      "5 dư 0",
+      "5 dư 5",
+      "6 dư 5"
+     ],
+     "correct": 2,
+     "explain": "35 : 6 = 5 (dư 5) vì 6 × 5 + 5 = 35."
+    },
+    {
+     "q": "Đặt tính rồi tính: 80 : 8 = ?",
+     "options": [
+      "9",
+      "10",
+      "11",
+      "20"
+     ],
+     "correct": 1,
+     "explain": "80 : 8 = 10."
+    },
+    {
+     "q": "Đặt tính rồi tính: 57 : 8 = ?",
+     "options": [
+      "7 dư 2",
+      "6 dư 1",
+      "8 dư 1",
+      "7 dư 1"
+     ],
+     "correct": 3,
+     "explain": "57 : 8 = 7 (dư 1) vì 8 × 7 + 1 = 57."
+    },
+    {
+     "q": "Đặt tính rồi tính: 56 : 7 = ?",
+     "options": [
+      "7",
+      "18",
+      "9",
+      "8"
+     ],
+     "correct": 3,
+     "explain": "56 : 7 = 8."
+    },
+    {
+     "q": "Đặt tính rồi tính: 73 : 2 = ?",
+     "options": [
+      "36 dư 1",
+      "37 dư 1",
+      "36 dư 0",
+      "35 dư 1"
+     ],
+     "correct": 0,
+     "explain": "73 : 2 = 36 (dư 1) vì 2 × 36 + 1 = 73."
+    },
+    {
+     "q": "Đặt tính rồi tính: 38 : 4 = ?",
+     "options": [
+      "9 dư 3",
+      "9 dư 2",
+      "8 dư 2",
+      "10 dư 2"
+     ],
+     "correct": 1,
+     "explain": "38 : 4 = 9 (dư 2) vì 4 × 9 + 2 = 38."
+    },
+    {
+     "q": "Đặt tính rồi tính: 59 : 4 = ?",
+     "options": [
+      "14 dư 0",
+      "15 dư 3",
+      "14 dư 3",
+      "13 dư 3"
+     ],
+     "correct": 2,
+     "explain": "59 : 4 = 14 (dư 3) vì 4 × 14 + 3 = 59."
+    },
+    {
+     "q": "Đặt tính rồi tính: 32 : 4 = ?",
+     "options": [
+      "18",
+      "9",
+      "8",
+      "7"
+     ],
+     "correct": 2,
+     "explain": "32 : 4 = 8."
+    },
+    {
+     "q": "Đặt tính rồi tính: 97 : 2 = ?",
+     "options": [
+      "48 dư 1",
+      "47 dư 1",
+      "48 dư 0",
+      "49 dư 1"
+     ],
+     "correct": 0,
+     "explain": "97 : 2 = 48 (dư 1) vì 2 × 48 + 1 = 97."
+    },
+    {
+     "q": "Đặt tính rồi tính: 96 : 8 = ?",
+     "options": [
+      "11",
+      "12",
+      "13",
+      "22"
+     ],
+     "correct": 1,
+     "explain": "96 : 8 = 12."
+    },
+    {
+     "q": "Đặt tính rồi tính: 21 : 8 = ?",
+     "options": [
+      "3 dư 5",
+      "2 dư 5",
+      "1 dư 5",
+      "2 dư 6"
+     ],
+     "correct": 1,
+     "explain": "21 : 8 = 2 (dư 5) vì 8 × 2 + 5 = 21."
+    },
+    {
+     "q": "Đặt tính rồi tính: 97 : 7 = ?",
+     "options": [
+      "12 dư 6",
+      "14 dư 6",
+      "13 dư 0",
+      "13 dư 6"
+     ],
+     "correct": 3,
+     "explain": "97 : 7 = 13 (dư 6) vì 7 × 13 + 6 = 97."
+    },
+    {
+     "q": "Đặt tính rồi tính: 42 : 3 = ?",
+     "options": [
+      "14",
+      "13",
+      "15",
+      "24"
+     ],
+     "correct": 0,
+     "explain": "42 : 3 = 14."
+    },
+    {
+     "q": "Đặt tính rồi tính: 73 : 5 = ?",
+     "options": [
+      "15 dư 3",
+      "13 dư 3",
+      "14 dư 3",
+      "14 dư 4"
+     ],
+     "correct": 2,
+     "explain": "73 : 5 = 14 (dư 3) vì 5 × 14 + 3 = 73."
+    },
+    {
+     "q": "Đặt tính rồi tính: 69 : 9 = ?",
+     "options": [
+      "6 dư 6",
+      "7 dư 7",
+      "7 dư 6",
+      "8 dư 6"
+     ],
+     "correct": 2,
+     "explain": "69 : 9 = 7 (dư 6) vì 9 × 7 + 6 = 69."
+    },
+    {
+     "q": "Đặt tính rồi tính: 84 : 3 = ?",
+     "options": [
+      "29",
+      "28",
+      "27",
+      "38"
+     ],
+     "correct": 1,
+     "explain": "84 : 3 = 28."
+    },
+    {
+     "q": "Đặt tính rồi tính: 55 : 8 = ?",
+     "options": [
+      "6 dư 0",
+      "6 dư 7",
+      "5 dư 7",
+      "7 dư 7"
+     ],
+     "correct": 1,
+     "explain": "55 : 8 = 6 (dư 7) vì 8 × 6 + 7 = 55."
+    },
+    {
+     "q": "Đặt tính rồi tính: 62 : 4 = ?",
+     "options": [
+      "14 dư 2",
+      "15 dư 3",
+      "16 dư 2",
+      "15 dư 2"
+     ],
+     "correct": 3,
+     "explain": "62 : 4 = 15 (dư 2) vì 4 × 15 + 2 = 62."
+    },
+    {
+     "q": "Đặt tính rồi tính: 74 : 3 = ?",
+     "options": [
+      "25 dư 2",
+      "23 dư 2",
+      "24 dư 0",
+      "24 dư 2"
+     ],
+     "correct": 3,
+     "explain": "74 : 3 = 24 (dư 2) vì 3 × 24 + 2 = 74."
+    },
+    {
+     "q": "Đặt tính rồi tính: 78 : 9 = ?",
+     "options": [
+      "8 dư 7",
+      "7 dư 6",
+      "8 dư 6",
+      "9 dư 6"
+     ],
+     "correct": 2,
+     "explain": "78 : 9 = 8 (dư 6) vì 9 × 8 + 6 = 78."
+    },
+    {
+     "q": "Đặt tính rồi tính: 38 : 8 = ?",
+     "options": [
+      "4 dư 7",
+      "3 dư 6",
+      "4 dư 6",
+      "5 dư 6"
+     ],
+     "correct": 2,
+     "explain": "38 : 8 = 4 (dư 6) vì 8 × 4 + 6 = 38."
+    },
+    {
+     "q": "Đặt tính rồi tính: 99 : 4 = ?",
+     "options": [
+      "24 dư 0",
+      "23 dư 3",
+      "24 dư 3",
+      "25 dư 3"
+     ],
+     "correct": 2,
+     "explain": "99 : 4 = 24 (dư 3) vì 4 × 24 + 3 = 99."
+    },
+    {
+     "q": "Đặt tính rồi tính: 21 : 7 = ?",
+     "options": [
+      "2",
+      "4",
+      "3",
+      "13"
+     ],
+     "correct": 2,
+     "explain": "21 : 7 = 3."
+    },
+    {
+     "q": "Đặt tính rồi tính: 41 : 8 = ?",
+     "options": [
+      "4 dư 1",
+      "6 dư 1",
+      "5 dư 1",
+      "5 dư 2"
+     ],
+     "correct": 2,
+     "explain": "41 : 8 = 5 (dư 1) vì 8 × 5 + 1 = 41."
+    },
+    {
+     "q": "Đặt tính rồi tính: 51 : 6 = ?",
+     "options": [
+      "8 dư 3",
+      "7 dư 3",
+      "9 dư 3",
+      "8 dư 4"
+     ],
+     "correct": 0,
+     "explain": "51 : 6 = 8 (dư 3) vì 6 × 8 + 3 = 51."
+    }
+   ]
+  },
+  {
+   "type": 2,
+   "title": "Bài 2 - Giải toán có lời văn (chia đều)",
+   "exercises": [
+    {
+     "q": "Chị Hà có 21 quyển vở chia đều cho 3 bạn. Hỏi mỗi bạn được bao nhiêu quyển vở?",
+     "options": [
+      "3",
+      "8",
+      "21",
+      "7"
+     ],
+     "correct": 3,
+     "explain": "21 : 3 = 7 (quyển vở)."
+    },
+    {
+     "q": "Mẹ có 24 cái kẹo chia đều cho 4 em. Hỏi mỗi em được bao nhiêu cái kẹo?",
+     "options": [
+      "6",
+      "24",
+      "4",
+      "7"
+     ],
+     "correct": 0,
+     "explain": "24 : 4 = 6 (cái kẹo)."
+    },
+    {
+     "q": "Cô giáo có 24 viên bi chia đều cho 6 túi. Hỏi mỗi túi được bao nhiêu viên bi?",
+     "options": [
+      "6",
+      "24",
+      "4",
+      "5"
+     ],
+     "correct": 2,
+     "explain": "24 : 6 = 4 (viên bi)."
+    },
+    {
+     "q": "Cô giáo có 10 cái kẹo chia đều cho 2 em. Hỏi mỗi em được bao nhiêu cái kẹo?",
+     "options": [
+      "2",
+      "6",
+      "10",
+      "5"
+     ],
+     "correct": 3,
+     "explain": "10 : 2 = 5 (cái kẹo)."
+    },
+    {
+     "q": "Cô giáo có 35 quả táo chia đều cho 5 đĩa. Hỏi mỗi đĩa được bao nhiêu quả táo?",
+     "options": [
+      "5",
+      "8",
+      "35",
+      "7"
+     ],
+     "correct": 3,
+     "explain": "35 : 5 = 7 (quả táo)."
+    },
+    {
+     "q": "Chị Hà có 30 quyển vở chia đều cho 5 bạn. Hỏi mỗi bạn được bao nhiêu quyển vở?",
+     "options": [
+      "6",
+      "5",
+      "7",
+      "30"
+     ],
+     "correct": 0,
+     "explain": "30 : 5 = 6 (quyển vở)."
+    },
+    {
+     "q": "Cô giáo có 30 viên bi chia đều cho 3 túi. Hỏi mỗi túi được bao nhiêu viên bi?",
+     "options": [
+      "11",
+      "30",
+      "3",
+      "10"
+     ],
+     "correct": 3,
+     "explain": "30 : 3 = 10 (viên bi)."
+    },
+    {
+     "q": "Bác Lan có 6 quyển vở chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu quyển vở?",
+     "options": [
+      "3",
+      "2",
+      "6",
+      "4"
+     ],
+     "correct": 0,
+     "explain": "6 : 2 = 3 (quyển vở)."
+    },
+    {
+     "q": "Chị Hà có 96 viên bi chia đều cho 8 túi. Hỏi mỗi túi được bao nhiêu viên bi?",
+     "options": [
+      "96",
+      "13",
+      "8",
+      "12"
+     ],
+     "correct": 3,
+     "explain": "96 : 8 = 12 (viên bi)."
+    },
+    {
+     "q": "Bác Lan có 8 quyển vở chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu quyển vở?",
+     "options": [
+      "2",
+      "4",
+      "5",
+      "8"
+     ],
+     "correct": 1,
+     "explain": "8 : 2 = 4 (quyển vở)."
+    },
+    {
+     "q": "Cô giáo có 24 viên bi chia đều cho 8 túi. Hỏi mỗi túi được bao nhiêu viên bi?",
+     "options": [
+      "3",
+      "24",
+      "4",
+      "8"
+     ],
+     "correct": 0,
+     "explain": "24 : 8 = 3 (viên bi)."
+    },
+    {
+     "q": "Mẹ có 40 bông hoa chia đều cho 8 lọ. Hỏi mỗi lọ được bao nhiêu bông hoa?",
+     "options": [
+      "6",
+      "8",
+      "5",
+      "40"
+     ],
+     "correct": 2,
+     "explain": "40 : 8 = 5 (bông hoa)."
+    },
+    {
+     "q": "Mẹ có 18 viên bi chia đều cho 6 túi. Hỏi mỗi túi được bao nhiêu viên bi?",
+     "options": [
+      "4",
+      "18",
+      "3",
+      "6"
+     ],
+     "correct": 2,
+     "explain": "18 : 6 = 3 (viên bi)."
+    },
+    {
+     "q": "Thầy giáo có 16 quyển vở chia đều cho 4 bạn. Hỏi mỗi bạn được bao nhiêu quyển vở?",
+     "options": [
+      "5",
+      "3",
+      "4",
+      "16"
+     ],
+     "correct": 2,
+     "explain": "16 : 4 = 4 (quyển vở)."
+    },
+    {
+     "q": "Cô giáo có 24 viên bi chia đều cho 4 túi. Hỏi mỗi túi được bao nhiêu viên bi?",
+     "options": [
+      "6",
+      "4",
+      "7",
+      "24"
+     ],
+     "correct": 0,
+     "explain": "24 : 4 = 6 (viên bi)."
+    },
+    {
+     "q": "Mẹ có 56 viên bi chia đều cho 7 túi. Hỏi mỗi túi được bao nhiêu viên bi?",
+     "options": [
+      "9",
+      "56",
+      "7",
+      "8"
+     ],
+     "correct": 3,
+     "explain": "56 : 7 = 8 (viên bi)."
+    },
+    {
+     "q": "Cô giáo có 108 quyển vở chia đều cho 9 bạn. Hỏi mỗi bạn được bao nhiêu quyển vở?",
+     "options": [
+      "12",
+      "108",
+      "9",
+      "13"
+     ],
+     "correct": 0,
+     "explain": "108 : 9 = 12 (quyển vở)."
+    },
+    {
+     "q": "Thầy giáo có 20 quyển vở chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu quyển vở?",
+     "options": [
+      "2",
+      "10",
+      "11",
+      "20"
+     ],
+     "correct": 1,
+     "explain": "20 : 2 = 10 (quyển vở)."
+    },
+    {
+     "q": "Mẹ có 33 quả táo chia đều cho 3 đĩa. Hỏi mỗi đĩa được bao nhiêu quả táo?",
+     "options": [
+      "11",
+      "12",
+      "3",
+      "33"
+     ],
+     "correct": 0,
+     "explain": "33 : 3 = 11 (quả táo)."
+    },
+    {
+     "q": "Mẹ có 54 quyển vở chia đều cho 6 bạn. Hỏi mỗi bạn được bao nhiêu quyển vở?",
+     "options": [
+      "9",
+      "54",
+      "6",
+      "10"
+     ],
+     "correct": 0,
+     "explain": "54 : 6 = 9 (quyển vở)."
+    },
+    {
+     "q": "Bác Lan có 108 viên bi chia đều cho 9 túi. Hỏi mỗi túi được bao nhiêu viên bi?",
+     "options": [
+      "13",
+      "108",
+      "9",
+      "12"
+     ],
+     "correct": 3,
+     "explain": "108 : 9 = 12 (viên bi)."
+    },
+    {
+     "q": "Mẹ có 64 bông hoa chia đều cho 8 lọ. Hỏi mỗi lọ được bao nhiêu bông hoa?",
+     "options": [
+      "64",
+      "9",
+      "7",
+      "8"
+     ],
+     "correct": 3,
+     "explain": "64 : 8 = 8 (bông hoa)."
+    },
+    {
+     "q": "Cô giáo có 9 cái kẹo chia đều cho 3 em. Hỏi mỗi em được bao nhiêu cái kẹo?",
+     "options": [
+      "9",
+      "4",
+      "3",
+      "2"
+     ],
+     "correct": 2,
+     "explain": "9 : 3 = 3 (cái kẹo)."
+    },
+    {
+     "q": "Cô giáo có 36 quyển vở chia đều cho 9 bạn. Hỏi mỗi bạn được bao nhiêu quyển vở?",
+     "options": [
+      "36",
+      "9",
+      "4",
+      "5"
+     ],
+     "correct": 2,
+     "explain": "36 : 9 = 4 (quyển vở)."
+    },
+    {
+     "q": "Cô giáo có 42 cái kẹo chia đều cho 7 em. Hỏi mỗi em được bao nhiêu cái kẹo?",
+     "options": [
+      "5",
+      "6",
+      "42",
+      "7"
+     ],
+     "correct": 1,
+     "explain": "42 : 7 = 6 (cái kẹo)."
+    },
+    {
+     "q": "Chị Hà có 32 viên bi chia đều cho 8 túi. Hỏi mỗi túi được bao nhiêu viên bi?",
+     "options": [
+      "32",
+      "5",
+      "8",
+      "4"
+     ],
+     "correct": 3,
+     "explain": "32 : 8 = 4 (viên bi)."
+    },
+    {
+     "q": "Chị Hà có 18 viên bi chia đều cho 2 túi. Hỏi mỗi túi được bao nhiêu viên bi?",
+     "options": [
+      "10",
+      "2",
+      "18",
+      "9"
+     ],
+     "correct": 3,
+     "explain": "18 : 2 = 9 (viên bi)."
+    },
+    {
+     "q": "Chị Hà có 49 cái kẹo chia đều cho 7 em. Hỏi mỗi em được bao nhiêu cái kẹo?",
+     "options": [
+      "6",
+      "8",
+      "49",
+      "7"
+     ],
+     "correct": 3,
+     "explain": "49 : 7 = 7 (cái kẹo)."
+    },
+    {
+     "q": "Bác Lan có 84 viên bi chia đều cho 7 túi. Hỏi mỗi túi được bao nhiêu viên bi?",
+     "options": [
+      "84",
+      "12",
+      "7",
+      "13"
+     ],
+     "correct": 1,
+     "explain": "84 : 7 = 12 (viên bi)."
+    },
+    {
+     "q": "Chị Hà có 54 cái kẹo chia đều cho 6 em. Hỏi mỗi em được bao nhiêu cái kẹo?",
+     "options": [
+      "9",
+      "6",
+      "10",
+      "54"
+     ],
+     "correct": 0,
+     "explain": "54 : 6 = 9 (cái kẹo)."
+    },
+    {
+     "q": "Mẹ có 36 viên bi chia đều cho 6 túi. Hỏi mỗi túi được bao nhiêu viên bi?",
+     "options": [
+      "6",
+      "5",
+      "7",
+      "36"
+     ],
+     "correct": 0,
+     "explain": "36 : 6 = 6 (viên bi)."
+    },
+    {
+     "q": "Chị Hà có 63 viên bi chia đều cho 9 túi. Hỏi mỗi túi được bao nhiêu viên bi?",
+     "options": [
+      "8",
+      "63",
+      "7",
+      "9"
+     ],
+     "correct": 2,
+     "explain": "63 : 9 = 7 (viên bi)."
+    },
+    {
+     "q": "Cô giáo có 15 viên bi chia đều cho 5 túi. Hỏi mỗi túi được bao nhiêu viên bi?",
+     "options": [
+      "15",
+      "4",
+      "5",
+      "3"
+     ],
+     "correct": 3,
+     "explain": "15 : 5 = 3 (viên bi)."
+    },
+    {
+     "q": "Bác Lan có 63 cái kẹo chia đều cho 9 em. Hỏi mỗi em được bao nhiêu cái kẹo?",
+     "options": [
+      "63",
+      "9",
+      "7",
+      "8"
+     ],
+     "correct": 2,
+     "explain": "63 : 9 = 7 (cái kẹo)."
+    },
+    {
+     "q": "Cô giáo có 18 quả táo chia đều cho 3 đĩa. Hỏi mỗi đĩa được bao nhiêu quả táo?",
+     "options": [
+      "18",
+      "6",
+      "3",
+      "7"
+     ],
+     "correct": 1,
+     "explain": "18 : 3 = 6 (quả táo)."
+    },
+    {
+     "q": "Bác Lan có 18 cái kẹo chia đều cho 6 em. Hỏi mỗi em được bao nhiêu cái kẹo?",
+     "options": [
+      "6",
+      "4",
+      "3",
+      "18"
+     ],
+     "correct": 2,
+     "explain": "18 : 6 = 3 (cái kẹo)."
+    },
+    {
+     "q": "Mẹ có 27 cái kẹo chia đều cho 3 em. Hỏi mỗi em được bao nhiêu cái kẹo?",
+     "options": [
+      "10",
+      "3",
+      "27",
+      "9"
+     ],
+     "correct": 3,
+     "explain": "27 : 3 = 9 (cái kẹo)."
+    },
+    {
+     "q": "Cô giáo có 42 bông hoa chia đều cho 7 lọ. Hỏi mỗi lọ được bao nhiêu bông hoa?",
+     "options": [
+      "7",
+      "42",
+      "5",
+      "6"
+     ],
+     "correct": 3,
+     "explain": "42 : 7 = 6 (bông hoa)."
+    },
+    {
+     "q": "Mẹ có 8 viên bi chia đều cho 2 túi. Hỏi mỗi túi được bao nhiêu viên bi?",
+     "options": [
+      "8",
+      "5",
+      "4",
+      "2"
+     ],
+     "correct": 2,
+     "explain": "8 : 2 = 4 (viên bi)."
+    },
+    {
+     "q": "Thầy giáo có 40 quả táo chia đều cho 4 đĩa. Hỏi mỗi đĩa được bao nhiêu quả táo?",
+     "options": [
+      "10",
+      "11",
+      "40",
+      "4"
+     ],
+     "correct": 0,
+     "explain": "40 : 4 = 10 (quả táo)."
+    }
+   ]
+  },
+  {
+   "type": 3,
+   "title": "Bài 3 - Bài toán tìm số (sơ đồ ngược)",
+   "exercises": [
+    {
+     "q": "Bạn Hoa nghĩ ra một số, đem số đó nhân với 5 rồi lấy kết quả chia cho 2 thì được 5. Hỏi Hoa đã nghĩ ra số nào?",
+     "options": [
+      "5",
+      "25",
+      "2",
+      "10"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 5 × 2 = 10, rồi 10 ÷ 5 = 2."
+    },
+    {
+     "q": "Bạn Nam viết một số, đem số đó nhân với 6 rồi lấy kết quả chia cho 2 thì được 9. Hỏi Nam đã viết số nào?",
+     "options": [
+      "54",
+      "3",
+      "18",
+      "9"
+     ],
+     "correct": 1,
+     "explain": "Ngược: 9 × 2 = 18, rồi 18 ÷ 6 = 3."
+    },
+    {
+     "q": "Bạn Nam viết một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 6 thì được 5. Hỏi Nam đã viết số nào?",
+     "options": [
+      "30",
+      "15",
+      "5",
+      "10"
+     ],
+     "correct": 1,
+     "explain": "Ngược: 5 × 6 = 30, rồi 30 ÷ 2 = 15."
+    },
+    {
+     "q": "Bạn Hoa viết một số, đem số đó nhân với 3 rồi lấy kết quả chia cho 3 thì được 2. Hỏi Hoa đã viết số nào?",
+     "options": [
+      "6",
+      "1",
+      "3",
+      "2"
+     ],
+     "correct": 3,
+     "explain": "Ngược: 2 × 3 = 6, rồi 6 ÷ 3 = 2."
+    },
+    {
+     "q": "Bạn Hoa viết một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 7 thì được 8. Hỏi Hoa đã viết số nào?",
+     "options": [
+      "8",
+      "28",
+      "16",
+      "56"
+     ],
+     "correct": 1,
+     "explain": "Ngược: 8 × 7 = 56, rồi 56 ÷ 2 = 28."
+    },
+    {
+     "q": "Bạn Nam nghĩ ra một số, đem số đó nhân với 3 rồi lấy kết quả chia cho 7 thì được 6. Hỏi Nam đã nghĩ ra số nào?",
+     "options": [
+      "42",
+      "14",
+      "6",
+      "18"
+     ],
+     "correct": 1,
+     "explain": "Ngược: 6 × 7 = 42, rồi 42 ÷ 3 = 14."
+    },
+    {
+     "q": "Bạn Cường viết một số, đem số đó nhân với 4 rồi lấy kết quả chia cho 6 thì được 2. Hỏi Cường đã viết số nào?",
+     "options": [
+      "12",
+      "2",
+      "3",
+      "8"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 2 × 6 = 12, rồi 12 ÷ 4 = 3."
+    },
+    {
+     "q": "Bạn Hoa nghĩ ra một số, đem số đó nhân với 6 rồi lấy kết quả chia cho 2 thì được 6. Hỏi Hoa đã nghĩ ra số nào?",
+     "options": [
+      "12",
+      "2",
+      "6",
+      "36"
+     ],
+     "correct": 1,
+     "explain": "Ngược: 6 × 2 = 12, rồi 12 ÷ 6 = 2."
+    },
+    {
+     "q": "Bạn An viết một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 6 thì được 8. Hỏi An đã viết số nào?",
+     "options": [
+      "24",
+      "48",
+      "16",
+      "8"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 8 × 6 = 48, rồi 48 ÷ 2 = 24."
+    },
+    {
+     "q": "Bạn Nam viết một số, đem số đó nhân với 5 rồi lấy kết quả chia cho 7 thì được 5. Hỏi Nam đã viết số nào?",
+     "options": [
+      "7",
+      "25",
+      "35",
+      "5"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 5 × 7 = 35, rồi 35 ÷ 5 = 7."
+    },
+    {
+     "q": "Bạn An nghĩ ra một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 6 thì được 5. Hỏi An đã nghĩ ra số nào?",
+     "options": [
+      "15",
+      "5",
+      "30",
+      "10"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 5 × 6 = 30, rồi 30 ÷ 2 = 15."
+    },
+    {
+     "q": "Bạn Nam nghĩ ra một số, đem số đó nhân với 4 rồi lấy kết quả chia cho 2 thì được 2. Hỏi Nam đã nghĩ ra số nào?",
+     "options": [
+      "1",
+      "4",
+      "8",
+      "2"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 2 × 2 = 4, rồi 4 ÷ 4 = 1."
+    },
+    {
+     "q": "Bạn Cường viết một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 3 thì được 8. Hỏi Cường đã viết số nào?",
+     "options": [
+      "8",
+      "24",
+      "12",
+      "16"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 8 × 3 = 24, rồi 24 ÷ 2 = 12."
+    },
+    {
+     "q": "Bạn Hoa viết một số, đem số đó nhân với 4 rồi lấy kết quả chia cho 4 thì được 9. Hỏi Hoa đã viết số nào?",
+     "options": [
+      "9",
+      "36",
+      "10",
+      "8"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 9 × 4 = 36, rồi 36 ÷ 4 = 9."
+    },
+    {
+     "q": "Bạn Cường nghĩ ra một số, đem số đó nhân với 7 rồi lấy kết quả chia cho 7 thì được 6. Hỏi Cường đã nghĩ ra số nào?",
+     "options": [
+      "5",
+      "6",
+      "7",
+      "42"
+     ],
+     "correct": 1,
+     "explain": "Ngược: 6 × 7 = 42, rồi 42 ÷ 7 = 6."
+    },
+    {
+     "q": "Bạn An nghĩ ra một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 4 thì được 4. Hỏi An đã nghĩ ra số nào?",
+     "options": [
+      "16",
+      "8",
+      "4",
+      "9"
+     ],
+     "correct": 1,
+     "explain": "Ngược: 4 × 4 = 16, rồi 16 ÷ 2 = 8."
+    },
+    {
+     "q": "Bạn An viết một số, đem số đó nhân với 4 rồi lấy kết quả chia cho 4 thì được 7. Hỏi An đã viết số nào?",
+     "options": [
+      "8",
+      "28",
+      "7",
+      "6"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 7 × 4 = 28, rồi 28 ÷ 4 = 7."
+    },
+    {
+     "q": "Bạn Cường nghĩ ra một số, đem số đó nhân với 5 rồi lấy kết quả chia cho 5 thì được 8. Hỏi Cường đã nghĩ ra số nào?",
+     "options": [
+      "7",
+      "40",
+      "8",
+      "9"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 8 × 5 = 40, rồi 40 ÷ 5 = 8."
+    },
+    {
+     "q": "Bạn Hoa nghĩ ra một số, đem số đó nhân với 6 rồi lấy kết quả chia cho 2 thì được 3. Hỏi Hoa đã nghĩ ra số nào?",
+     "options": [
+      "1",
+      "6",
+      "18",
+      "3"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 3 × 2 = 6, rồi 6 ÷ 6 = 1."
+    },
+    {
+     "q": "Bạn Hoa viết một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 2 thì được 8. Hỏi Hoa đã viết số nào?",
+     "options": [
+      "16",
+      "9",
+      "8",
+      "7"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 8 × 2 = 16, rồi 16 ÷ 2 = 8."
+    },
+    {
+     "q": "Bạn Cường nghĩ ra một số, đem số đó nhân với 7 rồi lấy kết quả chia cho 6 thì được 7. Hỏi Cường đã nghĩ ra số nào?",
+     "options": [
+      "42",
+      "49",
+      "7",
+      "6"
+     ],
+     "correct": 3,
+     "explain": "Ngược: 7 × 6 = 42, rồi 42 ÷ 7 = 6."
+    },
+    {
+     "q": "Bạn An nghĩ ra một số, đem số đó nhân với 3 rồi lấy kết quả chia cho 2 thì được 9. Hỏi An đã nghĩ ra số nào?",
+     "options": [
+      "6",
+      "27",
+      "18",
+      "9"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 9 × 2 = 18, rồi 18 ÷ 3 = 6."
+    },
+    {
+     "q": "Bạn Hoa viết một số, đem số đó nhân với 5 rồi lấy kết quả chia cho 4 thì được 5. Hỏi Hoa đã viết số nào?",
+     "options": [
+      "25",
+      "5",
+      "4",
+      "20"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 5 × 4 = 20, rồi 20 ÷ 5 = 4."
+    },
+    {
+     "q": "Bạn Hoa nghĩ ra một số, đem số đó nhân với 4 rồi lấy kết quả chia cho 6 thì được 8. Hỏi Hoa đã nghĩ ra số nào?",
+     "options": [
+      "48",
+      "32",
+      "12",
+      "8"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 8 × 6 = 48, rồi 48 ÷ 4 = 12."
+    },
+    {
+     "q": "Bạn Cường viết một số, đem số đó nhân với 3 rồi lấy kết quả chia cho 7 thì được 6. Hỏi Cường đã viết số nào?",
+     "options": [
+      "18",
+      "42",
+      "6",
+      "14"
+     ],
+     "correct": 3,
+     "explain": "Ngược: 6 × 7 = 42, rồi 42 ÷ 3 = 14."
+    },
+    {
+     "q": "Bạn Hoa viết một số, đem số đó nhân với 4 rồi lấy kết quả chia cho 2 thì được 2. Hỏi Hoa đã viết số nào?",
+     "options": [
+      "1",
+      "2",
+      "8",
+      "4"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 2 × 2 = 4, rồi 4 ÷ 4 = 1."
+    },
+    {
+     "q": "Bạn An viết một số, đem số đó nhân với 3 rồi lấy kết quả chia cho 6 thì được 4. Hỏi An đã viết số nào?",
+     "options": [
+      "24",
+      "12",
+      "8",
+      "4"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 4 × 6 = 24, rồi 24 ÷ 3 = 8."
+    },
+    {
+     "q": "Bạn Cường nghĩ ra một số, đem số đó nhân với 4 rồi lấy kết quả chia cho 6 thì được 2. Hỏi Cường đã nghĩ ra số nào?",
+     "options": [
+      "3",
+      "2",
+      "8",
+      "12"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 2 × 6 = 12, rồi 12 ÷ 4 = 3."
+    },
+    {
+     "q": "Bạn An nghĩ ra một số, đem số đó nhân với 3 rồi lấy kết quả chia cho 5 thì được 3. Hỏi An đã nghĩ ra số nào?",
+     "options": [
+      "9",
+      "5",
+      "3",
+      "15"
+     ],
+     "correct": 1,
+     "explain": "Ngược: 3 × 5 = 15, rồi 15 ÷ 3 = 5."
+    },
+    {
+     "q": "Bạn Nam viết một số, đem số đó nhân với 6 rồi lấy kết quả chia cho 2 thì được 3. Hỏi Nam đã viết số nào?",
+     "options": [
+      "18",
+      "1",
+      "3",
+      "6"
+     ],
+     "correct": 1,
+     "explain": "Ngược: 3 × 2 = 6, rồi 6 ÷ 6 = 1."
+    },
+    {
+     "q": "Bạn Nam viết một số, đem số đó nhân với 3 rồi lấy kết quả chia cho 6 thì được 3. Hỏi Nam đã viết số nào?",
+     "options": [
+      "9",
+      "3",
+      "18",
+      "6"
+     ],
+     "correct": 3,
+     "explain": "Ngược: 3 × 6 = 18, rồi 18 ÷ 3 = 6."
+    },
+    {
+     "q": "Bạn Cường viết một số, đem số đó nhân với 5 rồi lấy kết quả chia cho 5 thì được 4. Hỏi Cường đã viết số nào?",
+     "options": [
+      "3",
+      "5",
+      "4",
+      "20"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 4 × 5 = 20, rồi 20 ÷ 5 = 4."
+    },
+    {
+     "q": "Bạn Nam viết một số, đem số đó nhân với 7 rồi lấy kết quả chia cho 7 thì được 9. Hỏi Nam đã viết số nào?",
+     "options": [
+      "10",
+      "9",
+      "8",
+      "63"
+     ],
+     "correct": 1,
+     "explain": "Ngược: 9 × 7 = 63, rồi 63 ÷ 7 = 9."
+    },
+    {
+     "q": "Bạn Cường nghĩ ra một số, đem số đó nhân với 4 rồi lấy kết quả chia cho 5 thì được 8. Hỏi Cường đã nghĩ ra số nào?",
+     "options": [
+      "32",
+      "8",
+      "40",
+      "10"
+     ],
+     "correct": 3,
+     "explain": "Ngược: 8 × 5 = 40, rồi 40 ÷ 4 = 10."
+    },
+    {
+     "q": "Bạn Nam nghĩ ra một số, đem số đó nhân với 6 rồi lấy kết quả chia cho 6 thì được 6. Hỏi Nam đã nghĩ ra số nào?",
+     "options": [
+      "7",
+      "5",
+      "36",
+      "6"
+     ],
+     "correct": 3,
+     "explain": "Ngược: 6 × 6 = 36, rồi 36 ÷ 6 = 6."
+    },
+    {
+     "q": "Bạn Nam viết một số, đem số đó nhân với 6 rồi lấy kết quả chia cho 6 thì được 2. Hỏi Nam đã viết số nào?",
+     "options": [
+      "2",
+      "3",
+      "12",
+      "1"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 2 × 6 = 12, rồi 12 ÷ 6 = 2."
+    },
+    {
+     "q": "Bạn Cường viết một số, đem số đó nhân với 3 rồi lấy kết quả chia cho 3 thì được 7. Hỏi Cường đã viết số nào?",
+     "options": [
+      "7",
+      "8",
+      "6",
+      "21"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 7 × 3 = 21, rồi 21 ÷ 3 = 7."
+    },
+    {
+     "q": "Bạn Nam viết một số, đem số đó nhân với 6 rồi lấy kết quả chia cho 6 thì được 3. Hỏi Nam đã viết số nào?",
+     "options": [
+      "2",
+      "18",
+      "4",
+      "3"
+     ],
+     "correct": 3,
+     "explain": "Ngược: 3 × 6 = 18, rồi 18 ÷ 6 = 3."
+    },
+    {
+     "q": "Bạn An viết một số, đem số đó nhân với 4 rồi lấy kết quả chia cho 2 thì được 6. Hỏi An đã viết số nào?",
+     "options": [
+      "6",
+      "3",
+      "24",
+      "12"
+     ],
+     "correct": 1,
+     "explain": "Ngược: 6 × 2 = 12, rồi 12 ÷ 4 = 3."
+    },
+    {
+     "q": "Bạn Hoa nghĩ ra một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 6 thì được 5. Hỏi Hoa đã nghĩ ra số nào?",
+     "options": [
+      "15",
+      "30",
+      "10",
+      "5"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 5 × 6 = 30, rồi 30 ÷ 2 = 15."
+    }
+   ]
+  },
+  {
+   "type": 4,
+   "title": "Bài 4 - Bài toán tìm số",
+   "exercises": [
+    {
+     "q": "Thầy giáo viết lên bảng một số, đem số đó nhân với 3 rồi lấy kết quả chia cho 3 thì được 3. Hỏi giáo đã viết lên bảng số nào?",
+     "options": [
+      "3",
+      "2",
+      "4",
+      "9"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 3 × 3 = 9, rồi 9 ÷ 3 = 3."
+    },
+    {
+     "q": "Cô giáo ghi ra một số, đem số đó nhân với 6 rồi lấy kết quả chia cho 6 thì được 6. Hỏi giáo đã ghi ra số nào?",
+     "options": [
+      "5",
+      "7",
+      "36",
+      "6"
+     ],
+     "correct": 3,
+     "explain": "Ngược: 6 × 6 = 36, rồi 36 ÷ 6 = 6."
+    },
+    {
+     "q": "Bạn Lan viết lên bảng một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 2 thì được 5. Hỏi Lan đã viết lên bảng số nào?",
+     "options": [
+      "4",
+      "6",
+      "5",
+      "10"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 5 × 2 = 10, rồi 10 ÷ 2 = 5."
+    },
+    {
+     "q": "Chú Ba ghi ra một số, đem số đó nhân với 6 rồi lấy kết quả chia cho 4 thì được 6. Hỏi Ba đã ghi ra số nào?",
+     "options": [
+      "4",
+      "6",
+      "36",
+      "24"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 6 × 4 = 24, rồi 24 ÷ 6 = 4."
+    },
+    {
+     "q": "Cô giáo viết lên bảng một số, đem số đó nhân với 4 rồi lấy kết quả chia cho 5 thì được 8. Hỏi giáo đã viết lên bảng số nào?",
+     "options": [
+      "10",
+      "40",
+      "8",
+      "32"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 8 × 5 = 40, rồi 40 ÷ 4 = 10."
+    },
+    {
+     "q": "Chú Ba ghi ra một số, đem số đó nhân với 6 rồi lấy kết quả chia cho 6 thì được 6. Hỏi Ba đã ghi ra số nào?",
+     "options": [
+      "5",
+      "7",
+      "6",
+      "36"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 6 × 6 = 36, rồi 36 ÷ 6 = 6."
+    },
+    {
+     "q": "Cô giáo viết lên bảng một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 2 thì được 6. Hỏi giáo đã viết lên bảng số nào?",
+     "options": [
+      "7",
+      "12",
+      "5",
+      "6"
+     ],
+     "correct": 3,
+     "explain": "Ngược: 6 × 2 = 12, rồi 12 ÷ 2 = 6."
+    },
+    {
+     "q": "Thầy giáo ghi ra một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 6 thì được 3. Hỏi giáo đã ghi ra số nào?",
+     "options": [
+      "3",
+      "18",
+      "9",
+      "6"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 3 × 6 = 18, rồi 18 ÷ 2 = 9."
+    },
+    {
+     "q": "Chú Ba ghi ra một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 6 thì được 8. Hỏi Ba đã ghi ra số nào?",
+     "options": [
+      "8",
+      "24",
+      "16",
+      "48"
+     ],
+     "correct": 1,
+     "explain": "Ngược: 8 × 6 = 48, rồi 48 ÷ 2 = 24."
+    },
+    {
+     "q": "Chú Ba viết lên bảng một số, đem số đó nhân với 5 rồi lấy kết quả chia cho 5 thì được 7. Hỏi Ba đã viết lên bảng số nào?",
+     "options": [
+      "8",
+      "35",
+      "6",
+      "7"
+     ],
+     "correct": 3,
+     "explain": "Ngược: 7 × 5 = 35, rồi 35 ÷ 5 = 7."
+    },
+    {
+     "q": "Cô giáo ghi ra một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 7 thì được 8. Hỏi giáo đã ghi ra số nào?",
+     "options": [
+      "8",
+      "56",
+      "16",
+      "28"
+     ],
+     "correct": 3,
+     "explain": "Ngược: 8 × 7 = 56, rồi 56 ÷ 2 = 28."
+    },
+    {
+     "q": "Thầy giáo viết lên bảng một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 3 thì được 4. Hỏi giáo đã viết lên bảng số nào?",
+     "options": [
+      "6",
+      "4",
+      "8",
+      "12"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 4 × 3 = 12, rồi 12 ÷ 2 = 6."
+    },
+    {
+     "q": "Thầy giáo viết lên bảng một số, đem số đó nhân với 4 rồi lấy kết quả chia cho 5 thì được 4. Hỏi giáo đã viết lên bảng số nào?",
+     "options": [
+      "16",
+      "4",
+      "20",
+      "5"
+     ],
+     "correct": 3,
+     "explain": "Ngược: 4 × 5 = 20, rồi 20 ÷ 4 = 5."
+    },
+    {
+     "q": "Cô giáo ghi ra một số, đem số đó nhân với 7 rồi lấy kết quả chia cho 7 thì được 7. Hỏi giáo đã ghi ra số nào?",
+     "options": [
+      "7",
+      "6",
+      "49",
+      "8"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 7 × 7 = 49, rồi 49 ÷ 7 = 7."
+    },
+    {
+     "q": "Cô giáo viết lên bảng một số, đem số đó nhân với 4 rồi lấy kết quả chia cho 4 thì được 2. Hỏi giáo đã viết lên bảng số nào?",
+     "options": [
+      "3",
+      "1",
+      "8",
+      "2"
+     ],
+     "correct": 3,
+     "explain": "Ngược: 2 × 4 = 8, rồi 8 ÷ 4 = 2."
+    },
+    {
+     "q": "Bạn Lan viết lên bảng một số, đem số đó nhân với 7 rồi lấy kết quả chia cho 7 thì được 8. Hỏi Lan đã viết lên bảng số nào?",
+     "options": [
+      "8",
+      "56",
+      "7",
+      "9"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 8 × 7 = 56, rồi 56 ÷ 7 = 8."
+    },
+    {
+     "q": "Thầy giáo ghi ra một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 7 thì được 8. Hỏi giáo đã ghi ra số nào?",
+     "options": [
+      "8",
+      "56",
+      "28",
+      "16"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 8 × 7 = 56, rồi 56 ÷ 2 = 28."
+    },
+    {
+     "q": "Cô giáo ghi ra một số, đem số đó nhân với 6 rồi lấy kết quả chia cho 4 thì được 6. Hỏi giáo đã ghi ra số nào?",
+     "options": [
+      "24",
+      "6",
+      "4",
+      "36"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 6 × 4 = 24, rồi 24 ÷ 6 = 4."
+    },
+    {
+     "q": "Chú Ba ghi ra một số, đem số đó nhân với 6 rồi lấy kết quả chia cho 3 thì được 8. Hỏi Ba đã ghi ra số nào?",
+     "options": [
+      "48",
+      "8",
+      "4",
+      "24"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 8 × 3 = 24, rồi 24 ÷ 6 = 4."
+    },
+    {
+     "q": "Thầy giáo ghi ra một số, đem số đó nhân với 4 rồi lấy kết quả chia cho 4 thì được 3. Hỏi giáo đã ghi ra số nào?",
+     "options": [
+      "2",
+      "12",
+      "3",
+      "4"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 3 × 4 = 12, rồi 12 ÷ 4 = 3."
+    },
+    {
+     "q": "Bạn Lan ghi ra một số, đem số đó nhân với 4 rồi lấy kết quả chia cho 6 thì được 2. Hỏi Lan đã ghi ra số nào?",
+     "options": [
+      "3",
+      "2",
+      "12",
+      "8"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 2 × 6 = 12, rồi 12 ÷ 4 = 3."
+    },
+    {
+     "q": "Bạn Lan viết lên bảng một số, đem số đó nhân với 3 rồi lấy kết quả chia cho 4 thì được 9. Hỏi Lan đã viết lên bảng số nào?",
+     "options": [
+      "36",
+      "12",
+      "9",
+      "27"
+     ],
+     "correct": 1,
+     "explain": "Ngược: 9 × 4 = 36, rồi 36 ÷ 3 = 12."
+    },
+    {
+     "q": "Cô giáo viết lên bảng một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 5 thì được 6. Hỏi giáo đã viết lên bảng số nào?",
+     "options": [
+      "6",
+      "30",
+      "12",
+      "15"
+     ],
+     "correct": 3,
+     "explain": "Ngược: 6 × 5 = 30, rồi 30 ÷ 2 = 15."
+    },
+    {
+     "q": "Thầy giáo ghi ra một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 5 thì được 2. Hỏi giáo đã ghi ra số nào?",
+     "options": [
+      "10",
+      "4",
+      "5",
+      "2"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 2 × 5 = 10, rồi 10 ÷ 2 = 5."
+    },
+    {
+     "q": "Cô giáo ghi ra một số, đem số đó nhân với 4 rồi lấy kết quả chia cho 4 thì được 4. Hỏi giáo đã ghi ra số nào?",
+     "options": [
+      "3",
+      "16",
+      "4",
+      "5"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 4 × 4 = 16, rồi 16 ÷ 4 = 4."
+    },
+    {
+     "q": "Thầy giáo ghi ra một số, đem số đó nhân với 3 rồi lấy kết quả chia cho 7 thì được 3. Hỏi giáo đã ghi ra số nào?",
+     "options": [
+      "3",
+      "9",
+      "21",
+      "7"
+     ],
+     "correct": 3,
+     "explain": "Ngược: 3 × 7 = 21, rồi 21 ÷ 3 = 7."
+    },
+    {
+     "q": "Cô giáo ghi ra một số, đem số đó nhân với 4 rồi lấy kết quả chia cho 7 thì được 8. Hỏi giáo đã ghi ra số nào?",
+     "options": [
+      "8",
+      "32",
+      "56",
+      "14"
+     ],
+     "correct": 3,
+     "explain": "Ngược: 8 × 7 = 56, rồi 56 ÷ 4 = 14."
+    },
+    {
+     "q": "Thầy giáo ghi ra một số, đem số đó nhân với 7 rồi lấy kết quả chia cho 7 thì được 5. Hỏi giáo đã ghi ra số nào?",
+     "options": [
+      "4",
+      "35",
+      "5",
+      "6"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 5 × 7 = 35, rồi 35 ÷ 7 = 5."
+    },
+    {
+     "q": "Cô giáo ghi ra một số, đem số đó nhân với 7 rồi lấy kết quả chia cho 7 thì được 5. Hỏi giáo đã ghi ra số nào?",
+     "options": [
+      "6",
+      "35",
+      "5",
+      "4"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 5 × 7 = 35, rồi 35 ÷ 7 = 5."
+    },
+    {
+     "q": "Bạn Lan ghi ra một số, đem số đó nhân với 4 rồi lấy kết quả chia cho 4 thì được 6. Hỏi Lan đã ghi ra số nào?",
+     "options": [
+      "24",
+      "6",
+      "5",
+      "7"
+     ],
+     "correct": 1,
+     "explain": "Ngược: 6 × 4 = 24, rồi 24 ÷ 4 = 6."
+    },
+    {
+     "q": "Thầy giáo viết lên bảng một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 7 thì được 4. Hỏi giáo đã viết lên bảng số nào?",
+     "options": [
+      "8",
+      "14",
+      "4",
+      "28"
+     ],
+     "correct": 1,
+     "explain": "Ngược: 4 × 7 = 28, rồi 28 ÷ 2 = 14."
+    },
+    {
+     "q": "Chú Ba viết lên bảng một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 2 thì được 7. Hỏi Ba đã viết lên bảng số nào?",
+     "options": [
+      "7",
+      "8",
+      "6",
+      "14"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 7 × 2 = 14, rồi 14 ÷ 2 = 7."
+    },
+    {
+     "q": "Chú Ba viết lên bảng một số, đem số đó nhân với 6 rồi lấy kết quả chia cho 6 thì được 3. Hỏi Ba đã viết lên bảng số nào?",
+     "options": [
+      "2",
+      "18",
+      "3",
+      "4"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 3 × 6 = 18, rồi 18 ÷ 6 = 3."
+    },
+    {
+     "q": "Thầy giáo ghi ra một số, đem số đó nhân với 3 rồi lấy kết quả chia cho 3 thì được 4. Hỏi giáo đã ghi ra số nào?",
+     "options": [
+      "3",
+      "4",
+      "12",
+      "5"
+     ],
+     "correct": 1,
+     "explain": "Ngược: 4 × 3 = 12, rồi 12 ÷ 3 = 4."
+    },
+    {
+     "q": "Cô giáo ghi ra một số, đem số đó nhân với 6 rồi lấy kết quả chia cho 6 thì được 7. Hỏi giáo đã ghi ra số nào?",
+     "options": [
+      "42",
+      "8",
+      "7",
+      "6"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 7 × 6 = 42, rồi 42 ÷ 6 = 7."
+    },
+    {
+     "q": "Chú Ba ghi ra một số, đem số đó nhân với 5 rồi lấy kết quả chia cho 5 thì được 3. Hỏi Ba đã ghi ra số nào?",
+     "options": [
+      "15",
+      "4",
+      "2",
+      "3"
+     ],
+     "correct": 3,
+     "explain": "Ngược: 3 × 5 = 15, rồi 15 ÷ 5 = 3."
+    },
+    {
+     "q": "Bạn Lan ghi ra một số, đem số đó nhân với 5 rồi lấy kết quả chia cho 5 thì được 9. Hỏi Lan đã ghi ra số nào?",
+     "options": [
+      "8",
+      "10",
+      "9",
+      "45"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 9 × 5 = 45, rồi 45 ÷ 5 = 9."
+    },
+    {
+     "q": "Thầy giáo ghi ra một số, đem số đó nhân với 7 rồi lấy kết quả chia cho 6 thì được 7. Hỏi giáo đã ghi ra số nào?",
+     "options": [
+      "49",
+      "42",
+      "6",
+      "7"
+     ],
+     "correct": 2,
+     "explain": "Ngược: 7 × 6 = 42, rồi 42 ÷ 7 = 6."
+    },
+    {
+     "q": "Cô giáo ghi ra một số, đem số đó nhân với 3 rồi lấy kết quả chia cho 7 thì được 9. Hỏi giáo đã ghi ra số nào?",
+     "options": [
+      "21",
+      "9",
+      "63",
+      "27"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 9 × 7 = 63, rồi 63 ÷ 3 = 21."
+    },
+    {
+     "q": "Chú Ba viết lên bảng một số, đem số đó nhân với 2 rồi lấy kết quả chia cho 3 thì được 6. Hỏi Ba đã viết lên bảng số nào?",
+     "options": [
+      "9",
+      "12",
+      "6",
+      "18"
+     ],
+     "correct": 0,
+     "explain": "Ngược: 6 × 3 = 18, rồi 18 ÷ 2 = 9."
+    }
+   ]
+  },
+  {
+   "type": 5,
+   "title": "Bài 5 - Giải toán đố (phân số)",
+   "exercises": [
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Mai 1/2 số bánh đó và cho em An 1/5 số bánh đó. Biết em An nhận được 6 cái bánh. Hỏi chị Mai nhận được mấy cái bánh?",
+     "options": [
+      "16",
+      "15",
+      "30",
+      "6"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 1/5 số bánh là 6 cái → tổng = 6 × 5 = 30. Bước 2: 1/2 của 30 = 30 ÷ 2 = 15 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Lan 1/2 số bánh đó và cho bé Na 1/6 số bánh đó. Biết bé Na nhận được 8 cái bánh. Hỏi chị Lan nhận được mấy cái bánh?",
+     "options": [
+      "25",
+      "48",
+      "8",
+      "24"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 1/6 số bánh là 8 cái → tổng = 8 × 6 = 48. Bước 2: 1/2 của 48 = 48 ÷ 2 = 24 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Mai 1/6 số bánh đó và cho em An 1/3 số bánh đó. Biết em An nhận được 8 cái bánh. Hỏi chị Mai nhận được mấy cái bánh?",
+     "options": [
+      "5",
+      "24",
+      "4",
+      "8"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 1/3 số bánh là 8 cái → tổng = 8 × 3 = 24. Bước 2: 1/6 của 24 = 24 ÷ 6 = 4 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Mai 1/3 số bánh đó và cho em An 1/6 số bánh đó. Biết em An nhận được 4 cái bánh. Hỏi chị Mai nhận được mấy cái bánh?",
+     "options": [
+      "24",
+      "9",
+      "4",
+      "8"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 1/6 số bánh là 4 cái → tổng = 4 × 6 = 24. Bước 2: 1/3 của 24 = 24 ÷ 3 = 8 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Lan 1/4 số bánh đó và cho bé Na 1/2 số bánh đó. Biết bé Na nhận được 8 cái bánh. Hỏi chị Lan nhận được mấy cái bánh?",
+     "options": [
+      "8",
+      "4",
+      "5",
+      "16"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 1/2 số bánh là 8 cái → tổng = 8 × 2 = 16. Bước 2: 1/4 của 16 = 16 ÷ 4 = 4 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho anh Quý 1/2 số bánh đó và cho em Hân 1/6 số bánh đó. Biết em Hân nhận được 9 cái bánh. Hỏi anh Quý nhận được mấy cái bánh?",
+     "options": [
+      "54",
+      "9",
+      "28",
+      "27"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 1/6 số bánh là 9 cái → tổng = 9 × 6 = 54. Bước 2: 1/2 của 54 = 54 ÷ 2 = 27 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Mai 1/3 số bánh đó và cho em An 1/5 số bánh đó. Biết em An nhận được 9 cái bánh. Hỏi chị Mai nhận được mấy cái bánh?",
+     "options": [
+      "45",
+      "16",
+      "9",
+      "15"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 1/5 số bánh là 9 cái → tổng = 9 × 5 = 45. Bước 2: 1/3 của 45 = 45 ÷ 3 = 15 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Mai 1/6 số bánh đó và cho em An 1/3 số bánh đó. Biết em An nhận được 6 cái bánh. Hỏi chị Mai nhận được mấy cái bánh?",
+     "options": [
+      "6",
+      "18",
+      "4",
+      "3"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 1/3 số bánh là 6 cái → tổng = 6 × 3 = 18. Bước 2: 1/6 của 18 = 18 ÷ 6 = 3 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho anh Tú 1/3 số bánh đó và cho em Bo 1/5 số bánh đó. Biết em Bo nhận được 9 cái bánh. Hỏi anh Tú nhận được mấy cái bánh?",
+     "options": [
+      "45",
+      "9",
+      "15",
+      "16"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 1/5 số bánh là 9 cái → tổng = 9 × 5 = 45. Bước 2: 1/3 của 45 = 45 ÷ 3 = 15 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Lan 1/4 số bánh đó và cho bé Na 1/2 số bánh đó. Biết bé Na nhận được 2 cái bánh. Hỏi chị Lan nhận được mấy cái bánh?",
+     "options": [
+      "0",
+      "2",
+      "4",
+      "1"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 1/2 số bánh là 2 cái → tổng = 2 × 2 = 4. Bước 2: 1/4 của 4 = 4 ÷ 4 = 1 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Lan 1/3 số bánh đó và cho bé Na 1/6 số bánh đó. Biết bé Na nhận được 7 cái bánh. Hỏi chị Lan nhận được mấy cái bánh?",
+     "options": [
+      "7",
+      "14",
+      "15",
+      "42"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 1/6 số bánh là 7 cái → tổng = 7 × 6 = 42. Bước 2: 1/3 của 42 = 42 ÷ 3 = 14 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Mai 1/3 số bánh đó và cho em An 1/6 số bánh đó. Biết em An nhận được 7 cái bánh. Hỏi chị Mai nhận được mấy cái bánh?",
+     "options": [
+      "7",
+      "14",
+      "15",
+      "42"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 1/6 số bánh là 7 cái → tổng = 7 × 6 = 42. Bước 2: 1/3 của 42 = 42 ÷ 3 = 14 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho anh Tú 1/2 số bánh đó và cho em Bo 1/4 số bánh đó. Biết em Bo nhận được 8 cái bánh. Hỏi anh Tú nhận được mấy cái bánh?",
+     "options": [
+      "16",
+      "8",
+      "32",
+      "17"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 1/4 số bánh là 8 cái → tổng = 8 × 4 = 32. Bước 2: 1/2 của 32 = 32 ÷ 2 = 16 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho anh Tú 1/6 số bánh đó và cho em Bo 1/3 số bánh đó. Biết em Bo nhận được 2 cái bánh. Hỏi anh Tú nhận được mấy cái bánh?",
+     "options": [
+      "2",
+      "6",
+      "0",
+      "1"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 1/3 số bánh là 2 cái → tổng = 2 × 3 = 6. Bước 2: 1/6 của 6 = 6 ÷ 6 = 1 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Lan 1/3 số bánh đó và cho bé Na 1/6 số bánh đó. Biết bé Na nhận được 6 cái bánh. Hỏi chị Lan nhận được mấy cái bánh?",
+     "options": [
+      "6",
+      "12",
+      "13",
+      "36"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 1/6 số bánh là 6 cái → tổng = 6 × 6 = 36. Bước 2: 1/3 của 36 = 36 ÷ 3 = 12 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho anh Quý 1/2 số bánh đó và cho em Hân 1/5 số bánh đó. Biết em Hân nhận được 6 cái bánh. Hỏi anh Quý nhận được mấy cái bánh?",
+     "options": [
+      "30",
+      "6",
+      "15",
+      "16"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 1/5 số bánh là 6 cái → tổng = 6 × 5 = 30. Bước 2: 1/2 của 30 = 30 ÷ 2 = 15 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Mai 1/2 số bánh đó và cho em An 1/6 số bánh đó. Biết em An nhận được 3 cái bánh. Hỏi chị Mai nhận được mấy cái bánh?",
+     "options": [
+      "10",
+      "18",
+      "3",
+      "9"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 1/6 số bánh là 3 cái → tổng = 3 × 6 = 18. Bước 2: 1/2 của 18 = 18 ÷ 2 = 9 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Mai 1/6 số bánh đó và cho em An 1/4 số bánh đó. Biết em An nhận được 3 cái bánh. Hỏi chị Mai nhận được mấy cái bánh?",
+     "options": [
+      "1",
+      "12",
+      "2",
+      "3"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 1/4 số bánh là 3 cái → tổng = 3 × 4 = 12. Bước 2: 1/6 của 12 = 12 ÷ 6 = 2 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho anh Quý 1/3 số bánh đó và cho em Hân 1/5 số bánh đó. Biết em Hân nhận được 6 cái bánh. Hỏi anh Quý nhận được mấy cái bánh?",
+     "options": [
+      "30",
+      "10",
+      "11",
+      "6"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 1/5 số bánh là 6 cái → tổng = 6 × 5 = 30. Bước 2: 1/3 của 30 = 30 ÷ 3 = 10 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho anh Tú 1/6 số bánh đó và cho em Bo 1/3 số bánh đó. Biết em Bo nhận được 4 cái bánh. Hỏi anh Tú nhận được mấy cái bánh?",
+     "options": [
+      "3",
+      "12",
+      "2",
+      "4"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 1/3 số bánh là 4 cái → tổng = 4 × 3 = 12. Bước 2: 1/6 của 12 = 12 ÷ 6 = 2 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Mai 1/3 số bánh đó và cho em An 1/2 số bánh đó. Biết em An nhận được 3 cái bánh. Hỏi chị Mai nhận được mấy cái bánh?",
+     "options": [
+      "3",
+      "1",
+      "2",
+      "6"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 1/2 số bánh là 3 cái → tổng = 3 × 2 = 6. Bước 2: 1/3 của 6 = 6 ÷ 3 = 2 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho anh Tú 1/3 số bánh đó và cho em Bo 1/4 số bánh đó. Biết em Bo nhận được 9 cái bánh. Hỏi anh Tú nhận được mấy cái bánh?",
+     "options": [
+      "9",
+      "13",
+      "36",
+      "12"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 1/4 số bánh là 9 cái → tổng = 9 × 4 = 36. Bước 2: 1/3 của 36 = 36 ÷ 3 = 12 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho anh Tú 1/4 số bánh đó và cho em Bo 1/2 số bánh đó. Biết em Bo nhận được 8 cái bánh. Hỏi anh Tú nhận được mấy cái bánh?",
+     "options": [
+      "5",
+      "4",
+      "16",
+      "8"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 1/2 số bánh là 8 cái → tổng = 8 × 2 = 16. Bước 2: 1/4 của 16 = 16 ÷ 4 = 4 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho anh Tú 1/6 số bánh đó và cho em Bo 1/5 số bánh đó. Biết em Bo nhận được 6 cái bánh. Hỏi anh Tú nhận được mấy cái bánh?",
+     "options": [
+      "30",
+      "6",
+      "4",
+      "5"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 1/5 số bánh là 6 cái → tổng = 6 × 5 = 30. Bước 2: 1/6 của 30 = 30 ÷ 6 = 5 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho anh Tú 1/4 số bánh đó và cho em Bo 1/2 số bánh đó. Biết em Bo nhận được 4 cái bánh. Hỏi anh Tú nhận được mấy cái bánh?",
+     "options": [
+      "2",
+      "3",
+      "8",
+      "4"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 1/2 số bánh là 4 cái → tổng = 4 × 2 = 8. Bước 2: 1/4 của 8 = 8 ÷ 4 = 2 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho anh Quý 1/4 số bánh đó và cho em Hân 1/2 số bánh đó. Biết em Hân nhận được 8 cái bánh. Hỏi anh Quý nhận được mấy cái bánh?",
+     "options": [
+      "16",
+      "5",
+      "8",
+      "4"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 1/2 số bánh là 8 cái → tổng = 8 × 2 = 16. Bước 2: 1/4 của 16 = 16 ÷ 4 = 4 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Mai 1/3 số bánh đó và cho em An 1/5 số bánh đó. Biết em An nhận được 3 cái bánh. Hỏi chị Mai nhận được mấy cái bánh?",
+     "options": [
+      "6",
+      "5",
+      "15",
+      "3"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 1/5 số bánh là 3 cái → tổng = 3 × 5 = 15. Bước 2: 1/3 của 15 = 15 ÷ 3 = 5 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho anh Quý 1/6 số bánh đó và cho em Hân 1/2 số bánh đó. Biết em Hân nhận được 3 cái bánh. Hỏi anh Quý nhận được mấy cái bánh?",
+     "options": [
+      "6",
+      "3",
+      "1",
+      "2"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 1/2 số bánh là 3 cái → tổng = 3 × 2 = 6. Bước 2: 1/6 của 6 = 6 ÷ 6 = 1 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho anh Quý 1/3 số bánh đó và cho em Hân 1/5 số bánh đó. Biết em Hân nhận được 9 cái bánh. Hỏi anh Quý nhận được mấy cái bánh?",
+     "options": [
+      "45",
+      "16",
+      "15",
+      "9"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 1/5 số bánh là 9 cái → tổng = 9 × 5 = 45. Bước 2: 1/3 của 45 = 45 ÷ 3 = 15 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho anh Quý 1/3 số bánh đó và cho em Hân 1/6 số bánh đó. Biết em Hân nhận được 2 cái bánh. Hỏi anh Quý nhận được mấy cái bánh?",
+     "options": [
+      "5",
+      "2",
+      "12",
+      "4"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 1/6 số bánh là 2 cái → tổng = 2 × 6 = 12. Bước 2: 1/3 của 12 = 12 ÷ 3 = 4 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Lan 1/2 số bánh đó và cho bé Na 1/4 số bánh đó. Biết bé Na nhận được 8 cái bánh. Hỏi chị Lan nhận được mấy cái bánh?",
+     "options": [
+      "8",
+      "16",
+      "32",
+      "17"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 1/4 số bánh là 8 cái → tổng = 8 × 4 = 32. Bước 2: 1/2 của 32 = 32 ÷ 2 = 16 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho anh Tú 1/2 số bánh đó và cho em Bo 1/4 số bánh đó. Biết em Bo nhận được 5 cái bánh. Hỏi anh Tú nhận được mấy cái bánh?",
+     "options": [
+      "20",
+      "11",
+      "10",
+      "5"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 1/4 số bánh là 5 cái → tổng = 5 × 4 = 20. Bước 2: 1/2 của 20 = 20 ÷ 2 = 10 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho anh Quý 1/4 số bánh đó và cho em Hân 1/5 số bánh đó. Biết em Hân nhận được 8 cái bánh. Hỏi anh Quý nhận được mấy cái bánh?",
+     "options": [
+      "11",
+      "10",
+      "8",
+      "40"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 1/5 số bánh là 8 cái → tổng = 8 × 5 = 40. Bước 2: 1/4 của 40 = 40 ÷ 4 = 10 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Mai 1/4 số bánh đó và cho em An 1/6 số bánh đó. Biết em An nhận được 2 cái bánh. Hỏi chị Mai nhận được mấy cái bánh?",
+     "options": [
+      "4",
+      "12",
+      "2",
+      "3"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 1/6 số bánh là 2 cái → tổng = 2 × 6 = 12. Bước 2: 1/4 của 12 = 12 ÷ 4 = 3 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho anh Tú 1/2 số bánh đó và cho em Bo 1/4 số bánh đó. Biết em Bo nhận được 4 cái bánh. Hỏi anh Tú nhận được mấy cái bánh?",
+     "options": [
+      "9",
+      "16",
+      "8",
+      "4"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 1/4 số bánh là 4 cái → tổng = 4 × 4 = 16. Bước 2: 1/2 của 16 = 16 ÷ 2 = 8 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho anh Quý 1/2 số bánh đó và cho em Hân 1/5 số bánh đó. Biết em Hân nhận được 8 cái bánh. Hỏi anh Quý nhận được mấy cái bánh?",
+     "options": [
+      "21",
+      "40",
+      "8",
+      "20"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 1/5 số bánh là 8 cái → tổng = 8 × 5 = 40. Bước 2: 1/2 của 40 = 40 ÷ 2 = 20 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Mai 1/5 số bánh đó và cho em An 1/4 số bánh đó. Biết em An nhận được 5 cái bánh. Hỏi chị Mai nhận được mấy cái bánh?",
+     "options": [
+      "20",
+      "4",
+      "5",
+      "3"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 1/4 số bánh là 5 cái → tổng = 5 × 4 = 20. Bước 2: 1/5 của 20 = 20 ÷ 5 = 4 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Mai 1/2 số bánh đó và cho em An 1/4 số bánh đó. Biết em An nhận được 4 cái bánh. Hỏi chị Mai nhận được mấy cái bánh?",
+     "options": [
+      "9",
+      "16",
+      "4",
+      "8"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 1/4 số bánh là 4 cái → tổng = 4 × 4 = 16. Bước 2: 1/2 của 16 = 16 ÷ 2 = 8 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Lan 1/2 số bánh đó và cho bé Na 1/4 số bánh đó. Biết bé Na nhận được 6 cái bánh. Hỏi chị Lan nhận được mấy cái bánh?",
+     "options": [
+      "6",
+      "12",
+      "24",
+      "13"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 1/4 số bánh là 6 cái → tổng = 6 × 4 = 24. Bước 2: 1/2 của 24 = 24 ÷ 2 = 12 (cái)."
+    },
+    {
+     "q": "Mẹ có một số cái bánh. Mẹ cho chị Lan 1/2 số bánh đó và cho bé Na 1/4 số bánh đó. Biết bé Na nhận được 2 cái bánh. Hỏi chị Lan nhận được mấy cái bánh?",
+     "options": [
+      "2",
+      "4",
+      "5",
+      "8"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 1/4 số bánh là 2 cái → tổng = 2 × 4 = 8. Bước 2: 1/2 của 8 = 8 ÷ 2 = 4 (cái)."
+    }
+   ]
+  }
+ ]
+}

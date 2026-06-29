@@ -1,0 +1,2224 @@
+{
+ "grade": 3,
+ "week": 2,
+ "lessons": [
+  {
+   "type": 1,
+   "title": "Bài 1 - Điền số vào ô trống",
+   "exercises": [
+    {
+     "q": "Số 9 lần lượt: nhân 5, rồi cộng 27, rồi trừ 36, rồi cộng 29. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "65",
+      "94",
+      "64",
+      "66"
+     ],
+     "correct": 0,
+     "explain": "9 ×5 = 45 +27 = 72 −36 = 36 +29 = 65."
+    },
+    {
+     "q": "Số 6 lần lượt: cộng 23, rồi cộng 7, rồi chia 3, rồi cộng 28. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "39",
+      "68",
+      "40",
+      "41"
+     ],
+     "correct": 2,
+     "explain": "6 +23 = 29 +7 = 36 ÷3 = 12 +28 = 40."
+    },
+    {
+     "q": "Số 2 lần lượt: nhân 6, rồi nhân 5, rồi cộng 26, rồi chia 2. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "44",
+      "45",
+      "43",
+      "42"
+     ],
+     "correct": 2,
+     "explain": "2 ×6 = 12 ×5 = 60 +26 = 86 ÷2 = 43."
+    },
+    {
+     "q": "Số 8 lần lượt: cộng 27, rồi trừ 23, rồi cộng 14. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "40",
+      "26",
+      "25",
+      "27"
+     ],
+     "correct": 1,
+     "explain": "8 +27 = 35 −23 = 12 +14 = 26."
+    },
+    {
+     "q": "Số 4 lần lượt: cộng 6, rồi cộng 29, rồi cộng 29, rồi cộng 16. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "85",
+      "83",
+      "100",
+      "84"
+     ],
+     "correct": 3,
+     "explain": "4 +6 = 10 +29 = 39 +29 = 68 +16 = 84."
+    },
+    {
+     "q": "Số 7 lần lượt: cộng 20, rồi trừ 12, rồi chia 3. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "4",
+      "8",
+      "5",
+      "6"
+     ],
+     "correct": 2,
+     "explain": "7 +20 = 27 −12 = 15 ÷3 = 5."
+    },
+    {
+     "q": "Số 6 lần lượt: chia 6, rồi cộng 30, rồi cộng 11. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "53",
+      "41",
+      "43",
+      "42"
+     ],
+     "correct": 3,
+     "explain": "6 ÷6 = 1 +30 = 31 +11 = 42."
+    },
+    {
+     "q": "Số 2 lần lượt: cộng 40, rồi cộng 7, rồi cộng 11. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "61",
+      "60",
+      "59",
+      "71"
+     ],
+     "correct": 1,
+     "explain": "2 +40 = 42 +7 = 49 +11 = 60."
+    },
+    {
+     "q": "Số 9 lần lượt: cộng 23, rồi trừ 22, rồi nhân 5, rồi chia 5. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "15",
+      "9",
+      "10",
+      "11"
+     ],
+     "correct": 2,
+     "explain": "9 +23 = 32 −22 = 10 ×5 = 50 ÷5 = 10."
+    },
+    {
+     "q": "Số 8 lần lượt: cộng 39, rồi cộng 25, rồi cộng 13. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "84",
+      "86",
+      "98",
+      "85"
+     ],
+     "correct": 3,
+     "explain": "8 +39 = 47 +25 = 72 +13 = 85."
+    },
+    {
+     "q": "Số 8 lần lượt: chia 4, rồi cộng 30, rồi cộng 25. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "56",
+      "58",
+      "82",
+      "57"
+     ],
+     "correct": 3,
+     "explain": "8 ÷4 = 2 +30 = 32 +25 = 57."
+    },
+    {
+     "q": "Số 5 lần lượt: cộng 29, rồi cộng 30, rồi trừ 30. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "64",
+      "33",
+      "35",
+      "34"
+     ],
+     "correct": 3,
+     "explain": "5 +29 = 34 +30 = 64 −30 = 34."
+    },
+    {
+     "q": "Số 9 lần lượt: cộng 14, rồi trừ 6, rồi trừ 8, rồi chia 3. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "2",
+      "4",
+      "3",
+      "6"
+     ],
+     "correct": 2,
+     "explain": "9 +14 = 23 −6 = 17 −8 = 9 ÷3 = 3."
+    },
+    {
+     "q": "Số 9 lần lượt: cộng 20, rồi trừ 8, rồi trừ 7. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "15",
+      "21",
+      "14",
+      "13"
+     ],
+     "correct": 2,
+     "explain": "9 +20 = 29 −8 = 21 −7 = 14."
+    },
+    {
+     "q": "Số 9 lần lượt: cộng 20, rồi cộng 19, rồi cộng 16, rồi chia 4. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "20",
+      "16",
+      "17",
+      "15"
+     ],
+     "correct": 1,
+     "explain": "9 +20 = 29 +19 = 48 +16 = 64 ÷4 = 16."
+    },
+    {
+     "q": "Số 8 lần lượt: cộng 38, rồi cộng 25, rồi cộng 11. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "82",
+      "83",
+      "93",
+      "81"
+     ],
+     "correct": 0,
+     "explain": "8 +38 = 46 +25 = 71 +11 = 82."
+    },
+    {
+     "q": "Số 3 lần lượt: cộng 25, rồi trừ 8, rồi chia 5, rồi cộng 12. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "17",
+      "28",
+      "15",
+      "16"
+     ],
+     "correct": 3,
+     "explain": "3 +25 = 28 −8 = 20 ÷5 = 4 +12 = 16."
+    },
+    {
+     "q": "Số 9 lần lượt: chia 3, rồi chia 3, rồi cộng 8. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "8",
+      "9",
+      "17",
+      "10"
+     ],
+     "correct": 1,
+     "explain": "9 ÷3 = 3 ÷3 = 1 +8 = 9."
+    },
+    {
+     "q": "Số 9 lần lượt: chia 3, rồi cộng 10, rồi cộng 14. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "27",
+      "28",
+      "41",
+      "26"
+     ],
+     "correct": 0,
+     "explain": "9 ÷3 = 3 +10 = 13 +14 = 27."
+    },
+    {
+     "q": "Số 5 lần lượt: nhân 5, rồi trừ 10, rồi cộng 30, rồi cộng 32. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "78",
+      "77",
+      "76",
+      "109"
+     ],
+     "correct": 1,
+     "explain": "5 ×5 = 25 −10 = 15 +30 = 45 +32 = 77."
+    },
+    {
+     "q": "Số 4 lần lượt: cộng 6, rồi cộng 6, rồi trừ 6. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "16",
+      "10",
+      "11",
+      "9"
+     ],
+     "correct": 1,
+     "explain": "4 +6 = 10 +6 = 16 −6 = 10."
+    },
+    {
+     "q": "Số 7 lần lượt: nhân 2, rồi cộng 30, rồi trừ 36, rồi cộng 29. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "37",
+      "36",
+      "38",
+      "66"
+     ],
+     "correct": 0,
+     "explain": "7 ×2 = 14 +30 = 44 −36 = 8 +29 = 37."
+    },
+    {
+     "q": "Số 8 lần lượt: chia 4, rồi nhân 2, rồi chia 2, rồi nhân 9. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "27",
+      "17",
+      "19",
+      "18"
+     ],
+     "correct": 3,
+     "explain": "8 ÷4 = 2 ×2 = 4 ÷2 = 2 ×9 = 18."
+    },
+    {
+     "q": "Số 4 lần lượt: cộng 18, rồi cộng 28, rồi cộng 15, rồi chia 5. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "12",
+      "13",
+      "18",
+      "14"
+     ],
+     "correct": 1,
+     "explain": "4 +18 = 22 +28 = 50 +15 = 65 ÷5 = 13."
+    },
+    {
+     "q": "Số 2 lần lượt: cộng 28, rồi chia 5, rồi nhân 2. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "12",
+      "14",
+      "13",
+      "11"
+     ],
+     "correct": 0,
+     "explain": "2 +28 = 30 ÷5 = 6 ×2 = 12."
+    },
+    {
+     "q": "Số 6 lần lượt: cộng 19, rồi trừ 13, rồi nhân 4, rồi cộng 20. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "68",
+      "88",
+      "67",
+      "69"
+     ],
+     "correct": 0,
+     "explain": "6 +19 = 25 −13 = 12 ×4 = 48 +20 = 68."
+    },
+    {
+     "q": "Số 4 lần lượt: chia 2, rồi nhân 5, rồi nhân 9. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "99",
+      "90",
+      "91",
+      "89"
+     ],
+     "correct": 1,
+     "explain": "4 ÷2 = 2 ×5 = 10 ×9 = 90."
+    },
+    {
+     "q": "Số 7 lần lượt: cộng 20, rồi cộng 15, rồi chia 2. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "21",
+      "20",
+      "23",
+      "22"
+     ],
+     "correct": 0,
+     "explain": "7 +20 = 27 +15 = 42 ÷2 = 21."
+    },
+    {
+     "q": "Số 8 lần lượt: cộng 22, rồi cộng 11, rồi cộng 7. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "49",
+      "47",
+      "48",
+      "55"
+     ],
+     "correct": 2,
+     "explain": "8 +22 = 30 +11 = 41 +7 = 48."
+    },
+    {
+     "q": "Số 3 lần lượt: cộng 19, rồi cộng 24, rồi cộng 7. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "60",
+      "54",
+      "52",
+      "53"
+     ],
+     "correct": 3,
+     "explain": "3 +19 = 22 +24 = 46 +7 = 53."
+    },
+    {
+     "q": "Số 6 lần lượt: cộng 21, rồi trừ 10, rồi trừ 10. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "8",
+      "6",
+      "17",
+      "7"
+     ],
+     "correct": 3,
+     "explain": "6 +21 = 27 −10 = 17 −10 = 7."
+    },
+    {
+     "q": "Số 9 lần lượt: nhân 3, rồi trừ 6, rồi chia 3. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "6",
+      "7",
+      "10",
+      "8"
+     ],
+     "correct": 1,
+     "explain": "9 ×3 = 27 −6 = 21 ÷3 = 7."
+    },
+    {
+     "q": "Số 2 lần lượt: cộng 16, rồi trừ 7, rồi cộng 15. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "27",
+      "25",
+      "26",
+      "41"
+     ],
+     "correct": 2,
+     "explain": "2 +16 = 18 −7 = 11 +15 = 26."
+    },
+    {
+     "q": "Số 7 lần lượt: nhân 8, rồi cộng 28, rồi cộng 10. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "104",
+      "94",
+      "93",
+      "95"
+     ],
+     "correct": 1,
+     "explain": "7 ×8 = 56 +28 = 84 +10 = 94."
+    },
+    {
+     "q": "Số 8 lần lượt: chia 2, rồi chia 2, rồi chia 2, rồi nhân 7. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "7",
+      "6",
+      "14",
+      "8"
+     ],
+     "correct": 0,
+     "explain": "8 ÷2 = 4 ÷2 = 2 ÷2 = 1 ×7 = 7."
+    },
+    {
+     "q": "Số 6 lần lượt: cộng 7, rồi cộng 38, rồi chia 3. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "16",
+      "20",
+      "18",
+      "17"
+     ],
+     "correct": 3,
+     "explain": "6 +7 = 13 +38 = 51 ÷3 = 17."
+    },
+    {
+     "q": "Số 9 lần lượt: cộng 23, rồi trừ 12, rồi chia 5, rồi chia 2. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "1",
+      "4",
+      "2",
+      "3"
+     ],
+     "correct": 2,
+     "explain": "9 +23 = 32 −12 = 20 ÷5 = 4 ÷2 = 2."
+    },
+    {
+     "q": "Số 4 lần lượt: cộng 24, rồi chia 2, rồi cộng 33. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "47",
+      "48",
+      "80",
+      "46"
+     ],
+     "correct": 0,
+     "explain": "4 +24 = 28 ÷2 = 14 +33 = 47."
+    },
+    {
+     "q": "Số 5 lần lượt: chia 5, rồi cộng 36, rồi cộng 8, rồi trừ 21. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "25",
+      "23",
+      "45",
+      "24"
+     ],
+     "correct": 3,
+     "explain": "5 ÷5 = 1 +36 = 37 +8 = 45 −21 = 24."
+    },
+    {
+     "q": "Số 5 lần lượt: cộng 9, rồi cộng 26, rồi cộng 31. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "72",
+      "70",
+      "102",
+      "71"
+     ],
+     "correct": 3,
+     "explain": "5 +9 = 14 +26 = 40 +31 = 71."
+    },
+    {
+     "q": "Số 2 lần lượt: nhân 7, rồi cộng 18, rồi chia 4, rồi cộng 18. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "26",
+      "27",
+      "44",
+      "25"
+     ],
+     "correct": 0,
+     "explain": "2 ×7 = 14 +18 = 32 ÷4 = 8 +18 = 26."
+    },
+    {
+     "q": "Số 6 lần lượt: nhân 2, rồi chia 2, rồi cộng 25. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "30",
+      "56",
+      "32",
+      "31"
+     ],
+     "correct": 3,
+     "explain": "6 ×2 = 12 ÷2 = 6 +25 = 31."
+    },
+    {
+     "q": "Số 6 lần lượt: nhân 4, rồi trừ 16, rồi cộng 39. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "86",
+      "46",
+      "48",
+      "47"
+     ],
+     "correct": 3,
+     "explain": "6 ×4 = 24 −16 = 8 +39 = 47."
+    },
+    {
+     "q": "Số 5 lần lượt: cộng 9, rồi cộng 14, rồi cộng 27, rồi trừ 42. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "13",
+      "14",
+      "55",
+      "12"
+     ],
+     "correct": 0,
+     "explain": "5 +9 = 14 +14 = 28 +27 = 55 −42 = 13."
+    },
+    {
+     "q": "Số 4 lần lượt: chia 4, rồi cộng 26, rồi cộng 39. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "67",
+      "66",
+      "65",
+      "105"
+     ],
+     "correct": 1,
+     "explain": "4 ÷4 = 1 +26 = 27 +39 = 66."
+    },
+    {
+     "q": "Số 8 lần lượt: chia 2, rồi cộng 17, rồi chia 3, rồi cộng 23. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "29",
+      "53",
+      "31",
+      "30"
+     ],
+     "correct": 3,
+     "explain": "8 ÷2 = 4 +17 = 21 ÷3 = 7 +23 = 30."
+    },
+    {
+     "q": "Số 7 lần lượt: cộng 10, rồi cộng 32, rồi cộng 20, rồi trừ 41. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "69",
+      "29",
+      "28",
+      "27"
+     ],
+     "correct": 2,
+     "explain": "7 +10 = 17 +32 = 49 +20 = 69 −41 = 28."
+    },
+    {
+     "q": "Số 4 lần lượt: cộng 12, rồi chia 2, rồi chia 2. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "5",
+      "3",
+      "6",
+      "4"
+     ],
+     "correct": 3,
+     "explain": "4 +12 = 16 ÷2 = 8 ÷2 = 4."
+    },
+    {
+     "q": "Số 6 lần lượt: chia 3, rồi cộng 14, rồi chia 4. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "8",
+      "5",
+      "4",
+      "3"
+     ],
+     "correct": 2,
+     "explain": "6 ÷3 = 2 +14 = 16 ÷4 = 4."
+    },
+    {
+     "q": "Số 9 lần lượt: nhân 6, rồi chia 3, rồi chia 3, rồi cộng 27. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "33",
+      "32",
+      "34",
+      "60"
+     ],
+     "correct": 0,
+     "explain": "9 ×6 = 54 ÷3 = 18 ÷3 = 6 +27 = 33."
+    },
+    {
+     "q": "Số 3 lần lượt: cộng 33, rồi chia 4, rồi cộng 11, rồi cộng 21. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "40",
+      "42",
+      "62",
+      "41"
+     ],
+     "correct": 3,
+     "explain": "3 +33 = 36 ÷4 = 9 +11 = 20 +21 = 41."
+    },
+    {
+     "q": "Số 5 lần lượt: cộng 18, rồi trừ 6, rồi trừ 11. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "6",
+      "7",
+      "17",
+      "5"
+     ],
+     "correct": 0,
+     "explain": "5 +18 = 23 −6 = 17 −11 = 6."
+    },
+    {
+     "q": "Số 5 lần lượt: nhân 2, rồi cộng 23, rồi cộng 13. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "45",
+      "59",
+      "46",
+      "47"
+     ],
+     "correct": 2,
+     "explain": "5 ×2 = 10 +23 = 33 +13 = 46."
+    },
+    {
+     "q": "Số 2 lần lượt: chia 2, rồi nhân 7, rồi cộng 17, rồi cộng 9. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "33",
+      "32",
+      "42",
+      "34"
+     ],
+     "correct": 0,
+     "explain": "2 ÷2 = 1 ×7 = 7 +17 = 24 +9 = 33."
+    },
+    {
+     "q": "Số 9 lần lượt: cộng 19, rồi chia 4, rồi cộng 19. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "26",
+      "25",
+      "27",
+      "45"
+     ],
+     "correct": 0,
+     "explain": "9 +19 = 28 ÷4 = 7 +19 = 26."
+    },
+    {
+     "q": "Số 3 lần lượt: nhân 5, rồi cộng 23, rồi chia 2. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "21",
+      "20",
+      "19",
+      "18"
+     ],
+     "correct": 2,
+     "explain": "3 ×5 = 15 +23 = 38 ÷2 = 19."
+    },
+    {
+     "q": "Số 8 lần lượt: chia 2, rồi cộng 12, rồi chia 4, rồi nhân 6. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "30",
+      "25",
+      "23",
+      "24"
+     ],
+     "correct": 3,
+     "explain": "8 ÷2 = 4 +12 = 16 ÷4 = 4 ×6 = 24."
+    },
+    {
+     "q": "Số 6 lần lượt: cộng 21, rồi chia 3, rồi nhân 4, rồi chia 2. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "19",
+      "20",
+      "18",
+      "17"
+     ],
+     "correct": 2,
+     "explain": "6 +21 = 27 ÷3 = 9 ×4 = 36 ÷2 = 18."
+    },
+    {
+     "q": "Số 8 lần lượt: cộng 30, rồi cộng 37, rồi trừ 47. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "28",
+      "27",
+      "75",
+      "29"
+     ],
+     "correct": 0,
+     "explain": "8 +30 = 38 +37 = 75 −47 = 28."
+    },
+    {
+     "q": "Số 9 lần lượt: cộng 25, rồi cộng 24, rồi cộng 29. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "116",
+      "87",
+      "88",
+      "86"
+     ],
+     "correct": 1,
+     "explain": "9 +25 = 34 +24 = 58 +29 = 87."
+    },
+    {
+     "q": "Số 2 lần lượt: cộng 26, rồi chia 2, rồi cộng 28. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "41",
+      "42",
+      "70",
+      "43"
+     ],
+     "correct": 1,
+     "explain": "2 +26 = 28 ÷2 = 14 +28 = 42."
+    },
+    {
+     "q": "Số 2 lần lượt: cộng 8, rồi chia 2, rồi nhân 7, rồi cộng 22. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "79",
+      "56",
+      "57",
+      "58"
+     ],
+     "correct": 2,
+     "explain": "2 +8 = 10 ÷2 = 5 ×7 = 35 +22 = 57."
+    },
+    {
+     "q": "Số 7 lần lượt: cộng 15, rồi cộng 29, rồi cộng 28. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "78",
+      "79",
+      "80",
+      "107"
+     ],
+     "correct": 1,
+     "explain": "7 +15 = 22 +29 = 51 +28 = 79."
+    },
+    {
+     "q": "Số 2 lần lượt: nhân 6, rồi nhân 6, rồi cộng 16. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "87",
+      "89",
+      "88",
+      "104"
+     ],
+     "correct": 2,
+     "explain": "2 ×6 = 12 ×6 = 72 +16 = 88."
+    },
+    {
+     "q": "Số 4 lần lượt: cộng 30, rồi trừ 16, rồi cộng 19. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "36",
+      "37",
+      "38",
+      "56"
+     ],
+     "correct": 1,
+     "explain": "4 +30 = 34 −16 = 18 +19 = 37."
+    },
+    {
+     "q": "Số 7 lần lượt: cộng 21, rồi cộng 8, rồi cộng 20, rồi chia 4. Hỏi số cuối cùng điền vào ô trống là bao nhiêu?",
+     "options": [
+      "15",
+      "18",
+      "13",
+      "14"
+     ],
+     "correct": 3,
+     "explain": "7 +21 = 28 +8 = 36 +20 = 56 ÷4 = 14."
+    }
+   ]
+  },
+  {
+   "type": 2,
+   "title": "Bài 2 - Thực hiện phép tính",
+   "exercises": [
+    {
+     "q": "Phép tính nào có cùng kết quả với 5 × 8?",
+     "options": [
+      "8 × 5",
+      "14 ÷ 2",
+      "9 × 3",
+      "6 × 4"
+     ],
+     "correct": 0,
+     "explain": "5 × 8 = 40, và 8 × 5 = 40 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 8 × 6?",
+     "options": [
+      "8 ÷ 4",
+      "12 ÷ 6",
+      "2 × 3",
+      "6 × 8"
+     ],
+     "correct": 3,
+     "explain": "8 × 6 = 48, và 6 × 8 = 48 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 3 × 2?",
+     "options": [
+      "7 × 5",
+      "12 ÷ 2",
+      "3 × 5",
+      "3 × 9"
+     ],
+     "correct": 1,
+     "explain": "3 × 2 = 6, và 12 ÷ 2 = 6 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 6 × 9?",
+     "options": [
+      "5 × 4",
+      "9 × 3",
+      "20 ÷ 4",
+      "9 × 6"
+     ],
+     "correct": 3,
+     "explain": "6 × 9 = 54, và 9 × 6 = 54 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 4 × 9?",
+     "options": [
+      "9 × 4",
+      "2 × 9",
+      "8 × 6",
+      "6 × 9"
+     ],
+     "correct": 0,
+     "explain": "4 × 9 = 36, và 9 × 4 = 36 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 5 × 6?",
+     "options": [
+      "6 × 5",
+      "30 ÷ 5",
+      "28 ÷ 4",
+      "2 × 6"
+     ],
+     "correct": 0,
+     "explain": "5 × 6 = 30, và 6 × 5 = 30 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 7 × 3?",
+     "options": [
+      "30 ÷ 6",
+      "27 ÷ 3",
+      "2 × 7",
+      "3 × 7"
+     ],
+     "correct": 3,
+     "explain": "7 × 3 = 21, và 3 × 7 = 21 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 8 × 4?",
+     "options": [
+      "45 ÷ 5",
+      "4 × 9",
+      "6 × 6",
+      "4 × 8"
+     ],
+     "correct": 3,
+     "explain": "8 × 4 = 32, và 4 × 8 = 32 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 3 × 9?",
+     "options": [
+      "8 × 3",
+      "12 ÷ 3",
+      "5 × 3",
+      "9 × 3"
+     ],
+     "correct": 3,
+     "explain": "3 × 9 = 27, và 9 × 3 = 27 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 4 × 7?",
+     "options": [
+      "12 ÷ 3",
+      "6 ÷ 3",
+      "10 ÷ 2",
+      "7 × 4"
+     ],
+     "correct": 3,
+     "explain": "4 × 7 = 28, và 7 × 4 = 28 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 9 × 3?",
+     "options": [
+      "2 × 5",
+      "8 × 4",
+      "3 × 9",
+      "21 ÷ 3"
+     ],
+     "correct": 2,
+     "explain": "9 × 3 = 27, và 3 × 9 = 27 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 2 × 4?",
+     "options": [
+      "15 ÷ 5",
+      "24 ÷ 3",
+      "15 ÷ 3",
+      "9 × 5"
+     ],
+     "correct": 1,
+     "explain": "2 × 4 = 8, và 24 ÷ 3 = 8 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 27 ÷ 3?",
+     "options": [
+      "3 × 2",
+      "8 ÷ 2",
+      "36 ÷ 4",
+      "25 ÷ 5"
+     ],
+     "correct": 2,
+     "explain": "27 ÷ 3 = 9, và 36 ÷ 4 = 9 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 21 ÷ 3?",
+     "options": [
+      "24 ÷ 4",
+      "42 ÷ 6",
+      "9 × 6",
+      "9 ÷ 3"
+     ],
+     "correct": 1,
+     "explain": "21 ÷ 3 = 7, và 42 ÷ 6 = 7 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 6 × 5?",
+     "options": [
+      "18 ÷ 6",
+      "12 ÷ 2",
+      "4 × 6",
+      "5 × 6"
+     ],
+     "correct": 3,
+     "explain": "6 × 5 = 30, và 5 × 6 = 30 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 2 × 2?",
+     "options": [
+      "3 × 2",
+      "20 ÷ 5",
+      "18 ÷ 6",
+      "24 ÷ 4"
+     ],
+     "correct": 1,
+     "explain": "2 × 2 = 4, và 20 ÷ 5 = 4 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 4 × 5?",
+     "options": [
+      "20 ÷ 4",
+      "2 × 3",
+      "12 ÷ 3",
+      "5 × 4"
+     ],
+     "correct": 3,
+     "explain": "4 × 5 = 20, và 5 × 4 = 20 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 5 × 4?",
+     "options": [
+      "36 ÷ 6",
+      "3 × 5",
+      "25 ÷ 5",
+      "4 × 5"
+     ],
+     "correct": 3,
+     "explain": "5 × 4 = 20, và 4 × 5 = 20 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 8 × 2?",
+     "options": [
+      "24 ÷ 3",
+      "2 × 8",
+      "42 ÷ 6",
+      "4 × 7"
+     ],
+     "correct": 1,
+     "explain": "8 × 2 = 16, và 2 × 8 = 16 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 9 × 4?",
+     "options": [
+      "4 × 9",
+      "12 ÷ 6",
+      "30 ÷ 6",
+      "5 × 2"
+     ],
+     "correct": 0,
+     "explain": "9 × 4 = 36, và 4 × 9 = 36 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 7 × 4?",
+     "options": [
+      "4 × 7",
+      "12 ÷ 6",
+      "24 ÷ 4",
+      "35 ÷ 5"
+     ],
+     "correct": 0,
+     "explain": "7 × 4 = 28, và 4 × 7 = 28 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 7 × 2?",
+     "options": [
+      "6 × 8",
+      "36 ÷ 6",
+      "2 × 9",
+      "2 × 7"
+     ],
+     "correct": 3,
+     "explain": "7 × 2 = 14, và 2 × 7 = 14 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 3 × 5?",
+     "options": [
+      "5 × 3",
+      "25 ÷ 5",
+      "5 × 4",
+      "5 × 9"
+     ],
+     "correct": 0,
+     "explain": "3 × 5 = 15, và 5 × 3 = 15 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 3 × 7?",
+     "options": [
+      "7 × 3",
+      "30 ÷ 6",
+      "5 × 3",
+      "2 × 6"
+     ],
+     "correct": 0,
+     "explain": "3 × 7 = 21, và 7 × 3 = 21 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 18 ÷ 2?",
+     "options": [
+      "8 × 3",
+      "6 × 8",
+      "24 ÷ 4",
+      "54 ÷ 6"
+     ],
+     "correct": 3,
+     "explain": "18 ÷ 2 = 9, và 54 ÷ 6 = 9 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 5 × 9?",
+     "options": [
+      "6 × 4",
+      "54 ÷ 6",
+      "9 × 5",
+      "6 × 2"
+     ],
+     "correct": 2,
+     "explain": "5 × 9 = 45, và 9 × 5 = 45 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 6 × 2?",
+     "options": [
+      "6 ÷ 3",
+      "3 × 4",
+      "30 ÷ 5",
+      "8 × 4"
+     ],
+     "correct": 1,
+     "explain": "6 × 2 = 12, và 3 × 4 = 12 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 9 × 5?",
+     "options": [
+      "4 × 8",
+      "6 ÷ 3",
+      "5 × 9",
+      "9 × 2"
+     ],
+     "correct": 2,
+     "explain": "9 × 5 = 45, và 5 × 9 = 45 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 12 ÷ 4?",
+     "options": [
+      "48 ÷ 6",
+      "45 ÷ 5",
+      "7 × 6",
+      "9 ÷ 3"
+     ],
+     "correct": 3,
+     "explain": "12 ÷ 4 = 3, và 9 ÷ 3 = 3 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 54 ÷ 6?",
+     "options": [
+      "3 × 3",
+      "5 × 2",
+      "15 ÷ 5",
+      "6 × 8"
+     ],
+     "correct": 0,
+     "explain": "54 ÷ 6 = 9, và 3 × 3 = 9 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 18 ÷ 3?",
+     "options": [
+      "6 × 2",
+      "30 ÷ 5",
+      "8 × 3",
+      "9 × 6"
+     ],
+     "correct": 1,
+     "explain": "18 ÷ 3 = 6, và 30 ÷ 5 = 6 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 3 × 8?",
+     "options": [
+      "2 × 5",
+      "24 ÷ 3",
+      "2 × 8",
+      "8 × 3"
+     ],
+     "correct": 3,
+     "explain": "3 × 8 = 24, và 8 × 3 = 24 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 12 ÷ 6?",
+     "options": [
+      "10 ÷ 5",
+      "3 × 6",
+      "3 × 5",
+      "7 × 2"
+     ],
+     "correct": 0,
+     "explain": "12 ÷ 6 = 2, và 10 ÷ 5 = 2 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 5 × 7?",
+     "options": [
+      "6 ÷ 3",
+      "3 × 9",
+      "5 × 4",
+      "7 × 5"
+     ],
+     "correct": 3,
+     "explain": "5 × 7 = 35, và 7 × 5 = 35 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 2 × 5?",
+     "options": [
+      "9 × 4",
+      "5 × 2",
+      "7 × 3",
+      "6 × 7"
+     ],
+     "correct": 1,
+     "explain": "2 × 5 = 10, và 5 × 2 = 10 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 3 × 4?",
+     "options": [
+      "4 × 3",
+      "16 ÷ 4",
+      "2 × 5",
+      "7 × 3"
+     ],
+     "correct": 0,
+     "explain": "3 × 4 = 12, và 4 × 3 = 12 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 5 × 3?",
+     "options": [
+      "3 × 5",
+      "15 ÷ 3",
+      "8 × 4",
+      "4 × 4"
+     ],
+     "correct": 0,
+     "explain": "5 × 3 = 15, và 3 × 5 = 15 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 10 ÷ 5?",
+     "options": [
+      "5 × 5",
+      "2 × 6",
+      "5 × 6",
+      "8 ÷ 4"
+     ],
+     "correct": 3,
+     "explain": "10 ÷ 5 = 2, và 8 ÷ 4 = 2 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 25 ÷ 5?",
+     "options": [
+      "20 ÷ 4",
+      "12 ÷ 4",
+      "4 × 2",
+      "45 ÷ 5"
+     ],
+     "correct": 0,
+     "explain": "25 ÷ 5 = 5, và 20 ÷ 4 = 5 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 9 ÷ 3?",
+     "options": [
+      "28 ÷ 4",
+      "12 ÷ 6",
+      "6 ÷ 2",
+      "8 × 5"
+     ],
+     "correct": 2,
+     "explain": "9 ÷ 3 = 3, và 6 ÷ 2 = 3 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 6 × 7?",
+     "options": [
+      "2 × 7",
+      "6 × 9",
+      "7 × 6",
+      "2 × 4"
+     ],
+     "correct": 2,
+     "explain": "6 × 7 = 42, và 7 × 6 = 42 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 2 × 3?",
+     "options": [
+      "15 ÷ 3",
+      "16 ÷ 4",
+      "3 × 7",
+      "3 × 2"
+     ],
+     "correct": 3,
+     "explain": "2 × 3 = 6, và 3 × 2 = 6 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 4 × 3?",
+     "options": [
+      "24 ÷ 4",
+      "2 × 6",
+      "2 × 7",
+      "16 ÷ 4"
+     ],
+     "correct": 1,
+     "explain": "4 × 3 = 12, và 2 × 6 = 12 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 9 × 6?",
+     "options": [
+      "12 ÷ 3",
+      "14 ÷ 2",
+      "12 ÷ 2",
+      "6 × 9"
+     ],
+     "correct": 3,
+     "explain": "9 × 6 = 54, và 6 × 9 = 54 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 36 ÷ 4?",
+     "options": [
+      "45 ÷ 5",
+      "9 × 3",
+      "6 × 4",
+      "5 × 7"
+     ],
+     "correct": 0,
+     "explain": "36 ÷ 4 = 9, và 45 ÷ 5 = 9 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 2 × 7?",
+     "options": [
+      "3 × 2",
+      "4 × 4",
+      "7 × 2",
+      "6 × 5"
+     ],
+     "correct": 2,
+     "explain": "2 × 7 = 14, và 7 × 2 = 14 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 7 × 5?",
+     "options": [
+      "5 × 6",
+      "4 × 6",
+      "5 × 7",
+      "24 ÷ 6"
+     ],
+     "correct": 2,
+     "explain": "7 × 5 = 35, và 5 × 7 = 35 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 28 ÷ 4?",
+     "options": [
+      "3 × 8",
+      "14 ÷ 2",
+      "8 × 4",
+      "2 × 8"
+     ],
+     "correct": 1,
+     "explain": "28 ÷ 4 = 7, và 14 ÷ 2 = 7 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 3 × 6?",
+     "options": [
+      "30 ÷ 6",
+      "2 × 9",
+      "4 × 3",
+      "3 × 3"
+     ],
+     "correct": 1,
+     "explain": "3 × 6 = 18, và 2 × 9 = 18 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 2 × 8?",
+     "options": [
+      "4 × 6",
+      "4 × 4",
+      "14 ÷ 2",
+      "4 × 2"
+     ],
+     "correct": 1,
+     "explain": "2 × 8 = 16, và 4 × 4 = 16 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 42 ÷ 6?",
+     "options": [
+      "6 × 7",
+      "2 × 9",
+      "35 ÷ 5",
+      "8 × 4"
+     ],
+     "correct": 2,
+     "explain": "42 ÷ 6 = 7, và 35 ÷ 5 = 7 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 9 × 2?",
+     "options": [
+      "2 × 8",
+      "12 ÷ 2",
+      "9 × 4",
+      "6 × 3"
+     ],
+     "correct": 3,
+     "explain": "9 × 2 = 18, và 6 × 3 = 18 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 6 × 3?",
+     "options": [
+      "5 × 4",
+      "2 × 2",
+      "9 × 2",
+      "3 × 4"
+     ],
+     "correct": 2,
+     "explain": "6 × 3 = 18, và 9 × 2 = 18 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 35 ÷ 5?",
+     "options": [
+      "28 ÷ 4",
+      "10 ÷ 2",
+      "48 ÷ 6",
+      "30 ÷ 5"
+     ],
+     "correct": 0,
+     "explain": "35 ÷ 5 = 7, và 28 ÷ 4 = 7 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 4 × 4?",
+     "options": [
+      "4 ÷ 2",
+      "7 × 3",
+      "3 × 5",
+      "8 × 2"
+     ],
+     "correct": 3,
+     "explain": "4 × 4 = 16, và 8 × 2 = 16 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 6 ÷ 2?",
+     "options": [
+      "4 × 5",
+      "4 × 8",
+      "4 × 2",
+      "12 ÷ 4"
+     ],
+     "correct": 3,
+     "explain": "6 ÷ 2 = 3, và 12 ÷ 4 = 3 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 6 ÷ 3?",
+     "options": [
+      "21 ÷ 3",
+      "7 × 2",
+      "14 ÷ 2",
+      "10 ÷ 5"
+     ],
+     "correct": 3,
+     "explain": "6 ÷ 3 = 2, và 10 ÷ 5 = 2 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 30 ÷ 6?",
+     "options": [
+      "9 × 6",
+      "10 ÷ 5",
+      "4 × 8",
+      "15 ÷ 3"
+     ],
+     "correct": 3,
+     "explain": "30 ÷ 6 = 5, và 15 ÷ 3 = 5 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 4 × 8?",
+     "options": [
+      "8 × 4",
+      "8 × 6",
+      "3 × 5",
+      "30 ÷ 6"
+     ],
+     "correct": 0,
+     "explain": "4 × 8 = 32, và 8 × 4 = 32 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 7 × 6?",
+     "options": [
+      "9 × 5",
+      "25 ÷ 5",
+      "9 × 6",
+      "6 × 7"
+     ],
+     "correct": 3,
+     "explain": "7 × 6 = 42, và 6 × 7 = 42 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 20 ÷ 4?",
+     "options": [
+      "3 × 2",
+      "30 ÷ 6",
+      "8 × 6",
+      "35 ÷ 5"
+     ],
+     "correct": 1,
+     "explain": "20 ÷ 4 = 5, và 30 ÷ 6 = 5 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 6 × 4?",
+     "options": [
+      "3 × 8",
+      "2 × 5",
+      "36 ÷ 4",
+      "2 × 3"
+     ],
+     "correct": 0,
+     "explain": "6 × 4 = 24, và 3 × 8 = 24 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 4 × 6?",
+     "options": [
+      "48 ÷ 6",
+      "8 × 3",
+      "4 × 4",
+      "3 × 3"
+     ],
+     "correct": 1,
+     "explain": "4 × 6 = 24, và 8 × 3 = 24 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 2 × 9?",
+     "options": [
+      "9 × 2",
+      "4 × 9",
+      "8 ÷ 2",
+      "48 ÷ 6"
+     ],
+     "correct": 0,
+     "explain": "2 × 9 = 18, và 9 × 2 = 18 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 8 × 3?",
+     "options": [
+      "9 × 6",
+      "4 × 6",
+      "8 × 5",
+      "8 ÷ 4"
+     ],
+     "correct": 1,
+     "explain": "8 × 3 = 24, và 4 × 6 = 24 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 32 ÷ 4?",
+     "options": [
+      "3 × 9",
+      "2 × 6",
+      "24 ÷ 3",
+      "7 × 5"
+     ],
+     "correct": 2,
+     "explain": "32 ÷ 4 = 8, và 24 ÷ 3 = 8 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 40 ÷ 5?",
+     "options": [
+      "21 ÷ 3",
+      "9 × 3",
+      "2 × 4",
+      "8 × 5"
+     ],
+     "correct": 2,
+     "explain": "40 ÷ 5 = 8, và 2 × 4 = 8 → cùng kết quả."
+    }
+   ]
+  },
+  {
+   "type": 3,
+   "title": "Bài 3 - Giải toán có lời văn",
+   "exercises": [
+    {
+     "q": "Cô Hà có 281 quả trứng. Sau khi bán thì còn lại 51 quả trứng. Hỏi cô Hà đã bán bao nhiêu quả trứng?",
+     "options": [
+      "230",
+      "51",
+      "281",
+      "332"
+     ],
+     "correct": 0,
+     "explain": "Đã bán = 281 − 51 = 230 (quả trứng)."
+    },
+    {
+     "q": "Mẹ có 140 nghìn đồng. Sau khi tiêu thì còn lại 90 nghìn đồng. Hỏi mẹ đã tiêu bao nhiêu nghìn đồng?",
+     "options": [
+      "90",
+      "230",
+      "140",
+      "50"
+     ],
+     "correct": 3,
+     "explain": "Đã tiêu = 140 − 90 = 50 (nghìn đồng)."
+    },
+    {
+     "q": "Cửa hàng có 200 chiếc áo. Sau khi bán thì còn lại 166 chiếc áo. Hỏi cửa hàng đã bán bao nhiêu chiếc áo?",
+     "options": [
+      "34",
+      "366",
+      "166",
+      "200"
+     ],
+     "correct": 0,
+     "explain": "Đã bán = 200 − 166 = 34 (chiếc áo)."
+    },
+    {
+     "q": "Bác Nam có 301 ki-lô-gam gạo. Sau khi bán thì còn lại 199 ki-lô-gam gạo. Hỏi bác Nam đã bán bao nhiêu ki-lô-gam gạo?",
+     "options": [
+      "301",
+      "500",
+      "102",
+      "199"
+     ],
+     "correct": 2,
+     "explain": "Đã bán = 301 − 199 = 102 (ki-lô-gam gạo)."
+    },
+    {
+     "q": "Mẹ có 210 nghìn đồng. Sau khi tiêu thì còn lại 53 nghìn đồng. Hỏi mẹ đã tiêu bao nhiêu nghìn đồng?",
+     "options": [
+      "53",
+      "263",
+      "210",
+      "157"
+     ],
+     "correct": 3,
+     "explain": "Đã tiêu = 210 − 53 = 157 (nghìn đồng)."
+    },
+    {
+     "q": "Mẹ có 298 nghìn đồng. Sau khi tiêu thì còn lại 90 nghìn đồng. Hỏi mẹ đã tiêu bao nhiêu nghìn đồng?",
+     "options": [
+      "388",
+      "298",
+      "208",
+      "90"
+     ],
+     "correct": 2,
+     "explain": "Đã tiêu = 298 − 90 = 208 (nghìn đồng)."
+    },
+    {
+     "q": "Thư viện có 200 quyển sách. Sau khi cho mượn thì còn lại 151 quyển sách. Hỏi thư viện đã cho mượn bao nhiêu quyển sách?",
+     "options": [
+      "151",
+      "200",
+      "49",
+      "351"
+     ],
+     "correct": 2,
+     "explain": "Đã cho mượn = 200 − 151 = 49 (quyển sách)."
+    },
+    {
+     "q": "Cửa hàng có 300 chiếc áo. Sau khi bán thì còn lại 17 chiếc áo. Hỏi cửa hàng đã bán bao nhiêu chiếc áo?",
+     "options": [
+      "317",
+      "17",
+      "300",
+      "283"
+     ],
+     "correct": 3,
+     "explain": "Đã bán = 300 − 17 = 283 (chiếc áo)."
+    },
+    {
+     "q": "Mẹ có 195 nghìn đồng. Sau khi tiêu thì còn lại 107 nghìn đồng. Hỏi mẹ đã tiêu bao nhiêu nghìn đồng?",
+     "options": [
+      "88",
+      "107",
+      "302",
+      "195"
+     ],
+     "correct": 0,
+     "explain": "Đã tiêu = 195 − 107 = 88 (nghìn đồng)."
+    },
+    {
+     "q": "Cửa hàng có 500 chiếc áo. Sau khi bán thì còn lại 174 chiếc áo. Hỏi cửa hàng đã bán bao nhiêu chiếc áo?",
+     "options": [
+      "326",
+      "174",
+      "674",
+      "500"
+     ],
+     "correct": 0,
+     "explain": "Đã bán = 500 − 174 = 326 (chiếc áo)."
+    },
+    {
+     "q": "Thư viện có 261 quyển sách. Sau khi cho mượn thì còn lại 68 quyển sách. Hỏi thư viện đã cho mượn bao nhiêu quyển sách?",
+     "options": [
+      "329",
+      "261",
+      "68",
+      "193"
+     ],
+     "correct": 3,
+     "explain": "Đã cho mượn = 261 − 68 = 193 (quyển sách)."
+    },
+    {
+     "q": "Lan có 180 cái kẹo. Sau khi ăn thì còn lại 152 cái kẹo. Hỏi Lan đã ăn bao nhiêu cái kẹo?",
+     "options": [
+      "332",
+      "180",
+      "28",
+      "152"
+     ],
+     "correct": 2,
+     "explain": "Đã ăn = 180 − 152 = 28 (cái kẹo)."
+    },
+    {
+     "q": "Thư viện có 700 quyển sách. Sau khi cho mượn thì còn lại 273 quyển sách. Hỏi thư viện đã cho mượn bao nhiêu quyển sách?",
+     "options": [
+      "973",
+      "700",
+      "273",
+      "427"
+     ],
+     "correct": 3,
+     "explain": "Đã cho mượn = 700 − 273 = 427 (quyển sách)."
+    },
+    {
+     "q": "Cô Hà có 700 quả trứng. Sau khi bán thì còn lại 214 quả trứng. Hỏi cô Hà đã bán bao nhiêu quả trứng?",
+     "options": [
+      "914",
+      "214",
+      "486",
+      "700"
+     ],
+     "correct": 2,
+     "explain": "Đã bán = 700 − 214 = 486 (quả trứng)."
+    },
+    {
+     "q": "Lan có 300 cái kẹo. Sau khi ăn thì còn lại 67 cái kẹo. Hỏi Lan đã ăn bao nhiêu cái kẹo?",
+     "options": [
+      "67",
+      "367",
+      "233",
+      "300"
+     ],
+     "correct": 2,
+     "explain": "Đã ăn = 300 − 67 = 233 (cái kẹo)."
+    },
+    {
+     "q": "Lan có 700 cái kẹo. Sau khi ăn thì còn lại 549 cái kẹo. Hỏi Lan đã ăn bao nhiêu cái kẹo?",
+     "options": [
+      "700",
+      "549",
+      "151",
+      "1249"
+     ],
+     "correct": 2,
+     "explain": "Đã ăn = 700 − 549 = 151 (cái kẹo)."
+    },
+    {
+     "q": "Bể nước có 180 lít nước. Sau khi dùng hết thì còn lại 84 lít nước. Hỏi bể nước đã dùng hết bao nhiêu lít nước?",
+     "options": [
+      "264",
+      "84",
+      "180",
+      "96"
+     ],
+     "correct": 3,
+     "explain": "Đã dùng hết = 180 − 84 = 96 (lít nước)."
+    },
+    {
+     "q": "Thư viện có 135 quyển sách. Sau khi cho mượn thì còn lại 78 quyển sách. Hỏi thư viện đã cho mượn bao nhiêu quyển sách?",
+     "options": [
+      "57",
+      "78",
+      "213",
+      "135"
+     ],
+     "correct": 0,
+     "explain": "Đã cho mượn = 135 − 78 = 57 (quyển sách)."
+    },
+    {
+     "q": "Cô Hà có 700 quả trứng. Sau khi bán thì còn lại 470 quả trứng. Hỏi cô Hà đã bán bao nhiêu quả trứng?",
+     "options": [
+      "230",
+      "700",
+      "1170",
+      "470"
+     ],
+     "correct": 0,
+     "explain": "Đã bán = 700 − 470 = 230 (quả trứng)."
+    },
+    {
+     "q": "An có 128 viên bi. Sau khi cho bạn thì còn lại 18 viên bi. Hỏi An đã cho bạn bao nhiêu viên bi?",
+     "options": [
+      "18",
+      "110",
+      "146",
+      "128"
+     ],
+     "correct": 1,
+     "explain": "Đã cho bạn = 128 − 18 = 110 (viên bi)."
+    },
+    {
+     "q": "Cửa hàng có 272 chiếc áo. Sau khi bán thì còn lại 181 chiếc áo. Hỏi cửa hàng đã bán bao nhiêu chiếc áo?",
+     "options": [
+      "181",
+      "91",
+      "453",
+      "272"
+     ],
+     "correct": 1,
+     "explain": "Đã bán = 272 − 181 = 91 (chiếc áo)."
+    },
+    {
+     "q": "Mẹ có 200 nghìn đồng. Sau khi tiêu thì còn lại 16 nghìn đồng. Hỏi mẹ đã tiêu bao nhiêu nghìn đồng?",
+     "options": [
+      "200",
+      "216",
+      "16",
+      "184"
+     ],
+     "correct": 3,
+     "explain": "Đã tiêu = 200 − 16 = 184 (nghìn đồng)."
+    },
+    {
+     "q": "Bể nước có 395 lít nước. Sau khi dùng hết thì còn lại 172 lít nước. Hỏi bể nước đã dùng hết bao nhiêu lít nước?",
+     "options": [
+      "567",
+      "172",
+      "395",
+      "223"
+     ],
+     "correct": 3,
+     "explain": "Đã dùng hết = 395 − 172 = 223 (lít nước)."
+    },
+    {
+     "q": "Bác Nam có 383 ki-lô-gam gạo. Sau khi bán thì còn lại 338 ki-lô-gam gạo. Hỏi bác Nam đã bán bao nhiêu ki-lô-gam gạo?",
+     "options": [
+      "45",
+      "338",
+      "721",
+      "383"
+     ],
+     "correct": 0,
+     "explain": "Đã bán = 383 − 338 = 45 (ki-lô-gam gạo)."
+    },
+    {
+     "q": "Bác Nam có 336 ki-lô-gam gạo. Sau khi bán thì còn lại 23 ki-lô-gam gạo. Hỏi bác Nam đã bán bao nhiêu ki-lô-gam gạo?",
+     "options": [
+      "23",
+      "359",
+      "336",
+      "313"
+     ],
+     "correct": 3,
+     "explain": "Đã bán = 336 − 23 = 313 (ki-lô-gam gạo)."
+    },
+    {
+     "q": "Lan có 180 cái kẹo. Sau khi ăn thì còn lại 71 cái kẹo. Hỏi Lan đã ăn bao nhiêu cái kẹo?",
+     "options": [
+      "71",
+      "109",
+      "251",
+      "180"
+     ],
+     "correct": 1,
+     "explain": "Đã ăn = 180 − 71 = 109 (cái kẹo)."
+    },
+    {
+     "q": "An có 300 viên bi. Sau khi cho bạn thì còn lại 93 viên bi. Hỏi An đã cho bạn bao nhiêu viên bi?",
+     "options": [
+      "300",
+      "393",
+      "207",
+      "93"
+     ],
+     "correct": 2,
+     "explain": "Đã cho bạn = 300 − 93 = 207 (viên bi)."
+    },
+    {
+     "q": "Mẹ có 500 nghìn đồng. Sau khi tiêu thì còn lại 366 nghìn đồng. Hỏi mẹ đã tiêu bao nhiêu nghìn đồng?",
+     "options": [
+      "366",
+      "866",
+      "134",
+      "500"
+     ],
+     "correct": 2,
+     "explain": "Đã tiêu = 500 − 366 = 134 (nghìn đồng)."
+    },
+    {
+     "q": "An có 180 viên bi. Sau khi cho bạn thì còn lại 106 viên bi. Hỏi An đã cho bạn bao nhiêu viên bi?",
+     "options": [
+      "180",
+      "286",
+      "74",
+      "106"
+     ],
+     "correct": 2,
+     "explain": "Đã cho bạn = 180 − 106 = 74 (viên bi)."
+    },
+    {
+     "q": "Bác Nam có 200 ki-lô-gam gạo. Sau khi bán thì còn lại 167 ki-lô-gam gạo. Hỏi bác Nam đã bán bao nhiêu ki-lô-gam gạo?",
+     "options": [
+      "167",
+      "33",
+      "200",
+      "367"
+     ],
+     "correct": 1,
+     "explain": "Đã bán = 200 − 167 = 33 (ki-lô-gam gạo)."
+    },
+    {
+     "q": "Cửa hàng có 284 chiếc áo. Sau khi bán thì còn lại 188 chiếc áo. Hỏi cửa hàng đã bán bao nhiêu chiếc áo?",
+     "options": [
+      "188",
+      "96",
+      "284",
+      "472"
+     ],
+     "correct": 1,
+     "explain": "Đã bán = 284 − 188 = 96 (chiếc áo)."
+    },
+    {
+     "q": "An có 200 viên bi. Sau khi cho bạn thì còn lại 130 viên bi. Hỏi An đã cho bạn bao nhiêu viên bi?",
+     "options": [
+      "330",
+      "70",
+      "130",
+      "200"
+     ],
+     "correct": 1,
+     "explain": "Đã cho bạn = 200 − 130 = 70 (viên bi)."
+    },
+    {
+     "q": "Cửa hàng có 200 chiếc áo. Sau khi bán thì còn lại 57 chiếc áo. Hỏi cửa hàng đã bán bao nhiêu chiếc áo?",
+     "options": [
+      "143",
+      "200",
+      "257",
+      "57"
+     ],
+     "correct": 0,
+     "explain": "Đã bán = 200 − 57 = 143 (chiếc áo)."
+    },
+    {
+     "q": "Thư viện có 378 quyển sách. Sau khi cho mượn thì còn lại 192 quyển sách. Hỏi thư viện đã cho mượn bao nhiêu quyển sách?",
+     "options": [
+      "378",
+      "192",
+      "570",
+      "186"
+     ],
+     "correct": 3,
+     "explain": "Đã cho mượn = 378 − 192 = 186 (quyển sách)."
+    },
+    {
+     "q": "Thư viện có 121 quyển sách. Sau khi cho mượn thì còn lại 21 quyển sách. Hỏi thư viện đã cho mượn bao nhiêu quyển sách?",
+     "options": [
+      "100",
+      "21",
+      "121",
+      "142"
+     ],
+     "correct": 0,
+     "explain": "Đã cho mượn = 121 − 21 = 100 (quyển sách)."
+    },
+    {
+     "q": "Thư viện có 200 quyển sách. Sau khi cho mượn thì còn lại 66 quyển sách. Hỏi thư viện đã cho mượn bao nhiêu quyển sách?",
+     "options": [
+      "200",
+      "134",
+      "66",
+      "266"
+     ],
+     "correct": 1,
+     "explain": "Đã cho mượn = 200 − 66 = 134 (quyển sách)."
+    },
+    {
+     "q": "Lan có 500 cái kẹo. Sau khi ăn thì còn lại 294 cái kẹo. Hỏi Lan đã ăn bao nhiêu cái kẹo?",
+     "options": [
+      "794",
+      "500",
+      "206",
+      "294"
+     ],
+     "correct": 2,
+     "explain": "Đã ăn = 500 − 294 = 206 (cái kẹo)."
+    },
+    {
+     "q": "Bể nước có 207 lít nước. Sau khi dùng hết thì còn lại 39 lít nước. Hỏi bể nước đã dùng hết bao nhiêu lít nước?",
+     "options": [
+      "39",
+      "168",
+      "246",
+      "207"
+     ],
+     "correct": 1,
+     "explain": "Đã dùng hết = 207 − 39 = 168 (lít nước)."
+    },
+    {
+     "q": "An có 700 viên bi. Sau khi cho bạn thì còn lại 278 viên bi. Hỏi An đã cho bạn bao nhiêu viên bi?",
+     "options": [
+      "422",
+      "978",
+      "278",
+      "700"
+     ],
+     "correct": 0,
+     "explain": "Đã cho bạn = 700 − 278 = 422 (viên bi)."
+    },
+    {
+     "q": "Thư viện có 257 quyển sách. Sau khi cho mượn thì còn lại 91 quyển sách. Hỏi thư viện đã cho mượn bao nhiêu quyển sách?",
+     "options": [
+      "348",
+      "91",
+      "257",
+      "166"
+     ],
+     "correct": 3,
+     "explain": "Đã cho mượn = 257 − 91 = 166 (quyển sách)."
+    },
+    {
+     "q": "An có 300 viên bi. Sau khi cho bạn thì còn lại 242 viên bi. Hỏi An đã cho bạn bao nhiêu viên bi?",
+     "options": [
+      "300",
+      "542",
+      "242",
+      "58"
+     ],
+     "correct": 3,
+     "explain": "Đã cho bạn = 300 − 242 = 58 (viên bi)."
+    },
+    {
+     "q": "An có 289 viên bi. Sau khi cho bạn thì còn lại 136 viên bi. Hỏi An đã cho bạn bao nhiêu viên bi?",
+     "options": [
+      "425",
+      "153",
+      "289",
+      "136"
+     ],
+     "correct": 1,
+     "explain": "Đã cho bạn = 289 − 136 = 153 (viên bi)."
+    },
+    {
+     "q": "Lan có 180 cái kẹo. Sau khi ăn thì còn lại 92 cái kẹo. Hỏi Lan đã ăn bao nhiêu cái kẹo?",
+     "options": [
+      "92",
+      "180",
+      "88",
+      "272"
+     ],
+     "correct": 2,
+     "explain": "Đã ăn = 180 − 92 = 88 (cái kẹo)."
+    },
+    {
+     "q": "Mẹ có 310 nghìn đồng. Sau khi tiêu thì còn lại 94 nghìn đồng. Hỏi mẹ đã tiêu bao nhiêu nghìn đồng?",
+     "options": [
+      "310",
+      "94",
+      "404",
+      "216"
+     ],
+     "correct": 3,
+     "explain": "Đã tiêu = 310 − 94 = 216 (nghìn đồng)."
+    },
+    {
+     "q": "Mẹ có 300 nghìn đồng. Sau khi tiêu thì còn lại 231 nghìn đồng. Hỏi mẹ đã tiêu bao nhiêu nghìn đồng?",
+     "options": [
+      "69",
+      "300",
+      "531",
+      "231"
+     ],
+     "correct": 0,
+     "explain": "Đã tiêu = 300 − 231 = 69 (nghìn đồng)."
+    },
+    {
+     "q": "Lan có 500 cái kẹo. Sau khi ăn thì còn lại 32 cái kẹo. Hỏi Lan đã ăn bao nhiêu cái kẹo?",
+     "options": [
+      "500",
+      "468",
+      "532",
+      "32"
+     ],
+     "correct": 1,
+     "explain": "Đã ăn = 500 − 32 = 468 (cái kẹo)."
+    },
+    {
+     "q": "Cô Hà có 200 quả trứng. Sau khi bán thì còn lại 37 quả trứng. Hỏi cô Hà đã bán bao nhiêu quả trứng?",
+     "options": [
+      "163",
+      "237",
+      "200",
+      "37"
+     ],
+     "correct": 0,
+     "explain": "Đã bán = 200 − 37 = 163 (quả trứng)."
+    },
+    {
+     "q": "Bể nước có 394 lít nước. Sau khi dùng hết thì còn lại 20 lít nước. Hỏi bể nước đã dùng hết bao nhiêu lít nước?",
+     "options": [
+      "394",
+      "414",
+      "374",
+      "20"
+     ],
+     "correct": 2,
+     "explain": "Đã dùng hết = 394 − 20 = 374 (lít nước)."
+    },
+    {
+     "q": "Thư viện có 180 quyển sách. Sau khi cho mượn thì còn lại 74 quyển sách. Hỏi thư viện đã cho mượn bao nhiêu quyển sách?",
+     "options": [
+      "180",
+      "254",
+      "74",
+      "106"
+     ],
+     "correct": 3,
+     "explain": "Đã cho mượn = 180 − 74 = 106 (quyển sách)."
+    },
+    {
+     "q": "Thư viện có 121 quyển sách. Sau khi cho mượn thì còn lại 57 quyển sách. Hỏi thư viện đã cho mượn bao nhiêu quyển sách?",
+     "options": [
+      "57",
+      "64",
+      "121",
+      "178"
+     ],
+     "correct": 1,
+     "explain": "Đã cho mượn = 121 − 57 = 64 (quyển sách)."
+    },
+    {
+     "q": "Cửa hàng có 333 chiếc áo. Sau khi bán thì còn lại 126 chiếc áo. Hỏi cửa hàng đã bán bao nhiêu chiếc áo?",
+     "options": [
+      "207",
+      "459",
+      "333",
+      "126"
+     ],
+     "correct": 0,
+     "explain": "Đã bán = 333 − 126 = 207 (chiếc áo)."
+    },
+    {
+     "q": "Mẹ có 201 nghìn đồng. Sau khi tiêu thì còn lại 176 nghìn đồng. Hỏi mẹ đã tiêu bao nhiêu nghìn đồng?",
+     "options": [
+      "25",
+      "377",
+      "176",
+      "201"
+     ],
+     "correct": 0,
+     "explain": "Đã tiêu = 201 − 176 = 25 (nghìn đồng)."
+    },
+    {
+     "q": "Mẹ có 500 nghìn đồng. Sau khi tiêu thì còn lại 122 nghìn đồng. Hỏi mẹ đã tiêu bao nhiêu nghìn đồng?",
+     "options": [
+      "122",
+      "500",
+      "622",
+      "378"
+     ],
+     "correct": 3,
+     "explain": "Đã tiêu = 500 − 122 = 378 (nghìn đồng)."
+    },
+    {
+     "q": "Mẹ có 500 nghìn đồng. Sau khi tiêu thì còn lại 235 nghìn đồng. Hỏi mẹ đã tiêu bao nhiêu nghìn đồng?",
+     "options": [
+      "265",
+      "235",
+      "735",
+      "500"
+     ],
+     "correct": 0,
+     "explain": "Đã tiêu = 500 − 235 = 265 (nghìn đồng)."
+    },
+    {
+     "q": "Lan có 700 cái kẹo. Sau khi ăn thì còn lại 543 cái kẹo. Hỏi Lan đã ăn bao nhiêu cái kẹo?",
+     "options": [
+      "157",
+      "700",
+      "1243",
+      "543"
+     ],
+     "correct": 0,
+     "explain": "Đã ăn = 700 − 543 = 157 (cái kẹo)."
+    },
+    {
+     "q": "Bác Nam có 127 ki-lô-gam gạo. Sau khi bán thì còn lại 25 ki-lô-gam gạo. Hỏi bác Nam đã bán bao nhiêu ki-lô-gam gạo?",
+     "options": [
+      "152",
+      "102",
+      "25",
+      "127"
+     ],
+     "correct": 1,
+     "explain": "Đã bán = 127 − 25 = 102 (ki-lô-gam gạo)."
+    },
+    {
+     "q": "Cô Hà có 384 quả trứng. Sau khi bán thì còn lại 127 quả trứng. Hỏi cô Hà đã bán bao nhiêu quả trứng?",
+     "options": [
+      "257",
+      "127",
+      "384",
+      "511"
+     ],
+     "correct": 0,
+     "explain": "Đã bán = 384 − 127 = 257 (quả trứng)."
+    },
+    {
+     "q": "Cửa hàng có 208 chiếc áo. Sau khi bán thì còn lại 120 chiếc áo. Hỏi cửa hàng đã bán bao nhiêu chiếc áo?",
+     "options": [
+      "328",
+      "208",
+      "88",
+      "120"
+     ],
+     "correct": 2,
+     "explain": "Đã bán = 208 − 120 = 88 (chiếc áo)."
+    },
+    {
+     "q": "Cô Hà có 200 quả trứng. Sau khi bán thì còn lại 97 quả trứng. Hỏi cô Hà đã bán bao nhiêu quả trứng?",
+     "options": [
+      "297",
+      "103",
+      "97",
+      "200"
+     ],
+     "correct": 1,
+     "explain": "Đã bán = 200 − 97 = 103 (quả trứng)."
+    },
+    {
+     "q": "Bác Nam có 300 ki-lô-gam gạo. Sau khi bán thì còn lại 236 ki-lô-gam gạo. Hỏi bác Nam đã bán bao nhiêu ki-lô-gam gạo?",
+     "options": [
+      "64",
+      "300",
+      "536",
+      "236"
+     ],
+     "correct": 0,
+     "explain": "Đã bán = 300 − 236 = 64 (ki-lô-gam gạo)."
+    },
+    {
+     "q": "Mẹ có 350 nghìn đồng. Sau khi tiêu thì còn lại 59 nghìn đồng. Hỏi mẹ đã tiêu bao nhiêu nghìn đồng?",
+     "options": [
+      "409",
+      "350",
+      "59",
+      "291"
+     ],
+     "correct": 3,
+     "explain": "Đã tiêu = 350 − 59 = 291 (nghìn đồng)."
+    },
+    {
+     "q": "Mẹ có 359 nghìn đồng. Sau khi tiêu thì còn lại 324 nghìn đồng. Hỏi mẹ đã tiêu bao nhiêu nghìn đồng?",
+     "options": [
+      "359",
+      "35",
+      "324",
+      "683"
+     ],
+     "correct": 1,
+     "explain": "Đã tiêu = 359 − 324 = 35 (nghìn đồng)."
+    },
+    {
+     "q": "An có 200 viên bi. Sau khi cho bạn thì còn lại 85 viên bi. Hỏi An đã cho bạn bao nhiêu viên bi?",
+     "options": [
+      "285",
+      "115",
+      "200",
+      "85"
+     ],
+     "correct": 1,
+     "explain": "Đã cho bạn = 200 − 85 = 115 (viên bi)."
+    },
+    {
+     "q": "Lan có 174 cái kẹo. Sau khi ăn thì còn lại 126 cái kẹo. Hỏi Lan đã ăn bao nhiêu cái kẹo?",
+     "options": [
+      "48",
+      "126",
+      "174",
+      "300"
+     ],
+     "correct": 0,
+     "explain": "Đã ăn = 174 − 126 = 48 (cái kẹo)."
+    },
+    {
+     "q": "An có 282 viên bi. Sau khi cho bạn thì còn lại 21 viên bi. Hỏi An đã cho bạn bao nhiêu viên bi?",
+     "options": [
+      "303",
+      "21",
+      "261",
+      "282"
+     ],
+     "correct": 2,
+     "explain": "Đã cho bạn = 282 − 21 = 261 (viên bi)."
+    },
+    {
+     "q": "Lan có 700 cái kẹo. Sau khi ăn thì còn lại 111 cái kẹo. Hỏi Lan đã ăn bao nhiêu cái kẹo?",
+     "options": [
+      "811",
+      "700",
+      "111",
+      "589"
+     ],
+     "correct": 3,
+     "explain": "Đã ăn = 700 − 111 = 589 (cái kẹo)."
+    },
+    {
+     "q": "Cửa hàng có 300 chiếc áo. Sau khi bán thì còn lại 70 chiếc áo. Hỏi cửa hàng đã bán bao nhiêu chiếc áo?",
+     "options": [
+      "370",
+      "300",
+      "70",
+      "230"
+     ],
+     "correct": 3,
+     "explain": "Đã bán = 300 − 70 = 230 (chiếc áo)."
+    }
+   ]
+  }
+ ]
+}

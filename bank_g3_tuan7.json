@@ -1,0 +1,2242 @@
+{
+ "grade": 3,
+ "week": 7,
+ "lessons": [
+  {
+   "type": 1,
+   "title": "Bài 1 - Điền số vào ô trống",
+   "exercises": [
+    {
+     "q": "Số 6 nhân với 3, rồi cộng 37. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "55",
+      "56",
+      "92",
+      "18"
+     ],
+     "correct": 0,
+     "explain": "6 × 3 = 18, rồi 18 + 37 = 55."
+    },
+    {
+     "q": "Số 7 nhân với 5, rồi cộng 26. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "61",
+      "35",
+      "62",
+      "87"
+     ],
+     "correct": 0,
+     "explain": "7 × 5 = 35, rồi 35 + 26 = 61."
+    },
+    {
+     "q": "Số 7 nhân với 6, rồi trừ 28. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "42",
+      "13",
+      "15",
+      "14"
+     ],
+     "correct": 3,
+     "explain": "7 × 6 = 42, rồi 42 − 28 = 14."
+    },
+    {
+     "q": "Số 5 nhân với 9, rồi cộng 32. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "77",
+      "109",
+      "45",
+      "78"
+     ],
+     "correct": 0,
+     "explain": "5 × 9 = 45, rồi 45 + 32 = 77."
+    },
+    {
+     "q": "Số 5 nhân với 7, rồi cộng 31. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "66",
+      "97",
+      "67",
+      "35"
+     ],
+     "correct": 0,
+     "explain": "5 × 7 = 35, rồi 35 + 31 = 66."
+    },
+    {
+     "q": "Số 6 nhân với 4, rồi trừ 18. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "5",
+      "24",
+      "6",
+      "7"
+     ],
+     "correct": 2,
+     "explain": "6 × 4 = 24, rồi 24 − 18 = 6."
+    },
+    {
+     "q": "Số 7 nhân với 6, rồi cộng 9. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "42",
+      "52",
+      "60",
+      "51"
+     ],
+     "correct": 3,
+     "explain": "7 × 6 = 42, rồi 42 + 9 = 51."
+    },
+    {
+     "q": "Số 8 nhân với 6, rồi cộng 12. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "61",
+      "60",
+      "48",
+      "72"
+     ],
+     "correct": 1,
+     "explain": "8 × 6 = 48, rồi 48 + 12 = 60."
+    },
+    {
+     "q": "Số 3 nhân với 7, rồi cộng 39. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "60",
+      "21",
+      "61",
+      "99"
+     ],
+     "correct": 0,
+     "explain": "3 × 7 = 21, rồi 21 + 39 = 60."
+    },
+    {
+     "q": "Số 7 nhân với 7, rồi trừ 38. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "49",
+      "10",
+      "12",
+      "11"
+     ],
+     "correct": 3,
+     "explain": "7 × 7 = 49, rồi 49 − 38 = 11."
+    },
+    {
+     "q": "Số 9 nhân với 6, rồi cộng 19. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "74",
+      "54",
+      "92",
+      "73"
+     ],
+     "correct": 3,
+     "explain": "9 × 6 = 54, rồi 54 + 19 = 73."
+    },
+    {
+     "q": "Số 5 nhân với 9, rồi trừ 10. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "34",
+      "36",
+      "45",
+      "35"
+     ],
+     "correct": 3,
+     "explain": "5 × 9 = 45, rồi 45 − 10 = 35."
+    },
+    {
+     "q": "Số 5 nhân với 6, rồi cộng 38. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "69",
+      "106",
+      "30",
+      "68"
+     ],
+     "correct": 3,
+     "explain": "5 × 6 = 30, rồi 30 + 38 = 68."
+    },
+    {
+     "q": "Số 6 nhân với 8, rồi cộng 25. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "74",
+      "73",
+      "98",
+      "48"
+     ],
+     "correct": 1,
+     "explain": "6 × 8 = 48, rồi 48 + 25 = 73."
+    },
+    {
+     "q": "Số 9 nhân với 3, rồi trừ 9. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "18",
+      "27",
+      "17",
+      "19"
+     ],
+     "correct": 0,
+     "explain": "9 × 3 = 27, rồi 27 − 9 = 18."
+    },
+    {
+     "q": "Số 8 nhân với 6, rồi trừ 17. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "48",
+      "30",
+      "31",
+      "32"
+     ],
+     "correct": 2,
+     "explain": "8 × 6 = 48, rồi 48 − 17 = 31."
+    },
+    {
+     "q": "Số 7 nhân với 9, rồi cộng 13. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "63",
+      "89",
+      "76",
+      "77"
+     ],
+     "correct": 2,
+     "explain": "7 × 9 = 63, rồi 63 + 13 = 76."
+    },
+    {
+     "q": "Số 3 nhân với 7, rồi trừ 16. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "5",
+      "4",
+      "21",
+      "6"
+     ],
+     "correct": 0,
+     "explain": "3 × 7 = 21, rồi 21 − 16 = 5."
+    },
+    {
+     "q": "Số 6 nhân với 4, rồi cộng 21. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "24",
+      "45",
+      "46",
+      "66"
+     ],
+     "correct": 1,
+     "explain": "6 × 4 = 24, rồi 24 + 21 = 45."
+    },
+    {
+     "q": "Số 8 nhân với 3, rồi cộng 12. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "36",
+      "24",
+      "37",
+      "48"
+     ],
+     "correct": 0,
+     "explain": "8 × 3 = 24, rồi 24 + 12 = 36."
+    },
+    {
+     "q": "Số 9 nhân với 3, rồi trừ 5. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "27",
+      "21",
+      "22",
+      "23"
+     ],
+     "correct": 2,
+     "explain": "9 × 3 = 27, rồi 27 − 5 = 22."
+    },
+    {
+     "q": "Số 9 nhân với 6, rồi cộng 39. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "54",
+      "93",
+      "132",
+      "94"
+     ],
+     "correct": 1,
+     "explain": "9 × 6 = 54, rồi 54 + 39 = 93."
+    },
+    {
+     "q": "Số 9 nhân với 9, rồi trừ 46. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "36",
+      "34",
+      "81",
+      "35"
+     ],
+     "correct": 3,
+     "explain": "9 × 9 = 81, rồi 81 − 46 = 35."
+    },
+    {
+     "q": "Số 9 nhân với 4, rồi cộng 10. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "47",
+      "46",
+      "36",
+      "56"
+     ],
+     "correct": 1,
+     "explain": "9 × 4 = 36, rồi 36 + 10 = 46."
+    },
+    {
+     "q": "Số 3 nhân với 7, rồi trừ 12. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "8",
+      "21",
+      "10",
+      "9"
+     ],
+     "correct": 3,
+     "explain": "3 × 7 = 21, rồi 21 − 12 = 9."
+    },
+    {
+     "q": "Số 5 nhân với 3, rồi cộng 38. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "15",
+      "53",
+      "54",
+      "91"
+     ],
+     "correct": 1,
+     "explain": "5 × 3 = 15, rồi 15 + 38 = 53."
+    },
+    {
+     "q": "Số 7 nhân với 3, rồi trừ 5. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "15",
+      "17",
+      "16",
+      "21"
+     ],
+     "correct": 2,
+     "explain": "7 × 3 = 21, rồi 21 − 5 = 16."
+    },
+    {
+     "q": "Số 9 nhân với 8, rồi cộng 14. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "72",
+      "86",
+      "87",
+      "100"
+     ],
+     "correct": 1,
+     "explain": "9 × 8 = 72, rồi 72 + 14 = 86."
+    },
+    {
+     "q": "Số 6 nhân với 5, rồi cộng 16. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "30",
+      "62",
+      "47",
+      "46"
+     ],
+     "correct": 3,
+     "explain": "6 × 5 = 30, rồi 30 + 16 = 46."
+    },
+    {
+     "q": "Số 5 nhân với 8, rồi cộng 6. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "47",
+      "52",
+      "40",
+      "46"
+     ],
+     "correct": 3,
+     "explain": "5 × 8 = 40, rồi 40 + 6 = 46."
+    },
+    {
+     "q": "Số 3 nhân với 6, rồi cộng 36. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "55",
+      "90",
+      "54",
+      "18"
+     ],
+     "correct": 2,
+     "explain": "3 × 6 = 18, rồi 18 + 36 = 54."
+    },
+    {
+     "q": "Số 6 nhân với 9, rồi cộng 37. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "92",
+      "54",
+      "91",
+      "128"
+     ],
+     "correct": 2,
+     "explain": "6 × 9 = 54, rồi 54 + 37 = 91."
+    },
+    {
+     "q": "Số 7 nhân với 3, rồi cộng 39. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "21",
+      "61",
+      "99",
+      "60"
+     ],
+     "correct": 3,
+     "explain": "7 × 3 = 21, rồi 21 + 39 = 60."
+    },
+    {
+     "q": "Số 5 nhân với 6, rồi trừ 10. Hỏi số cần điền vào ô trống là bao nhiêu?",
+     "options": [
+      "21",
+      "19",
+      "20",
+      "30"
+     ],
+     "correct": 2,
+     "explain": "5 × 6 = 30, rồi 30 − 10 = 20."
+    }
+   ]
+  },
+  {
+   "type": 2,
+   "title": "Bài 2 - Đường kính của hình tròn",
+   "exercises": [
+    {
+     "q": "Một hình tròn có đường kính 54 cm. Hỏi bán kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "26",
+      "27",
+      "54",
+      "28"
+     ],
+     "correct": 1,
+     "explain": "Bán kính = đường kính ÷ 2 = 54 ÷ 2 = 27 (cm)."
+    },
+    {
+     "q": "Một hình tròn có bán kính 25 cm. Hỏi đường kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "50",
+      "52",
+      "48",
+      "25"
+     ],
+     "correct": 0,
+     "explain": "Đường kính = 2 × bán kính = 2 × 25 = 50 (cm)."
+    },
+    {
+     "q": "Một hình tròn có bán kính 15 cm. Hỏi đường kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "15",
+      "32",
+      "28",
+      "30"
+     ],
+     "correct": 3,
+     "explain": "Đường kính = 2 × bán kính = 2 × 15 = 30 (cm)."
+    },
+    {
+     "q": "Một hình tròn có bán kính 8 cm. Hỏi đường kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "18",
+      "16",
+      "14",
+      "8"
+     ],
+     "correct": 1,
+     "explain": "Đường kính = 2 × bán kính = 2 × 8 = 16 (cm)."
+    },
+    {
+     "q": "Một hình tròn có đường kính 16 cm. Hỏi bán kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "16",
+      "8",
+      "9",
+      "7"
+     ],
+     "correct": 1,
+     "explain": "Bán kính = đường kính ÷ 2 = 16 ÷ 2 = 8 (cm)."
+    },
+    {
+     "q": "Một hình tròn có bán kính 24 cm. Hỏi đường kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "46",
+      "24",
+      "50",
+      "48"
+     ],
+     "correct": 3,
+     "explain": "Đường kính = 2 × bán kính = 2 × 24 = 48 (cm)."
+    },
+    {
+     "q": "Một hình tròn có bán kính 9 cm. Hỏi đường kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "18",
+      "20",
+      "9",
+      "16"
+     ],
+     "correct": 0,
+     "explain": "Đường kính = 2 × bán kính = 2 × 9 = 18 (cm)."
+    },
+    {
+     "q": "Một hình tròn có đường kính 12 cm. Hỏi bán kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "5",
+      "6",
+      "12",
+      "7"
+     ],
+     "correct": 1,
+     "explain": "Bán kính = đường kính ÷ 2 = 12 ÷ 2 = 6 (cm)."
+    },
+    {
+     "q": "Một hình tròn có bán kính 13 cm. Hỏi đường kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "26",
+      "28",
+      "13",
+      "24"
+     ],
+     "correct": 0,
+     "explain": "Đường kính = 2 × bán kính = 2 × 13 = 26 (cm)."
+    },
+    {
+     "q": "Một hình tròn có bán kính 10 cm. Hỏi đường kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "18",
+      "10",
+      "22",
+      "20"
+     ],
+     "correct": 3,
+     "explain": "Đường kính = 2 × bán kính = 2 × 10 = 20 (cm)."
+    },
+    {
+     "q": "Một hình tròn có đường kính 6 cm. Hỏi bán kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "6",
+      "4",
+      "2",
+      "3"
+     ],
+     "correct": 3,
+     "explain": "Bán kính = đường kính ÷ 2 = 6 ÷ 2 = 3 (cm)."
+    },
+    {
+     "q": "Một hình tròn có bán kính 19 cm. Hỏi đường kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "38",
+      "36",
+      "40",
+      "19"
+     ],
+     "correct": 0,
+     "explain": "Đường kính = 2 × bán kính = 2 × 19 = 38 (cm)."
+    },
+    {
+     "q": "Một hình tròn có đường kính 48 cm. Hỏi bán kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "24",
+      "25",
+      "48",
+      "23"
+     ],
+     "correct": 0,
+     "explain": "Bán kính = đường kính ÷ 2 = 48 ÷ 2 = 24 (cm)."
+    },
+    {
+     "q": "Một hình tròn có bán kính 28 cm. Hỏi đường kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "28",
+      "54",
+      "58",
+      "56"
+     ],
+     "correct": 3,
+     "explain": "Đường kính = 2 × bán kính = 2 × 28 = 56 (cm)."
+    },
+    {
+     "q": "Một hình tròn có đường kính 44 cm. Hỏi bán kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "44",
+      "22",
+      "21",
+      "23"
+     ],
+     "correct": 1,
+     "explain": "Bán kính = đường kính ÷ 2 = 44 ÷ 2 = 22 (cm)."
+    },
+    {
+     "q": "Một hình tròn có đường kính 46 cm. Hỏi bán kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "24",
+      "46",
+      "23",
+      "22"
+     ],
+     "correct": 2,
+     "explain": "Bán kính = đường kính ÷ 2 = 46 ÷ 2 = 23 (cm)."
+    },
+    {
+     "q": "Một hình tròn có đường kính 20 cm. Hỏi bán kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "11",
+      "9",
+      "20",
+      "10"
+     ],
+     "correct": 3,
+     "explain": "Bán kính = đường kính ÷ 2 = 20 ÷ 2 = 10 (cm)."
+    },
+    {
+     "q": "Một hình tròn có bán kính 4 cm. Hỏi đường kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "6",
+      "8",
+      "10",
+      "4"
+     ],
+     "correct": 1,
+     "explain": "Đường kính = 2 × bán kính = 2 × 4 = 8 (cm)."
+    },
+    {
+     "q": "Một hình tròn có bán kính 17 cm. Hỏi đường kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "36",
+      "32",
+      "34",
+      "17"
+     ],
+     "correct": 2,
+     "explain": "Đường kính = 2 × bán kính = 2 × 17 = 34 (cm)."
+    },
+    {
+     "q": "Một hình tròn có đường kính 32 cm. Hỏi bán kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "15",
+      "17",
+      "16",
+      "32"
+     ],
+     "correct": 2,
+     "explain": "Bán kính = đường kính ÷ 2 = 32 ÷ 2 = 16 (cm)."
+    },
+    {
+     "q": "Một hình tròn có đường kính 28 cm. Hỏi bán kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "13",
+      "15",
+      "28",
+      "14"
+     ],
+     "correct": 3,
+     "explain": "Bán kính = đường kính ÷ 2 = 28 ÷ 2 = 14 (cm)."
+    },
+    {
+     "q": "Một hình tròn có đường kính 10 cm. Hỏi bán kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "10",
+      "4",
+      "6",
+      "5"
+     ],
+     "correct": 3,
+     "explain": "Bán kính = đường kính ÷ 2 = 10 ÷ 2 = 5 (cm)."
+    },
+    {
+     "q": "Một hình tròn có đường kính 36 cm. Hỏi bán kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "17",
+      "36",
+      "19",
+      "18"
+     ],
+     "correct": 3,
+     "explain": "Bán kính = đường kính ÷ 2 = 36 ÷ 2 = 18 (cm)."
+    },
+    {
+     "q": "Một hình tròn có đường kính 52 cm. Hỏi bán kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "27",
+      "52",
+      "25",
+      "26"
+     ],
+     "correct": 3,
+     "explain": "Bán kính = đường kính ÷ 2 = 52 ÷ 2 = 26 (cm)."
+    },
+    {
+     "q": "Một hình tròn có bán kính 6 cm. Hỏi đường kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "6",
+      "12",
+      "14",
+      "10"
+     ],
+     "correct": 1,
+     "explain": "Đường kính = 2 × bán kính = 2 × 6 = 12 (cm)."
+    },
+    {
+     "q": "Một hình tròn có bán kính 30 cm. Hỏi đường kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "58",
+      "30",
+      "60",
+      "62"
+     ],
+     "correct": 2,
+     "explain": "Đường kính = 2 × bán kính = 2 × 30 = 60 (cm)."
+    },
+    {
+     "q": "Một hình tròn có đường kính 30 cm. Hỏi bán kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "15",
+      "30",
+      "16",
+      "14"
+     ],
+     "correct": 0,
+     "explain": "Bán kính = đường kính ÷ 2 = 30 ÷ 2 = 15 (cm)."
+    },
+    {
+     "q": "Một hình tròn có bán kính 16 cm. Hỏi đường kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "34",
+      "30",
+      "16",
+      "32"
+     ],
+     "correct": 3,
+     "explain": "Đường kính = 2 × bán kính = 2 × 16 = 32 (cm)."
+    },
+    {
+     "q": "Một hình tròn có đường kính 42 cm. Hỏi bán kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "42",
+      "22",
+      "20",
+      "21"
+     ],
+     "correct": 3,
+     "explain": "Bán kính = đường kính ÷ 2 = 42 ÷ 2 = 21 (cm)."
+    },
+    {
+     "q": "Một hình tròn có bán kính 29 cm. Hỏi đường kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "60",
+      "56",
+      "58",
+      "29"
+     ],
+     "correct": 2,
+     "explain": "Đường kính = 2 × bán kính = 2 × 29 = 58 (cm)."
+    },
+    {
+     "q": "Một hình tròn có đường kính 8 cm. Hỏi bán kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "8",
+      "3",
+      "5",
+      "4"
+     ],
+     "correct": 3,
+     "explain": "Bán kính = đường kính ÷ 2 = 8 ÷ 2 = 4 (cm)."
+    },
+    {
+     "q": "Một hình tròn có bán kính 23 cm. Hỏi đường kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "46",
+      "44",
+      "23",
+      "48"
+     ],
+     "correct": 0,
+     "explain": "Đường kính = 2 × bán kính = 2 × 23 = 46 (cm)."
+    },
+    {
+     "q": "Một hình tròn có đường kính 50 cm. Hỏi bán kính của hình tròn đó dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "25",
+      "24",
+      "26",
+      "50"
+     ],
+     "correct": 0,
+     "explain": "Bán kính = đường kính ÷ 2 = 50 ÷ 2 = 25 (cm)."
+    }
+   ]
+  },
+  {
+   "type": 3,
+   "title": "Bài 3 - Trung điểm của đoạn thẳng",
+   "exercises": [
+    {
+     "q": "Đoạn thẳng AB dài 64 cm. M là trung điểm của AB. Hỏi đoạn AM dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "64",
+      "33",
+      "31",
+      "32"
+     ],
+     "correct": 3,
+     "explain": "M là trung điểm → AM = AB ÷ 2 = 64 ÷ 2 = 32 (cm)."
+    },
+    {
+     "q": "Đoạn thẳng AB dài 42 cm. M là trung điểm của AB. Hỏi đoạn AM dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "21",
+      "42",
+      "22",
+      "20"
+     ],
+     "correct": 0,
+     "explain": "M là trung điểm → AM = AB ÷ 2 = 42 ÷ 2 = 21 (cm)."
+    },
+    {
+     "q": "M là trung điểm của đoạn thẳng AB. Biết AM dài 35 cm. Hỏi đoạn AB dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "68",
+      "70",
+      "72",
+      "35"
+     ],
+     "correct": 1,
+     "explain": "AB = 2 × AM = 2 × 35 = 70 (cm)."
+    },
+    {
+     "q": "M là trung điểm của đoạn thẳng AB. Biết AM dài 18 cm. Hỏi đoạn AB dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "18",
+      "36",
+      "38",
+      "34"
+     ],
+     "correct": 1,
+     "explain": "AB = 2 × AM = 2 × 18 = 36 (cm)."
+    },
+    {
+     "q": "M là trung điểm của đoạn thẳng AB. Biết AM dài 36 cm. Hỏi đoạn AB dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "74",
+      "72",
+      "36",
+      "70"
+     ],
+     "correct": 1,
+     "explain": "AB = 2 × AM = 2 × 36 = 72 (cm)."
+    },
+    {
+     "q": "M là trung điểm của đoạn thẳng AB. Biết AM dài 5 cm. Hỏi đoạn AB dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "5",
+      "10",
+      "8",
+      "12"
+     ],
+     "correct": 1,
+     "explain": "AB = 2 × AM = 2 × 5 = 10 (cm)."
+    },
+    {
+     "q": "M là trung điểm của đoạn thẳng AB. Biết AM dài 10 cm. Hỏi đoạn AB dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "20",
+      "22",
+      "10",
+      "18"
+     ],
+     "correct": 0,
+     "explain": "AB = 2 × AM = 2 × 10 = 20 (cm)."
+    },
+    {
+     "q": "Đoạn thẳng AB dài 52 cm. M là trung điểm của AB. Hỏi đoạn AM dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "52",
+      "27",
+      "25",
+      "26"
+     ],
+     "correct": 3,
+     "explain": "M là trung điểm → AM = AB ÷ 2 = 52 ÷ 2 = 26 (cm)."
+    },
+    {
+     "q": "M là trung điểm của đoạn thẳng AB. Biết AM dài 40 cm. Hỏi đoạn AB dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "82",
+      "80",
+      "78",
+      "40"
+     ],
+     "correct": 1,
+     "explain": "AB = 2 × AM = 2 × 40 = 80 (cm)."
+    },
+    {
+     "q": "Đoạn thẳng AB dài 24 cm. M là trung điểm của AB. Hỏi đoạn AM dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "11",
+      "12",
+      "13",
+      "24"
+     ],
+     "correct": 1,
+     "explain": "M là trung điểm → AM = AB ÷ 2 = 24 ÷ 2 = 12 (cm)."
+    },
+    {
+     "q": "Đoạn thẳng AB dài 36 cm. M là trung điểm của AB. Hỏi đoạn AM dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "19",
+      "36",
+      "18",
+      "17"
+     ],
+     "correct": 2,
+     "explain": "M là trung điểm → AM = AB ÷ 2 = 36 ÷ 2 = 18 (cm)."
+    },
+    {
+     "q": "Đoạn thẳng AB dài 12 cm. M là trung điểm của AB. Hỏi đoạn AM dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "12",
+      "7",
+      "6",
+      "5"
+     ],
+     "correct": 2,
+     "explain": "M là trung điểm → AM = AB ÷ 2 = 12 ÷ 2 = 6 (cm)."
+    },
+    {
+     "q": "Đoạn thẳng AB dài 66 cm. M là trung điểm của AB. Hỏi đoạn AM dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "32",
+      "66",
+      "34",
+      "33"
+     ],
+     "correct": 3,
+     "explain": "M là trung điểm → AM = AB ÷ 2 = 66 ÷ 2 = 33 (cm)."
+    },
+    {
+     "q": "M là trung điểm của đoạn thẳng AB. Biết AM dài 27 cm. Hỏi đoạn AB dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "56",
+      "52",
+      "54",
+      "27"
+     ],
+     "correct": 2,
+     "explain": "AB = 2 × AM = 2 × 27 = 54 (cm)."
+    },
+    {
+     "q": "M là trung điểm của đoạn thẳng AB. Biết AM dài 14 cm. Hỏi đoạn AB dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "28",
+      "26",
+      "14",
+      "30"
+     ],
+     "correct": 0,
+     "explain": "AB = 2 × AM = 2 × 14 = 28 (cm)."
+    },
+    {
+     "q": "M là trung điểm của đoạn thẳng AB. Biết AM dài 26 cm. Hỏi đoạn AB dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "54",
+      "50",
+      "26",
+      "52"
+     ],
+     "correct": 3,
+     "explain": "AB = 2 × AM = 2 × 26 = 52 (cm)."
+    },
+    {
+     "q": "M là trung điểm của đoạn thẳng AB. Biết AM dài 33 cm. Hỏi đoạn AB dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "33",
+      "64",
+      "66",
+      "68"
+     ],
+     "correct": 2,
+     "explain": "AB = 2 × AM = 2 × 33 = 66 (cm)."
+    },
+    {
+     "q": "M là trung điểm của đoạn thẳng AB. Biết AM dài 31 cm. Hỏi đoạn AB dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "31",
+      "64",
+      "60",
+      "62"
+     ],
+     "correct": 3,
+     "explain": "AB = 2 × AM = 2 × 31 = 62 (cm)."
+    },
+    {
+     "q": "Đoạn thẳng AB dài 14 cm. M là trung điểm của AB. Hỏi đoạn AM dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "8",
+      "14",
+      "7",
+      "6"
+     ],
+     "correct": 2,
+     "explain": "M là trung điểm → AM = AB ÷ 2 = 14 ÷ 2 = 7 (cm)."
+    },
+    {
+     "q": "M là trung điểm của đoạn thẳng AB. Biết AM dài 22 cm. Hỏi đoạn AB dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "42",
+      "44",
+      "46",
+      "22"
+     ],
+     "correct": 1,
+     "explain": "AB = 2 × AM = 2 × 22 = 44 (cm)."
+    },
+    {
+     "q": "Đoạn thẳng AB dài 62 cm. M là trung điểm của AB. Hỏi đoạn AM dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "32",
+      "31",
+      "62",
+      "30"
+     ],
+     "correct": 1,
+     "explain": "M là trung điểm → AM = AB ÷ 2 = 62 ÷ 2 = 31 (cm)."
+    },
+    {
+     "q": "Đoạn thẳng AB dài 40 cm. M là trung điểm của AB. Hỏi đoạn AM dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "20",
+      "19",
+      "40",
+      "21"
+     ],
+     "correct": 0,
+     "explain": "M là trung điểm → AM = AB ÷ 2 = 40 ÷ 2 = 20 (cm)."
+    },
+    {
+     "q": "M là trung điểm của đoạn thẳng AB. Biết AM dài 11 cm. Hỏi đoạn AB dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "22",
+      "24",
+      "20",
+      "11"
+     ],
+     "correct": 0,
+     "explain": "AB = 2 × AM = 2 × 11 = 22 (cm)."
+    },
+    {
+     "q": "Đoạn thẳng AB dài 78 cm. M là trung điểm của AB. Hỏi đoạn AM dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "39",
+      "78",
+      "40",
+      "38"
+     ],
+     "correct": 0,
+     "explain": "M là trung điểm → AM = AB ÷ 2 = 78 ÷ 2 = 39 (cm)."
+    },
+    {
+     "q": "Đoạn thẳng AB dài 38 cm. M là trung điểm của AB. Hỏi đoạn AM dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "18",
+      "20",
+      "19",
+      "38"
+     ],
+     "correct": 2,
+     "explain": "M là trung điểm → AM = AB ÷ 2 = 38 ÷ 2 = 19 (cm)."
+    },
+    {
+     "q": "Đoạn thẳng AB dài 32 cm. M là trung điểm của AB. Hỏi đoạn AM dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "16",
+      "32",
+      "17",
+      "15"
+     ],
+     "correct": 0,
+     "explain": "M là trung điểm → AM = AB ÷ 2 = 32 ÷ 2 = 16 (cm)."
+    },
+    {
+     "q": "M là trung điểm của đoạn thẳng AB. Biết AM dài 19 cm. Hỏi đoạn AB dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "36",
+      "19",
+      "40",
+      "38"
+     ],
+     "correct": 3,
+     "explain": "AB = 2 × AM = 2 × 19 = 38 (cm)."
+    },
+    {
+     "q": "M là trung điểm của đoạn thẳng AB. Biết AM dài 3 cm. Hỏi đoạn AB dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "3",
+      "8",
+      "6",
+      "4"
+     ],
+     "correct": 2,
+     "explain": "AB = 2 × AM = 2 × 3 = 6 (cm)."
+    },
+    {
+     "q": "M là trung điểm của đoạn thẳng AB. Biết AM dài 20 cm. Hỏi đoạn AB dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "20",
+      "40",
+      "38",
+      "42"
+     ],
+     "correct": 1,
+     "explain": "AB = 2 × AM = 2 × 20 = 40 (cm)."
+    },
+    {
+     "q": "Đoạn thẳng AB dài 60 cm. M là trung điểm của AB. Hỏi đoạn AM dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "60",
+      "29",
+      "31",
+      "30"
+     ],
+     "correct": 3,
+     "explain": "M là trung điểm → AM = AB ÷ 2 = 60 ÷ 2 = 30 (cm)."
+    },
+    {
+     "q": "M là trung điểm của đoạn thẳng AB. Biết AM dài 6 cm. Hỏi đoạn AB dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "6",
+      "14",
+      "12",
+      "10"
+     ],
+     "correct": 2,
+     "explain": "AB = 2 × AM = 2 × 6 = 12 (cm)."
+    },
+    {
+     "q": "M là trung điểm của đoạn thẳng AB. Biết AM dài 21 cm. Hỏi đoạn AB dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "21",
+      "42",
+      "40",
+      "44"
+     ],
+     "correct": 1,
+     "explain": "AB = 2 × AM = 2 × 21 = 42 (cm)."
+    },
+    {
+     "q": "Đoạn thẳng AB dài 48 cm. M là trung điểm của AB. Hỏi đoạn AM dài bao nhiêu xăng-ti-mét?",
+     "options": [
+      "23",
+      "25",
+      "48",
+      "24"
+     ],
+     "correct": 3,
+     "explain": "M là trung điểm → AM = AB ÷ 2 = 48 ÷ 2 = 24 (cm)."
+    }
+   ]
+  },
+  {
+   "type": 4,
+   "title": "Bài 4 - Thành phần của phép chia",
+   "exercises": [
+    {
+     "q": "Một phép chia có số chia là 9 và thương là 9. Hỏi số bị chia là bao nhiêu?",
+     "options": [
+      "81",
+      "18",
+      "9",
+      "90"
+     ],
+     "correct": 0,
+     "explain": "Số bị chia = thương × số chia = 9 × 9 = 81."
+    },
+    {
+     "q": "Một phép chia có số chia là 2 và thương là 5. Hỏi số bị chia là bao nhiêu?",
+     "options": [
+      "10",
+      "7",
+      "2",
+      "5"
+     ],
+     "correct": 0,
+     "explain": "Số bị chia = thương × số chia = 5 × 2 = 10."
+    },
+    {
+     "q": "Một phép chia có số bị chia là 18 và thương là 2. Hỏi số chia là bao nhiêu?",
+     "options": [
+      "9",
+      "2",
+      "10",
+      "18"
+     ],
+     "correct": 0,
+     "explain": "Số chia = số bị chia ÷ thương = 18 ÷ 2 = 9."
+    },
+    {
+     "q": "Một phép chia có số bị chia là 40 và thương là 5. Hỏi số chia là bao nhiêu?",
+     "options": [
+      "8",
+      "5",
+      "40",
+      "9"
+     ],
+     "correct": 0,
+     "explain": "Số chia = số bị chia ÷ thương = 40 ÷ 5 = 8."
+    },
+    {
+     "q": "Một phép chia có số bị chia là 54 và thương là 6. Hỏi số chia là bao nhiêu?",
+     "options": [
+      "10",
+      "6",
+      "9",
+      "54"
+     ],
+     "correct": 2,
+     "explain": "Số chia = số bị chia ÷ thương = 54 ÷ 6 = 9."
+    },
+    {
+     "q": "Một phép chia có số chia là 6 và thương là 8. Hỏi số bị chia là bao nhiêu?",
+     "options": [
+      "14",
+      "48",
+      "8",
+      "6"
+     ],
+     "correct": 1,
+     "explain": "Số bị chia = thương × số chia = 8 × 6 = 48."
+    },
+    {
+     "q": "Một phép chia có số chia là 6 và thương là 4. Hỏi số bị chia là bao nhiêu?",
+     "options": [
+      "24",
+      "6",
+      "4",
+      "10"
+     ],
+     "correct": 0,
+     "explain": "Số bị chia = thương × số chia = 4 × 6 = 24."
+    },
+    {
+     "q": "Một phép chia có số bị chia là 63 và thương là 9. Hỏi số chia là bao nhiêu?",
+     "options": [
+      "8",
+      "63",
+      "9",
+      "7"
+     ],
+     "correct": 3,
+     "explain": "Số chia = số bị chia ÷ thương = 63 ÷ 9 = 7."
+    },
+    {
+     "q": "Trong phép chia 64 : 8 = 8, số 8 được gọi là gì?",
+     "options": [
+      "số bị chia",
+      "số hạng",
+      "số chia",
+      "thương"
+     ],
+     "correct": 3,
+     "explain": "Trong 64 : 8 = 8, 8 là thương."
+    },
+    {
+     "q": "Trong phép chia 24 : 6 = 4, số 6 được gọi là gì?",
+     "options": [
+      "số hạng",
+      "số chia",
+      "thương",
+      "số bị chia"
+     ],
+     "correct": 1,
+     "explain": "Trong 24 : 6 = 4, 6 là số chia."
+    },
+    {
+     "q": "Trong phép chia 24 : 4 = 6, số 24 được gọi là gì?",
+     "options": [
+      "số chia",
+      "số bị chia",
+      "số hạng",
+      "thương"
+     ],
+     "correct": 1,
+     "explain": "Trong 24 : 4 = 6, 24 là số bị chia."
+    },
+    {
+     "q": "Một phép chia có số chia là 2 và thương là 3. Hỏi số bị chia là bao nhiêu?",
+     "options": [
+      "3",
+      "2",
+      "6",
+      "5"
+     ],
+     "correct": 2,
+     "explain": "Số bị chia = thương × số chia = 3 × 2 = 6."
+    },
+    {
+     "q": "Trong phép chia 18 : 6 = 3, số 6 được gọi là gì?",
+     "options": [
+      "thương",
+      "số hạng",
+      "số bị chia",
+      "số chia"
+     ],
+     "correct": 3,
+     "explain": "Trong 18 : 6 = 3, 6 là số chia."
+    },
+    {
+     "q": "Một phép chia có số bị chia là 64 và thương là 8. Hỏi số chia là bao nhiêu?",
+     "options": [
+      "16",
+      "64",
+      "9",
+      "8"
+     ],
+     "correct": 3,
+     "explain": "Số chia = số bị chia ÷ thương = 64 ÷ 8 = 8."
+    },
+    {
+     "q": "Một phép chia có số bị chia là 42 và thương là 7. Hỏi số chia là bao nhiêu?",
+     "options": [
+      "42",
+      "7",
+      "13",
+      "6"
+     ],
+     "correct": 3,
+     "explain": "Số chia = số bị chia ÷ thương = 42 ÷ 7 = 6."
+    },
+    {
+     "q": "Trong phép chia 32 : 8 = 4, số 4 được gọi là gì?",
+     "options": [
+      "thương",
+      "số chia",
+      "số bị chia",
+      "số hạng"
+     ],
+     "correct": 0,
+     "explain": "Trong 32 : 8 = 4, 4 là thương."
+    },
+    {
+     "q": "Trong phép chia 42 : 6 = 7, số 6 được gọi là gì?",
+     "options": [
+      "số bị chia",
+      "thương",
+      "số hạng",
+      "số chia"
+     ],
+     "correct": 3,
+     "explain": "Trong 42 : 6 = 7, 6 là số chia."
+    },
+    {
+     "q": "Trong phép chia 63 : 9 = 7, số 63 được gọi là gì?",
+     "options": [
+      "số hạng",
+      "số bị chia",
+      "thương",
+      "số chia"
+     ],
+     "correct": 1,
+     "explain": "Trong 63 : 9 = 7, 63 là số bị chia."
+    },
+    {
+     "q": "Một phép chia có số bị chia là 21 và thương là 3. Hỏi số chia là bao nhiêu?",
+     "options": [
+      "8",
+      "3",
+      "21",
+      "7"
+     ],
+     "correct": 3,
+     "explain": "Số chia = số bị chia ÷ thương = 21 ÷ 3 = 7."
+    },
+    {
+     "q": "Một phép chia có số bị chia là 12 và thương là 4. Hỏi số chia là bao nhiêu?",
+     "options": [
+      "7",
+      "4",
+      "12",
+      "3"
+     ],
+     "correct": 3,
+     "explain": "Số chia = số bị chia ÷ thương = 12 ÷ 4 = 3."
+    },
+    {
+     "q": "Một phép chia có số chia là 9 và thương là 3. Hỏi số bị chia là bao nhiêu?",
+     "options": [
+      "27",
+      "9",
+      "3",
+      "12"
+     ],
+     "correct": 0,
+     "explain": "Số bị chia = thương × số chia = 3 × 9 = 27."
+    },
+    {
+     "q": "Trong phép chia 24 : 3 = 8, số 3 được gọi là gì?",
+     "options": [
+      "số chia",
+      "số bị chia",
+      "số hạng",
+      "thương"
+     ],
+     "correct": 0,
+     "explain": "Trong 24 : 3 = 8, 3 là số chia."
+    },
+    {
+     "q": "Trong phép chia 18 : 9 = 2, số 18 được gọi là gì?",
+     "options": [
+      "số chia",
+      "số bị chia",
+      "số hạng",
+      "thương"
+     ],
+     "correct": 1,
+     "explain": "Trong 18 : 9 = 2, 18 là số bị chia."
+    },
+    {
+     "q": "Trong phép chia 18 : 3 = 6, số 3 được gọi là gì?",
+     "options": [
+      "số chia",
+      "thương",
+      "số bị chia",
+      "số hạng"
+     ],
+     "correct": 0,
+     "explain": "Trong 18 : 3 = 6, 3 là số chia."
+    },
+    {
+     "q": "Một phép chia có số chia là 7 và thương là 6. Hỏi số bị chia là bao nhiêu?",
+     "options": [
+      "42",
+      "6",
+      "7",
+      "13"
+     ],
+     "correct": 0,
+     "explain": "Số bị chia = thương × số chia = 6 × 7 = 42."
+    },
+    {
+     "q": "Trong phép chia 36 : 9 = 4, số 4 được gọi là gì?",
+     "options": [
+      "số hạng",
+      "thương",
+      "số chia",
+      "số bị chia"
+     ],
+     "correct": 1,
+     "explain": "Trong 36 : 9 = 4, 4 là thương."
+    },
+    {
+     "q": "Trong phép chia 28 : 4 = 7, số 7 được gọi là gì?",
+     "options": [
+      "số chia",
+      "thương",
+      "số bị chia",
+      "số hạng"
+     ],
+     "correct": 1,
+     "explain": "Trong 28 : 4 = 7, 7 là thương."
+    },
+    {
+     "q": "Trong phép chia 16 : 2 = 8, số 8 được gọi là gì?",
+     "options": [
+      "thương",
+      "số hạng",
+      "số bị chia",
+      "số chia"
+     ],
+     "correct": 0,
+     "explain": "Trong 16 : 2 = 8, 8 là thương."
+    },
+    {
+     "q": "Trong phép chia 30 : 6 = 5, số 6 được gọi là gì?",
+     "options": [
+      "số hạng",
+      "thương",
+      "số bị chia",
+      "số chia"
+     ],
+     "correct": 3,
+     "explain": "Trong 30 : 6 = 5, 6 là số chia."
+    },
+    {
+     "q": "Một phép chia có số bị chia là 27 và thương là 9. Hỏi số chia là bao nhiêu?",
+     "options": [
+      "9",
+      "27",
+      "3",
+      "4"
+     ],
+     "correct": 2,
+     "explain": "Số chia = số bị chia ÷ thương = 27 ÷ 9 = 3."
+    },
+    {
+     "q": "Trong phép chia 40 : 8 = 5, số 8 được gọi là gì?",
+     "options": [
+      "số bị chia",
+      "thương",
+      "số chia",
+      "số hạng"
+     ],
+     "correct": 2,
+     "explain": "Trong 40 : 8 = 5, 8 là số chia."
+    },
+    {
+     "q": "Một phép chia có số bị chia là 18 và thương là 3. Hỏi số chia là bao nhiêu?",
+     "options": [
+      "3",
+      "18",
+      "7",
+      "6"
+     ],
+     "correct": 3,
+     "explain": "Số chia = số bị chia ÷ thương = 18 ÷ 3 = 6."
+    },
+    {
+     "q": "Trong phép chia 8 : 4 = 2, số 2 được gọi là gì?",
+     "options": [
+      "số hạng",
+      "thương",
+      "số bị chia",
+      "số chia"
+     ],
+     "correct": 1,
+     "explain": "Trong 8 : 4 = 2, 2 là thương."
+    }
+   ]
+  },
+  {
+   "type": 5,
+   "title": "Bài 5 - Phép nhân (tìm tích)",
+   "exercises": [
+    {
+     "q": "Tích của 7 và 6 là bao nhiêu?",
+     "options": [
+      "42",
+      "35",
+      "13",
+      "49"
+     ],
+     "correct": 0,
+     "explain": "Tích = 7 × 6 = 42."
+    },
+    {
+     "q": "Tích của 6 và 8 là bao nhiêu?",
+     "options": [
+      "42",
+      "54",
+      "14",
+      "48"
+     ],
+     "correct": 3,
+     "explain": "Tích = 6 × 8 = 48."
+    },
+    {
+     "q": "Tích của 9 và 8 là bao nhiêu?",
+     "options": [
+      "72",
+      "63",
+      "81",
+      "17"
+     ],
+     "correct": 0,
+     "explain": "Tích = 9 × 8 = 72."
+    },
+    {
+     "q": "Tích của 2 và 6 là bao nhiêu?",
+     "options": [
+      "10",
+      "8",
+      "14",
+      "12"
+     ],
+     "correct": 3,
+     "explain": "Tích = 2 × 6 = 12."
+    },
+    {
+     "q": "Tích của 2 và 8 là bao nhiêu?",
+     "options": [
+      "10",
+      "14",
+      "16",
+      "18"
+     ],
+     "correct": 2,
+     "explain": "Tích = 2 × 8 = 16."
+    },
+    {
+     "q": "Tích của 2 và 2 là bao nhiêu?",
+     "options": [
+      "2",
+      "6",
+      "4",
+      "5"
+     ],
+     "correct": 2,
+     "explain": "Tích = 2 × 2 = 4."
+    },
+    {
+     "q": "Tích của 4 và 5 là bao nhiêu?",
+     "options": [
+      "20",
+      "16",
+      "24",
+      "9"
+     ],
+     "correct": 0,
+     "explain": "Tích = 4 × 5 = 20."
+    },
+    {
+     "q": "Tích của 4 và 9 là bao nhiêu?",
+     "options": [
+      "40",
+      "32",
+      "36",
+      "13"
+     ],
+     "correct": 2,
+     "explain": "Tích = 4 × 9 = 36."
+    },
+    {
+     "q": "Tích của 2 và 9 là bao nhiêu?",
+     "options": [
+      "20",
+      "11",
+      "18",
+      "16"
+     ],
+     "correct": 2,
+     "explain": "Tích = 2 × 9 = 18."
+    },
+    {
+     "q": "Tích của 9 và 9 là bao nhiêu?",
+     "options": [
+      "90",
+      "18",
+      "72",
+      "81"
+     ],
+     "correct": 3,
+     "explain": "Tích = 9 × 9 = 81."
+    },
+    {
+     "q": "Tích của 9 và 5 là bao nhiêu?",
+     "options": [
+      "14",
+      "54",
+      "45",
+      "36"
+     ],
+     "correct": 2,
+     "explain": "Tích = 9 × 5 = 45."
+    },
+    {
+     "q": "Tích của 7 và 4 là bao nhiêu?",
+     "options": [
+      "28",
+      "11",
+      "35",
+      "21"
+     ],
+     "correct": 0,
+     "explain": "Tích = 7 × 4 = 28."
+    },
+    {
+     "q": "Tích của 6 và 4 là bao nhiêu?",
+     "options": [
+      "24",
+      "10",
+      "18",
+      "30"
+     ],
+     "correct": 0,
+     "explain": "Tích = 6 × 4 = 24."
+    },
+    {
+     "q": "Tích của 9 và 2 là bao nhiêu?",
+     "options": [
+      "11",
+      "9",
+      "27",
+      "18"
+     ],
+     "correct": 3,
+     "explain": "Tích = 9 × 2 = 18."
+    },
+    {
+     "q": "Tích của 6 và 6 là bao nhiêu?",
+     "options": [
+      "42",
+      "12",
+      "30",
+      "36"
+     ],
+     "correct": 3,
+     "explain": "Tích = 6 × 6 = 36."
+    },
+    {
+     "q": "Tích của 6 và 5 là bao nhiêu?",
+     "options": [
+      "11",
+      "36",
+      "24",
+      "30"
+     ],
+     "correct": 3,
+     "explain": "Tích = 6 × 5 = 30."
+    },
+    {
+     "q": "Tích của 2 và 7 là bao nhiêu?",
+     "options": [
+      "16",
+      "9",
+      "14",
+      "12"
+     ],
+     "correct": 2,
+     "explain": "Tích = 2 × 7 = 14."
+    },
+    {
+     "q": "Tích của 6 và 7 là bao nhiêu?",
+     "options": [
+      "36",
+      "13",
+      "42",
+      "48"
+     ],
+     "correct": 2,
+     "explain": "Tích = 6 × 7 = 42."
+    },
+    {
+     "q": "Tích của 5 và 6 là bao nhiêu?",
+     "options": [
+      "30",
+      "25",
+      "11",
+      "35"
+     ],
+     "correct": 0,
+     "explain": "Tích = 5 × 6 = 30."
+    },
+    {
+     "q": "Tích của 4 và 7 là bao nhiêu?",
+     "options": [
+      "28",
+      "24",
+      "11",
+      "32"
+     ],
+     "correct": 0,
+     "explain": "Tích = 4 × 7 = 28."
+    },
+    {
+     "q": "Tích của 4 và 4 là bao nhiêu?",
+     "options": [
+      "16",
+      "12",
+      "8",
+      "20"
+     ],
+     "correct": 0,
+     "explain": "Tích = 4 × 4 = 16."
+    },
+    {
+     "q": "Tích của 8 và 8 là bao nhiêu?",
+     "options": [
+      "64",
+      "56",
+      "72",
+      "16"
+     ],
+     "correct": 0,
+     "explain": "Tích = 8 × 8 = 64."
+    },
+    {
+     "q": "Tích của 6 và 9 là bao nhiêu?",
+     "options": [
+      "15",
+      "54",
+      "48",
+      "60"
+     ],
+     "correct": 1,
+     "explain": "Tích = 6 × 9 = 54."
+    },
+    {
+     "q": "Tích của 3 và 6 là bao nhiêu?",
+     "options": [
+      "21",
+      "9",
+      "15",
+      "18"
+     ],
+     "correct": 3,
+     "explain": "Tích = 3 × 6 = 18."
+    },
+    {
+     "q": "Tích của 6 và 3 là bao nhiêu?",
+     "options": [
+      "18",
+      "9",
+      "12",
+      "24"
+     ],
+     "correct": 0,
+     "explain": "Tích = 6 × 3 = 18."
+    },
+    {
+     "q": "Tích của 5 và 8 là bao nhiêu?",
+     "options": [
+      "40",
+      "13",
+      "45",
+      "35"
+     ],
+     "correct": 0,
+     "explain": "Tích = 5 × 8 = 40."
+    },
+    {
+     "q": "Tích của 9 và 4 là bao nhiêu?",
+     "options": [
+      "27",
+      "13",
+      "36",
+      "45"
+     ],
+     "correct": 2,
+     "explain": "Tích = 9 × 4 = 36."
+    },
+    {
+     "q": "Tích của 8 và 2 là bao nhiêu?",
+     "options": [
+      "8",
+      "16",
+      "10",
+      "24"
+     ],
+     "correct": 1,
+     "explain": "Tích = 8 × 2 = 16."
+    },
+    {
+     "q": "Tích của 4 và 2 là bao nhiêu?",
+     "options": [
+      "6",
+      "8",
+      "4",
+      "12"
+     ],
+     "correct": 1,
+     "explain": "Tích = 4 × 2 = 8."
+    },
+    {
+     "q": "Tích của 7 và 9 là bao nhiêu?",
+     "options": [
+      "70",
+      "16",
+      "63",
+      "56"
+     ],
+     "correct": 2,
+     "explain": "Tích = 7 × 9 = 63."
+    },
+    {
+     "q": "Tích của 7 và 5 là bao nhiêu?",
+     "options": [
+      "42",
+      "28",
+      "35",
+      "12"
+     ],
+     "correct": 2,
+     "explain": "Tích = 7 × 5 = 35."
+    },
+    {
+     "q": "Tích của 8 và 6 là bao nhiêu?",
+     "options": [
+      "48",
+      "40",
+      "14",
+      "56"
+     ],
+     "correct": 0,
+     "explain": "Tích = 8 × 6 = 48."
+    },
+    {
+     "q": "Tích của 4 và 6 là bao nhiêu?",
+     "options": [
+      "10",
+      "24",
+      "28",
+      "20"
+     ],
+     "correct": 1,
+     "explain": "Tích = 4 × 6 = 24."
+    }
+   ]
+  },
+  {
+   "type": 6,
+   "title": "Bài 6 - Giải toán đố (hai bước)",
+   "exercises": [
+    {
+     "q": "Một cửa hàng có 7 thùng, mỗi thùng có 6 chai nước. Cửa hàng đã bán 8 chai nước. Hỏi còn lại bao nhiêu chai nước?",
+     "options": [
+      "42",
+      "50",
+      "34",
+      "39"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 7 × 6 = 42. Bước 2: 42 − 8 = 34 (chai nước)."
+    },
+    {
+     "q": "Một cửa hàng có 9 rổ, mỗi rổ có 7 quả trứng. Cửa hàng đã bán 3 quả trứng. Hỏi còn lại bao nhiêu quả trứng?",
+     "options": [
+      "66",
+      "65",
+      "63",
+      "60"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 9 × 7 = 63. Bước 2: 63 − 3 = 60 (quả trứng)."
+    },
+    {
+     "q": "Một cửa hàng có 9 hộp, mỗi hộp có 7 cái bút, và còn thêm 11 cái bút để rời. Hỏi cửa hàng có tất cả bao nhiêu cái bút?",
+     "options": [
+      "27",
+      "63",
+      "74",
+      "85"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 9 × 7 = 63. Bước 2: 63 + 11 = 74 (cái bút)."
+    },
+    {
+     "q": "Một cửa hàng có 4 hộp, mỗi hộp có 3 cái bút, và còn thêm 14 cái bút để rời. Hỏi cửa hàng có tất cả bao nhiêu cái bút?",
+     "options": [
+      "26",
+      "40",
+      "12",
+      "21"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 4 × 3 = 12. Bước 2: 12 + 14 = 26 (cái bút)."
+    },
+    {
+     "q": "Một cửa hàng có 3 hộp, mỗi hộp có 3 cái bút, và còn thêm 7 cái bút để rời. Hỏi cửa hàng có tất cả bao nhiêu cái bút?",
+     "options": [
+      "16",
+      "13",
+      "23",
+      "9"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 3 × 3 = 9. Bước 2: 9 + 7 = 16 (cái bút)."
+    },
+    {
+     "q": "Một cửa hàng có 5 túi, mỗi túi có 5 quả cam, và còn thêm 6 quả cam để rời. Hỏi cửa hàng có tất cả bao nhiêu quả cam?",
+     "options": [
+      "31",
+      "25",
+      "37",
+      "16"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 5 × 5 = 25. Bước 2: 25 + 6 = 31 (quả cam)."
+    },
+    {
+     "q": "Một cửa hàng có 5 hộp, mỗi hộp có 6 cái bút. Cửa hàng đã bán 27 cái bút. Hỏi còn lại bao nhiêu cái bút?",
+     "options": [
+      "57",
+      "3",
+      "8",
+      "30"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 5 × 6 = 30. Bước 2: 30 − 27 = 3 (cái bút)."
+    },
+    {
+     "q": "Một cửa hàng có 7 thùng, mỗi thùng có 3 chai nước, và còn thêm 12 chai nước để rời. Hỏi cửa hàng có tất cả bao nhiêu chai nước?",
+     "options": [
+      "33",
+      "45",
+      "21",
+      "22"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 7 × 3 = 21. Bước 2: 21 + 12 = 33 (chai nước)."
+    },
+    {
+     "q": "Một cửa hàng có 5 rổ, mỗi rổ có 7 quả trứng, và còn thêm 7 quả trứng để rời. Hỏi cửa hàng có tất cả bao nhiêu quả trứng?",
+     "options": [
+      "49",
+      "35",
+      "19",
+      "42"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 5 × 7 = 35. Bước 2: 35 + 7 = 42 (quả trứng)."
+    },
+    {
+     "q": "Một cửa hàng có 4 hộp, mỗi hộp có 8 cái bút. Cửa hàng đã bán 21 cái bút. Hỏi còn lại bao nhiêu cái bút?",
+     "options": [
+      "32",
+      "16",
+      "53",
+      "11"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 4 × 8 = 32. Bước 2: 32 − 21 = 11 (cái bút)."
+    },
+    {
+     "q": "Một cửa hàng có 3 hộp, mỗi hộp có 4 cái bút, và còn thêm 8 cái bút để rời. Hỏi cửa hàng có tất cả bao nhiêu cái bút?",
+     "options": [
+      "28",
+      "15",
+      "12",
+      "20"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 3 × 4 = 12. Bước 2: 12 + 8 = 20 (cái bút)."
+    },
+    {
+     "q": "Một cửa hàng có 5 thùng, mỗi thùng có 3 chai nước, và còn thêm 5 chai nước để rời. Hỏi cửa hàng có tất cả bao nhiêu chai nước?",
+     "options": [
+      "13",
+      "20",
+      "25",
+      "15"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 5 × 3 = 15. Bước 2: 15 + 5 = 20 (chai nước)."
+    },
+    {
+     "q": "Một cửa hàng có 8 hộp, mỗi hộp có 5 cái bút. Cửa hàng đã bán 28 cái bút. Hỏi còn lại bao nhiêu cái bút?",
+     "options": [
+      "68",
+      "17",
+      "40",
+      "12"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 8 × 5 = 40. Bước 2: 40 − 28 = 12 (cái bút)."
+    },
+    {
+     "q": "Một cửa hàng có 4 rổ, mỗi rổ có 5 quả trứng, và còn thêm 7 quả trứng để rời. Hỏi cửa hàng có tất cả bao nhiêu quả trứng?",
+     "options": [
+      "16",
+      "20",
+      "34",
+      "27"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 4 × 5 = 20. Bước 2: 20 + 7 = 27 (quả trứng)."
+    },
+    {
+     "q": "Một cửa hàng có 7 hộp, mỗi hộp có 4 cái bút, và còn thêm 15 cái bút để rời. Hỏi cửa hàng có tất cả bao nhiêu cái bút?",
+     "options": [
+      "26",
+      "43",
+      "58",
+      "28"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 7 × 4 = 28. Bước 2: 28 + 15 = 43 (cái bút)."
+    },
+    {
+     "q": "Một cửa hàng có 9 thùng, mỗi thùng có 8 chai nước. Cửa hàng đã bán 13 chai nước. Hỏi còn lại bao nhiêu chai nước?",
+     "options": [
+      "85",
+      "72",
+      "59",
+      "64"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 9 × 8 = 72. Bước 2: 72 − 13 = 59 (chai nước)."
+    },
+    {
+     "q": "Một cửa hàng có 3 túi, mỗi túi có 8 quả cam. Cửa hàng đã bán 17 quả cam. Hỏi còn lại bao nhiêu quả cam?",
+     "options": [
+      "7",
+      "12",
+      "24",
+      "41"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 3 × 8 = 24. Bước 2: 24 − 17 = 7 (quả cam)."
+    },
+    {
+     "q": "Một cửa hàng có 5 hộp, mỗi hộp có 4 cái bút. Cửa hàng đã bán 9 cái bút. Hỏi còn lại bao nhiêu cái bút?",
+     "options": [
+      "20",
+      "29",
+      "11",
+      "16"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 5 × 4 = 20. Bước 2: 20 − 9 = 11 (cái bút)."
+    },
+    {
+     "q": "Một cửa hàng có 9 thùng, mỗi thùng có 5 chai nước, và còn thêm 11 chai nước để rời. Hỏi cửa hàng có tất cả bao nhiêu chai nước?",
+     "options": [
+      "45",
+      "25",
+      "56",
+      "67"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 9 × 5 = 45. Bước 2: 45 + 11 = 56 (chai nước)."
+    },
+    {
+     "q": "Một cửa hàng có 4 thùng, mỗi thùng có 9 chai nước, và còn thêm 4 chai nước để rời. Hỏi cửa hàng có tất cả bao nhiêu chai nước?",
+     "options": [
+      "40",
+      "17",
+      "36",
+      "44"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 4 × 9 = 36. Bước 2: 36 + 4 = 40 (chai nước)."
+    },
+    {
+     "q": "Một cửa hàng có 5 thùng, mỗi thùng có 8 chai nước. Cửa hàng đã bán 26 chai nước. Hỏi còn lại bao nhiêu chai nước?",
+     "options": [
+      "40",
+      "19",
+      "66",
+      "14"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 5 × 8 = 40. Bước 2: 40 − 26 = 14 (chai nước)."
+    },
+    {
+     "q": "Một cửa hàng có 3 rổ, mỗi rổ có 5 quả trứng. Cửa hàng đã bán 7 quả trứng. Hỏi còn lại bao nhiêu quả trứng?",
+     "options": [
+      "13",
+      "22",
+      "15",
+      "8"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 3 × 5 = 15. Bước 2: 15 − 7 = 8 (quả trứng)."
+    },
+    {
+     "q": "Một cửa hàng có 9 rổ, mỗi rổ có 3 quả trứng, và còn thêm 15 quả trứng để rời. Hỏi cửa hàng có tất cả bao nhiêu quả trứng?",
+     "options": [
+      "57",
+      "42",
+      "36",
+      "27"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 9 × 3 = 27. Bước 2: 27 + 15 = 42 (quả trứng)."
+    },
+    {
+     "q": "Một cửa hàng có 9 rổ, mỗi rổ có 9 quả trứng, và còn thêm 13 quả trứng để rời. Hỏi cửa hàng có tất cả bao nhiêu quả trứng?",
+     "options": [
+      "107",
+      "31",
+      "81",
+      "94"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 9 × 9 = 81. Bước 2: 81 + 13 = 94 (quả trứng)."
+    },
+    {
+     "q": "Một cửa hàng có 9 túi, mỗi túi có 3 quả cam. Cửa hàng đã bán 12 quả cam. Hỏi còn lại bao nhiêu quả cam?",
+     "options": [
+      "15",
+      "20",
+      "27",
+      "39"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 9 × 3 = 27. Bước 2: 27 − 12 = 15 (quả cam)."
+    },
+    {
+     "q": "Một cửa hàng có 7 rổ, mỗi rổ có 3 quả trứng. Cửa hàng đã bán 17 quả trứng. Hỏi còn lại bao nhiêu quả trứng?",
+     "options": [
+      "21",
+      "9",
+      "4",
+      "38"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 7 × 3 = 21. Bước 2: 21 − 17 = 4 (quả trứng)."
+    },
+    {
+     "q": "Một cửa hàng có 5 rổ, mỗi rổ có 6 quả trứng, và còn thêm 15 quả trứng để rời. Hỏi cửa hàng có tất cả bao nhiêu quả trứng?",
+     "options": [
+      "60",
+      "30",
+      "26",
+      "45"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 5 × 6 = 30. Bước 2: 30 + 15 = 45 (quả trứng)."
+    },
+    {
+     "q": "Một cửa hàng có 4 rổ, mỗi rổ có 4 quả trứng, và còn thêm 10 quả trứng để rời. Hỏi cửa hàng có tất cả bao nhiêu quả trứng?",
+     "options": [
+      "36",
+      "16",
+      "18",
+      "26"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 4 × 4 = 16. Bước 2: 16 + 10 = 26 (quả trứng)."
+    },
+    {
+     "q": "Một cửa hàng có 7 rổ, mỗi rổ có 4 quả trứng. Cửa hàng đã bán 11 quả trứng. Hỏi còn lại bao nhiêu quả trứng?",
+     "options": [
+      "22",
+      "28",
+      "17",
+      "39"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 7 × 4 = 28. Bước 2: 28 − 11 = 17 (quả trứng)."
+    },
+    {
+     "q": "Một cửa hàng có 3 thùng, mỗi thùng có 9 chai nước. Cửa hàng đã bán 20 chai nước. Hỏi còn lại bao nhiêu chai nước?",
+     "options": [
+      "12",
+      "47",
+      "7",
+      "27"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 3 × 9 = 27. Bước 2: 27 − 20 = 7 (chai nước)."
+    },
+    {
+     "q": "Một cửa hàng có 7 túi, mỗi túi có 5 quả cam. Cửa hàng đã bán 4 quả cam. Hỏi còn lại bao nhiêu quả cam?",
+     "options": [
+      "35",
+      "39",
+      "31",
+      "36"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 7 × 5 = 35. Bước 2: 35 − 4 = 31 (quả cam)."
+    },
+    {
+     "q": "Một cửa hàng có 7 thùng, mỗi thùng có 4 chai nước, và còn thêm 7 chai nước để rời. Hỏi cửa hàng có tất cả bao nhiêu chai nước?",
+     "options": [
+      "28",
+      "42",
+      "18",
+      "35"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 7 × 4 = 28. Bước 2: 28 + 7 = 35 (chai nước)."
+    },
+    {
+     "q": "Một cửa hàng có 4 thùng, mỗi thùng có 7 chai nước. Cửa hàng đã bán 15 chai nước. Hỏi còn lại bao nhiêu chai nước?",
+     "options": [
+      "43",
+      "18",
+      "28",
+      "13"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 4 × 7 = 28. Bước 2: 28 − 15 = 13 (chai nước)."
+    },
+    {
+     "q": "Một cửa hàng có 6 rổ, mỗi rổ có 8 quả trứng. Cửa hàng đã bán 15 quả trứng. Hỏi còn lại bao nhiêu quả trứng?",
+     "options": [
+      "38",
+      "48",
+      "33",
+      "63"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 6 × 8 = 48. Bước 2: 48 − 15 = 33 (quả trứng)."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2272 @@
+{
+ "grade": 3,
+ "week": 4,
+ "lessons": [
+  {
+   "type": 1,
+   "title": "Bài 1 - Điền số vào ô trống",
+   "exercises": [
+    {
+     "q": "Số 24 lần lượt: chia 4, rồi nhân 4, rồi trừ 6. Hỏi số cuối cùng là bao nhiêu?",
+     "options": [
+      "24",
+      "19",
+      "17",
+      "18"
+     ],
+     "correct": 3,
+     "explain": "24 ÷4 = 6 ×4 = 24 −6 = 18."
+    },
+    {
+     "q": "Số 49 lần lượt: chia 7, rồi nhân 5, rồi trừ 27. Hỏi số cuối cùng là bao nhiêu?",
+     "options": [
+      "9",
+      "7",
+      "35",
+      "8"
+     ],
+     "correct": 3,
+     "explain": "49 ÷7 = 7 ×5 = 35 −27 = 8."
+    },
+    {
+     "q": "Số 12 lần lượt: chia 6, rồi nhân 8, rồi cộng 7. Hỏi số cuối cùng là bao nhiêu?",
+     "options": [
+      "24",
+      "16",
+      "30",
+      "23"
+     ],
+     "correct": 3,
+     "explain": "12 ÷6 = 2 ×8 = 16 +7 = 23."
+    },
+    {
+     "q": "Số 28 lần lượt: chia 7, rồi nhân 3, rồi trừ 4. Hỏi số cuối cùng là bao nhiêu?",
+     "options": [
+      "12",
+      "8",
+      "9",
+      "7"
+     ],
+     "correct": 1,
+     "explain": "28 ÷7 = 4 ×3 = 12 −4 = 8."
+    },
+    {
+     "q": "Số 49 lần lượt: chia 7, rồi nhân 2, rồi trừ 3. Hỏi số cuối cùng là bao nhiêu?",
+     "options": [
+      "12",
+      "14",
+      "11",
+      "10"
+     ],
+     "correct": 2,
+     "explain": "49 ÷7 = 7 ×2 = 14 −3 = 11."
+    },
+    {
+     "q": "Số 6 lần lượt: chia 3, rồi nhân 8, rồi cộng 22. Hỏi số cuối cùng là bao nhiêu?",
+     "options": [
+      "16",
+      "38",
+      "60",
+      "39"
+     ],
+     "correct": 1,
+     "explain": "6 ÷3 = 2 ×8 = 16 +22 = 38."
+    },
+    {
+     "q": "Số 18 lần lượt: chia 3, rồi nhân 2, rồi trừ 6. Hỏi số cuối cùng là bao nhiêu?",
+     "options": [
+      "5",
+      "12",
+      "7",
+      "6"
+     ],
+     "correct": 3,
+     "explain": "18 ÷3 = 6 ×2 = 12 −6 = 6."
+    },
+    {
+     "q": "Số 72 lần lượt: chia 8, rồi nhân 3, rồi trừ 12. Hỏi số cuối cùng là bao nhiêu?",
+     "options": [
+      "16",
+      "27",
+      "15",
+      "14"
+     ],
+     "correct": 2,
+     "explain": "72 ÷8 = 9 ×3 = 27 −12 = 15."
+    },
+    {
+     "q": "Số 81 lần lượt: chia 9, rồi nhân 5, rồi trừ 34. Hỏi số cuối cùng là bao nhiêu?",
+     "options": [
+      "12",
+      "11",
+      "45",
+      "10"
+     ],
+     "correct": 1,
+     "explain": "81 ÷9 = 9 ×5 = 45 −34 = 11."
+    },
+    {
+     "q": "Số 48 lần lượt: chia 8, rồi nhân 4, rồi trừ 6. Hỏi số cuối cùng là bao nhiêu?",
+     "options": [
+      "18",
+      "24",
+      "19",
+      "17"
+     ],
+     "correct": 0,
+     "explain": "48 ÷8 = 6 ×4 = 24 −6 = 18."
+    },
+    {
+     "q": "Số 6 lần lượt: chia 2, rồi nhân 3, rồi cộng 28. Hỏi số cuối cùng là bao nhiêu?",
+     "options": [
+      "9",
+      "37",
+      "38",
+      "65"
+     ],
+     "correct": 1,
+     "explain": "6 ÷2 = 3 ×3 = 9 +28 = 37."
+    },
+    {
+     "q": "Số 54 lần lượt: chia 6, rồi nhân 2, rồi trừ 13. Hỏi số cuối cùng là bao nhiêu?",
+     "options": [
+      "4",
+      "6",
+      "18",
+      "5"
+     ],
+     "correct": 3,
+     "explain": "54 ÷6 = 9 ×2 = 18 −13 = 5."
+    },
+    {
+     "q": "Số 30 lần lượt: chia 6, rồi nhân 7, rồi trừ 10. Hỏi số cuối cùng là bao nhiêu?",
+     "options": [
+      "24",
+      "25",
+      "26",
+      "35"
+     ],
+     "correct": 1,
+     "explain": "30 ÷6 = 5 ×7 = 35 −10 = 25."
+    },
+    {
+     "q": "Số 36 lần lượt: chia 6, rồi nhân 8, rồi cộng 8. Hỏi số cuối cùng là bao nhiêu?",
+     "options": [
+      "57",
+      "64",
+      "48",
+      "56"
+     ],
+     "correct": 3,
+     "explain": "36 ÷6 = 6 ×8 = 48 +8 = 56."
+    },
+    {
+     "q": "Số 32 lần lượt: chia 8, rồi nhân 3, rồi cộng 11. Hỏi số cuối cùng là bao nhiêu?",
+     "options": [
+      "23",
+      "24",
+      "34",
+      "12"
+     ],
+     "correct": 0,
+     "explain": "32 ÷8 = 4 ×3 = 12 +11 = 23."
+    },
+    {
+     "q": "Số 72 lần lượt: chia 8, rồi nhân 2, rồi cộng 25. Hỏi số cuối cùng là bao nhiêu?",
+     "options": [
+      "18",
+      "44",
+      "43",
+      "68"
+     ],
+     "correct": 2,
+     "explain": "72 ÷8 = 9 ×2 = 18 +25 = 43."
+    },
+    {
+     "q": "Số 45 lần lượt: chia 9, rồi nhân 7, rồi trừ 4. Hỏi số cuối cùng là bao nhiêu?",
+     "options": [
+      "31",
+      "35",
+      "30",
+      "32"
+     ],
+     "correct": 0,
+     "explain": "45 ÷9 = 5 ×7 = 35 −4 = 31."
+    },
+    {
+     "q": "Số 40 lần lượt: chia 8, rồi nhân 5, rồi cộng 8. Hỏi số cuối cùng là bao nhiêu?",
+     "options": [
+      "25",
+      "41",
+      "34",
+      "33"
+     ],
+     "correct": 3,
+     "explain": "40 ÷8 = 5 ×5 = 25 +8 = 33."
+    }
+   ]
+  },
+  {
+   "type": 2,
+   "title": "Bài 2 - Thực hiện phép tính (nối kết quả)",
+   "exercises": [
+    {
+     "q": "Phép tính nào có cùng kết quả với 0 ÷ 9?",
+     "options": [
+      "1 × 6",
+      "9 × 0",
+      "6 × 5",
+      "7 × 7"
+     ],
+     "correct": 1,
+     "explain": "0 ÷ 9 = 0 và 9 × 0 = 0 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 35 ÷ 5?",
+     "options": [
+      "64 ÷ 8",
+      "2 × 3",
+      "1 × 7",
+      "36 ÷ 6"
+     ],
+     "correct": 2,
+     "explain": "35 ÷ 5 = 7 và 1 × 7 = 7 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 20 ÷ 5?",
+     "options": [
+      "16 ÷ 4",
+      "72 ÷ 8",
+      "8 × 6",
+      "28 ÷ 4"
+     ],
+     "correct": 0,
+     "explain": "20 ÷ 5 = 4 và 16 ÷ 4 = 4 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 7 × 9?",
+     "options": [
+      "9 × 6",
+      "9 × 7",
+      "8 × 3",
+      "27 ÷ 3"
+     ],
+     "correct": 1,
+     "explain": "7 × 9 = 63 và 9 × 7 = 63 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 5 × 9?",
+     "options": [
+      "9 × 5",
+      "32 ÷ 4",
+      "16 ÷ 8",
+      "3 × 7"
+     ],
+     "correct": 0,
+     "explain": "5 × 9 = 45 và 9 × 5 = 45 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 3 × 9?",
+     "options": [
+      "35 ÷ 5",
+      "9 × 3",
+      "4 × 6",
+      "8 × 4"
+     ],
+     "correct": 1,
+     "explain": "3 × 9 = 27 và 9 × 3 = 27 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 8 × 6?",
+     "options": [
+      "6 × 8",
+      "2 × 2",
+      "30 ÷ 6",
+      "10 ÷ 5"
+     ],
+     "correct": 0,
+     "explain": "8 × 6 = 48 và 6 × 8 = 48 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 5 × 8?",
+     "options": [
+      "5 × 9",
+      "8 ÷ 8",
+      "8 × 5",
+      "4 ÷ 4"
+     ],
+     "correct": 2,
+     "explain": "5 × 8 = 40 và 8 × 5 = 40 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 9 × 7?",
+     "options": [
+      "81 ÷ 9",
+      "7 ÷ 7",
+      "7 × 9",
+      "3 × 3"
+     ],
+     "correct": 2,
+     "explain": "9 × 7 = 63 và 7 × 9 = 63 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 9 × 4?",
+     "options": [
+      "24 ÷ 3",
+      "4 × 9",
+      "7 × 1",
+      "32 ÷ 8"
+     ],
+     "correct": 1,
+     "explain": "9 × 4 = 36 và 4 × 9 = 36 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 18 ÷ 2?",
+     "options": [
+      "49 ÷ 7",
+      "0 ÷ 7",
+      "36 ÷ 4",
+      "9 × 7"
+     ],
+     "correct": 2,
+     "explain": "18 ÷ 2 = 9 và 36 ÷ 4 = 9 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 1 × 2?",
+     "options": [
+      "5 × 6",
+      "5 ÷ 5",
+      "12 ÷ 6",
+      "20 ÷ 5"
+     ],
+     "correct": 2,
+     "explain": "1 × 2 = 2 và 12 ÷ 6 = 2 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 10 ÷ 5?",
+     "options": [
+      "4 ÷ 2",
+      "30 ÷ 5",
+      "35 ÷ 7",
+      "4 × 1"
+     ],
+     "correct": 0,
+     "explain": "10 ÷ 5 = 2 và 4 ÷ 2 = 2 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 3 × 8?",
+     "options": [
+      "10 ÷ 2",
+      "2 × 9",
+      "4 × 4",
+      "4 × 6"
+     ],
+     "correct": 3,
+     "explain": "3 × 8 = 24 và 4 × 6 = 24 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 2 × 9?",
+     "options": [
+      "72 ÷ 8",
+      "3 × 6",
+      "12 ÷ 3",
+      "2 × 0"
+     ],
+     "correct": 1,
+     "explain": "2 × 9 = 18 và 3 × 6 = 18 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 8 × 9?",
+     "options": [
+      "9 × 8",
+      "6 ÷ 3",
+      "40 ÷ 8",
+      "3 × 1"
+     ],
+     "correct": 0,
+     "explain": "8 × 9 = 72 và 9 × 8 = 72 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 0 ÷ 3?",
+     "options": [
+      "7 × 1",
+      "4 × 3",
+      "8 × 6",
+      "2 × 0"
+     ],
+     "correct": 3,
+     "explain": "0 ÷ 3 = 0 và 2 × 0 = 0 → cùng kết quả."
+    },
+    {
+     "q": "Phép tính nào có cùng kết quả với 5 × 4?",
+     "options": [
+      "63 ÷ 9",
+      "4 × 5",
+      "45 ÷ 5",
+      "8 × 8"
+     ],
+     "correct": 1,
+     "explain": "5 × 4 = 20 và 4 × 5 = 20 → cùng kết quả."
+    }
+   ]
+  },
+  {
+   "type": 3,
+   "title": "Bài 3 - Đổi tuần và ngày",
+   "exercises": [
+    {
+     "q": "42 ngày bằng bao nhiêu tuần? (1 tuần = 7 ngày)",
+     "options": [
+      "7",
+      "42",
+      "5",
+      "6"
+     ],
+     "correct": 3,
+     "explain": "Số tuần = 42 ÷ 7 = 6."
+    },
+    {
+     "q": "49 ngày bằng bao nhiêu tuần? (1 tuần = 7 ngày)",
+     "options": [
+      "7",
+      "6",
+      "8",
+      "49"
+     ],
+     "correct": 0,
+     "explain": "Số tuần = 49 ÷ 7 = 7."
+    },
+    {
+     "q": "56 ngày bằng bao nhiêu tuần? (1 tuần = 7 ngày)",
+     "options": [
+      "56",
+      "8",
+      "7",
+      "9"
+     ],
+     "correct": 1,
+     "explain": "Số tuần = 56 ÷ 7 = 8."
+    },
+    {
+     "q": "28 ngày bằng bao nhiêu tuần? (1 tuần = 7 ngày)",
+     "options": [
+      "3",
+      "4",
+      "5",
+      "28"
+     ],
+     "correct": 1,
+     "explain": "Số tuần = 28 ÷ 7 = 4."
+    },
+    {
+     "q": "5 tuần bằng bao nhiêu ngày? (1 tuần = 7 ngày)",
+     "options": [
+      "42",
+      "35",
+      "12",
+      "28"
+     ],
+     "correct": 1,
+     "explain": "Số ngày = 7 × 5 = 35."
+    },
+    {
+     "q": "9 tuần bằng bao nhiêu ngày? (1 tuần = 7 ngày)",
+     "options": [
+      "56",
+      "70",
+      "63",
+      "16"
+     ],
+     "correct": 2,
+     "explain": "Số ngày = 7 × 9 = 63."
+    },
+    {
+     "q": "77 ngày bằng bao nhiêu tuần? (1 tuần = 7 ngày)",
+     "options": [
+      "12",
+      "10",
+      "11",
+      "77"
+     ],
+     "correct": 2,
+     "explain": "Số tuần = 77 ÷ 7 = 11."
+    },
+    {
+     "q": "8 tuần bằng bao nhiêu ngày? (1 tuần = 7 ngày)",
+     "options": [
+      "63",
+      "49",
+      "15",
+      "56"
+     ],
+     "correct": 3,
+     "explain": "Số ngày = 7 × 8 = 56."
+    },
+    {
+     "q": "84 ngày bằng bao nhiêu tuần? (1 tuần = 7 ngày)",
+     "options": [
+      "13",
+      "12",
+      "11",
+      "84"
+     ],
+     "correct": 1,
+     "explain": "Số tuần = 84 ÷ 7 = 12."
+    },
+    {
+     "q": "35 ngày bằng bao nhiêu tuần? (1 tuần = 7 ngày)",
+     "options": [
+      "35",
+      "4",
+      "6",
+      "5"
+     ],
+     "correct": 3,
+     "explain": "Số tuần = 35 ÷ 7 = 5."
+    },
+    {
+     "q": "14 ngày bằng bao nhiêu tuần? (1 tuần = 7 ngày)",
+     "options": [
+      "14",
+      "1",
+      "2",
+      "3"
+     ],
+     "correct": 2,
+     "explain": "Số tuần = 14 ÷ 7 = 2."
+    },
+    {
+     "q": "10 tuần bằng bao nhiêu ngày? (1 tuần = 7 ngày)",
+     "options": [
+      "77",
+      "70",
+      "17",
+      "63"
+     ],
+     "correct": 1,
+     "explain": "Số ngày = 7 × 10 = 70."
+    },
+    {
+     "q": "3 tuần bằng bao nhiêu ngày? (1 tuần = 7 ngày)",
+     "options": [
+      "14",
+      "10",
+      "28",
+      "21"
+     ],
+     "correct": 3,
+     "explain": "Số ngày = 7 × 3 = 21."
+    },
+    {
+     "q": "70 ngày bằng bao nhiêu tuần? (1 tuần = 7 ngày)",
+     "options": [
+      "10",
+      "70",
+      "11",
+      "9"
+     ],
+     "correct": 0,
+     "explain": "Số tuần = 70 ÷ 7 = 10."
+    },
+    {
+     "q": "4 tuần bằng bao nhiêu ngày? (1 tuần = 7 ngày)",
+     "options": [
+      "28",
+      "21",
+      "35",
+      "11"
+     ],
+     "correct": 0,
+     "explain": "Số ngày = 7 × 4 = 28."
+    },
+    {
+     "q": "6 tuần bằng bao nhiêu ngày? (1 tuần = 7 ngày)",
+     "options": [
+      "42",
+      "49",
+      "13",
+      "35"
+     ],
+     "correct": 0,
+     "explain": "Số ngày = 7 × 6 = 42."
+    },
+    {
+     "q": "2 tuần bằng bao nhiêu ngày? (1 tuần = 7 ngày)",
+     "options": [
+      "21",
+      "14",
+      "9",
+      "7"
+     ],
+     "correct": 1,
+     "explain": "Số ngày = 7 × 2 = 14."
+    },
+    {
+     "q": "21 ngày bằng bao nhiêu tuần? (1 tuần = 7 ngày)",
+     "options": [
+      "4",
+      "2",
+      "3",
+      "21"
+     ],
+     "correct": 2,
+     "explain": "Số tuần = 21 ÷ 7 = 3."
+    }
+   ]
+  },
+  {
+   "type": 4,
+   "title": "Bài 4 - Bài toán phép nhân",
+   "exercises": [
+    {
+     "q": "Mỗi giờ, xưởng dùng (hoặc làm) hết 9 sản phẩm. Hỏi trong 5 giờ thì xưởng dùng (hoặc làm) hết bao nhiêu sản phẩm?",
+     "options": [
+      "45",
+      "36",
+      "54",
+      "14"
+     ],
+     "correct": 0,
+     "explain": "9 × 5 = 45 (sản phẩm)."
+    },
+    {
+     "q": "Mỗi ngày, trang trại dùng (hoặc làm) hết 12 quả trứng. Hỏi trong 3 ngày thì trang trại dùng (hoặc làm) hết bao nhiêu quả trứng?",
+     "options": [
+      "36",
+      "48",
+      "24",
+      "15"
+     ],
+     "correct": 0,
+     "explain": "12 × 3 = 36 (quả trứng)."
+    },
+    {
+     "q": "Mỗi ngày, trang trại dùng (hoặc làm) hết 10 quả trứng. Hỏi trong 8 ngày thì trang trại dùng (hoặc làm) hết bao nhiêu quả trứng?",
+     "options": [
+      "80",
+      "70",
+      "18",
+      "90"
+     ],
+     "correct": 0,
+     "explain": "10 × 8 = 80 (quả trứng)."
+    },
+    {
+     "q": "Mỗi giờ, xưởng dùng (hoặc làm) hết 8 sản phẩm. Hỏi trong 5 giờ thì xưởng dùng (hoặc làm) hết bao nhiêu sản phẩm?",
+     "options": [
+      "40",
+      "48",
+      "13",
+      "32"
+     ],
+     "correct": 0,
+     "explain": "8 × 5 = 40 (sản phẩm)."
+    },
+    {
+     "q": "Mỗi giờ, xưởng dùng (hoặc làm) hết 10 sản phẩm. Hỏi trong 3 giờ thì xưởng dùng (hoặc làm) hết bao nhiêu sản phẩm?",
+     "options": [
+      "20",
+      "30",
+      "40",
+      "13"
+     ],
+     "correct": 1,
+     "explain": "10 × 3 = 30 (sản phẩm)."
+    },
+    {
+     "q": "Mỗi giờ, xưởng dùng (hoặc làm) hết 7 sản phẩm. Hỏi trong 6 giờ thì xưởng dùng (hoặc làm) hết bao nhiêu sản phẩm?",
+     "options": [
+      "42",
+      "13",
+      "49",
+      "35"
+     ],
+     "correct": 0,
+     "explain": "7 × 6 = 42 (sản phẩm)."
+    },
+    {
+     "q": "Mỗi ngày, bếp ăn dùng (hoặc làm) hết 11 kg gạo. Hỏi trong 6 ngày thì bếp ăn dùng (hoặc làm) hết bao nhiêu kg gạo?",
+     "options": [
+      "17",
+      "66",
+      "55",
+      "77"
+     ],
+     "correct": 1,
+     "explain": "11 × 6 = 66 (kg gạo)."
+    },
+    {
+     "q": "Mỗi ngày, trang trại dùng (hoặc làm) hết 5 quả trứng. Hỏi trong 4 ngày thì trang trại dùng (hoặc làm) hết bao nhiêu quả trứng?",
+     "options": [
+      "20",
+      "9",
+      "15",
+      "25"
+     ],
+     "correct": 0,
+     "explain": "5 × 4 = 20 (quả trứng)."
+    },
+    {
+     "q": "Mỗi giờ, xưởng dùng (hoặc làm) hết 5 sản phẩm. Hỏi trong 3 giờ thì xưởng dùng (hoặc làm) hết bao nhiêu sản phẩm?",
+     "options": [
+      "15",
+      "10",
+      "8",
+      "20"
+     ],
+     "correct": 0,
+     "explain": "5 × 3 = 15 (sản phẩm)."
+    },
+    {
+     "q": "Mỗi phút, máy dùng (hoặc làm) hết 12 chiếc. Hỏi trong 5 phút thì máy dùng (hoặc làm) hết bao nhiêu chiếc?",
+     "options": [
+      "72",
+      "48",
+      "60",
+      "17"
+     ],
+     "correct": 2,
+     "explain": "12 × 5 = 60 (chiếc)."
+    },
+    {
+     "q": "Mỗi giờ, xưởng dùng (hoặc làm) hết 6 sản phẩm. Hỏi trong 9 giờ thì xưởng dùng (hoặc làm) hết bao nhiêu sản phẩm?",
+     "options": [
+      "48",
+      "54",
+      "60",
+      "15"
+     ],
+     "correct": 1,
+     "explain": "6 × 9 = 54 (sản phẩm)."
+    },
+    {
+     "q": "Mỗi phút, máy dùng (hoặc làm) hết 11 chiếc. Hỏi trong 7 phút thì máy dùng (hoặc làm) hết bao nhiêu chiếc?",
+     "options": [
+      "18",
+      "66",
+      "88",
+      "77"
+     ],
+     "correct": 3,
+     "explain": "11 × 7 = 77 (chiếc)."
+    },
+    {
+     "q": "Mỗi ngày, trang trại dùng (hoặc làm) hết 11 quả trứng. Hỏi trong 7 ngày thì trang trại dùng (hoặc làm) hết bao nhiêu quả trứng?",
+     "options": [
+      "66",
+      "77",
+      "88",
+      "18"
+     ],
+     "correct": 1,
+     "explain": "11 × 7 = 77 (quả trứng)."
+    },
+    {
+     "q": "Mỗi phút, máy dùng (hoặc làm) hết 7 chiếc. Hỏi trong 8 phút thì máy dùng (hoặc làm) hết bao nhiêu chiếc?",
+     "options": [
+      "15",
+      "56",
+      "49",
+      "63"
+     ],
+     "correct": 1,
+     "explain": "7 × 8 = 56 (chiếc)."
+    },
+    {
+     "q": "Mỗi ngày, bếp ăn dùng (hoặc làm) hết 10 kg gạo. Hỏi trong 5 ngày thì bếp ăn dùng (hoặc làm) hết bao nhiêu kg gạo?",
+     "options": [
+      "15",
+      "40",
+      "50",
+      "60"
+     ],
+     "correct": 2,
+     "explain": "10 × 5 = 50 (kg gạo)."
+    },
+    {
+     "q": "Mỗi ngày, bếp ăn dùng (hoặc làm) hết 12 kg gạo. Hỏi trong 8 ngày thì bếp ăn dùng (hoặc làm) hết bao nhiêu kg gạo?",
+     "options": [
+      "20",
+      "108",
+      "84",
+      "96"
+     ],
+     "correct": 3,
+     "explain": "12 × 8 = 96 (kg gạo)."
+    },
+    {
+     "q": "Mỗi phút, máy dùng (hoặc làm) hết 5 chiếc. Hỏi trong 5 phút thì máy dùng (hoặc làm) hết bao nhiêu chiếc?",
+     "options": [
+      "25",
+      "10",
+      "30",
+      "20"
+     ],
+     "correct": 0,
+     "explain": "5 × 5 = 25 (chiếc)."
+    },
+    {
+     "q": "Mỗi phút, máy dùng (hoặc làm) hết 6 chiếc. Hỏi trong 8 phút thì máy dùng (hoặc làm) hết bao nhiêu chiếc?",
+     "options": [
+      "48",
+      "42",
+      "14",
+      "54"
+     ],
+     "correct": 0,
+     "explain": "6 × 8 = 48 (chiếc)."
+    },
+    {
+     "q": "Mỗi ngày bếp ăn dùng hết 10 kg gạo. Hỏi trong 7 ngày dùng hết bao nhiêu kg gạo?",
+     "options": [
+      "60",
+      "70",
+      "80",
+      "17"
+     ],
+     "correct": 1,
+     "explain": "10 × 7 = 70 (kg)."
+    },
+    {
+     "q": "Mỗi ngày bếp ăn dùng hết 7 kg gạo. Hỏi trong 8 ngày dùng hết bao nhiêu kg gạo?",
+     "options": [
+      "15",
+      "56",
+      "49",
+      "63"
+     ],
+     "correct": 1,
+     "explain": "7 × 8 = 56 (kg)."
+    }
+   ]
+  },
+  {
+   "type": 5,
+   "title": "Bài 5 - Bài toán phép chia",
+   "exercises": [
+    {
+     "q": "Vườn có 99 cây được chia đều thành 9 luống. Hỏi mỗi luống có bao nhiêu cây?",
+     "options": [
+      "99",
+      "11",
+      "9",
+      "12"
+     ],
+     "correct": 1,
+     "explain": "99 ÷ 9 = 11 (cây)."
+    },
+    {
+     "q": "Vườn có 9 cây được chia đều thành 3 luống. Hỏi mỗi luống có bao nhiêu cây?",
+     "options": [
+      "3",
+      "2",
+      "9",
+      "4"
+     ],
+     "correct": 0,
+     "explain": "9 ÷ 3 = 3 (cây)."
+    },
+    {
+     "q": "Kho có 6 bao gạo được chia đều thành 2 xe. Hỏi mỗi xe có bao nhiêu bao gạo?",
+     "options": [
+      "6",
+      "3",
+      "4",
+      "2"
+     ],
+     "correct": 1,
+     "explain": "6 ÷ 2 = 3 (bao gạo)."
+    },
+    {
+     "q": "Vườn có 32 cây được chia đều thành 8 luống. Hỏi mỗi luống có bao nhiêu cây?",
+     "options": [
+      "32",
+      "8",
+      "5",
+      "4"
+     ],
+     "correct": 3,
+     "explain": "32 ÷ 8 = 4 (cây)."
+    },
+    {
+     "q": "Đội bóng có 6 bạn được chia đều thành 2 nhóm. Hỏi mỗi nhóm có bao nhiêu bạn?",
+     "options": [
+      "4",
+      "2",
+      "3",
+      "6"
+     ],
+     "correct": 2,
+     "explain": "6 ÷ 2 = 3 (bạn)."
+    },
+    {
+     "q": "Vườn có 44 cây được chia đều thành 4 luống. Hỏi mỗi luống có bao nhiêu cây?",
+     "options": [
+      "4",
+      "11",
+      "44",
+      "12"
+     ],
+     "correct": 1,
+     "explain": "44 ÷ 4 = 11 (cây)."
+    },
+    {
+     "q": "Kho có 27 bao gạo được chia đều thành 3 xe. Hỏi mỗi xe có bao nhiêu bao gạo?",
+     "options": [
+      "10",
+      "3",
+      "9",
+      "27"
+     ],
+     "correct": 2,
+     "explain": "27 ÷ 3 = 9 (bao gạo)."
+    },
+    {
+     "q": "Vườn có 64 cây được chia đều thành 8 luống. Hỏi mỗi luống có bao nhiêu cây?",
+     "options": [
+      "9",
+      "8",
+      "7",
+      "64"
+     ],
+     "correct": 1,
+     "explain": "64 ÷ 8 = 8 (cây)."
+    },
+    {
+     "q": "Đội bóng có 8 bạn được chia đều thành 2 nhóm. Hỏi mỗi nhóm có bao nhiêu bạn?",
+     "options": [
+      "4",
+      "2",
+      "8",
+      "5"
+     ],
+     "correct": 0,
+     "explain": "8 ÷ 2 = 4 (bạn)."
+    },
+    {
+     "q": "Vườn có 16 cây được chia đều thành 2 luống. Hỏi mỗi luống có bao nhiêu cây?",
+     "options": [
+      "16",
+      "8",
+      "9",
+      "2"
+     ],
+     "correct": 1,
+     "explain": "16 ÷ 2 = 8 (cây)."
+    },
+    {
+     "q": "Lớp có 6 học sinh được chia đều thành 2 tổ. Hỏi mỗi tổ có bao nhiêu học sinh?",
+     "options": [
+      "4",
+      "6",
+      "2",
+      "3"
+     ],
+     "correct": 3,
+     "explain": "6 ÷ 2 = 3 (học sinh)."
+    },
+    {
+     "q": "Vườn có 27 cây được chia đều thành 9 luống. Hỏi mỗi luống có bao nhiêu cây?",
+     "options": [
+      "4",
+      "9",
+      "3",
+      "27"
+     ],
+     "correct": 2,
+     "explain": "27 ÷ 9 = 3 (cây)."
+    },
+    {
+     "q": "Lớp có 36 học sinh được chia đều thành 9 tổ. Hỏi mỗi tổ có bao nhiêu học sinh?",
+     "options": [
+      "36",
+      "9",
+      "5",
+      "4"
+     ],
+     "correct": 3,
+     "explain": "36 ÷ 9 = 4 (học sinh)."
+    },
+    {
+     "q": "Đội bóng có 36 bạn được chia đều thành 4 nhóm. Hỏi mỗi nhóm có bao nhiêu bạn?",
+     "options": [
+      "10",
+      "9",
+      "36",
+      "4"
+     ],
+     "correct": 1,
+     "explain": "36 ÷ 4 = 9 (bạn)."
+    },
+    {
+     "q": "Lớp có 30 học sinh được chia đều thành 5 tổ. Hỏi mỗi tổ có bao nhiêu học sinh?",
+     "options": [
+      "7",
+      "5",
+      "6",
+      "30"
+     ],
+     "correct": 2,
+     "explain": "30 ÷ 5 = 6 (học sinh)."
+    },
+    {
+     "q": "Vườn có 80 cây được chia đều thành 8 luống. Hỏi mỗi luống có bao nhiêu cây?",
+     "options": [
+      "8",
+      "11",
+      "10",
+      "80"
+     ],
+     "correct": 2,
+     "explain": "80 ÷ 8 = 10 (cây)."
+    },
+    {
+     "q": "Kho có 81 bao gạo được chia đều thành 9 xe. Hỏi mỗi xe có bao nhiêu bao gạo?",
+     "options": [
+      "8",
+      "9",
+      "10",
+      "81"
+     ],
+     "correct": 1,
+     "explain": "81 ÷ 9 = 9 (bao gạo)."
+    },
+    {
+     "q": "Kho có 21 bao gạo được chia đều thành 3 xe. Hỏi mỗi xe có bao nhiêu bao gạo?",
+     "options": [
+      "3",
+      "8",
+      "7",
+      "21"
+     ],
+     "correct": 2,
+     "explain": "21 ÷ 3 = 7 (bao gạo)."
+    }
+   ]
+  },
+  {
+   "type": 6,
+   "title": "Bài 6 - Phép nhân (mỗi ngày)",
+   "exercises": [
+    {
+     "q": "Mỗi ngày đọc 6 trang sách. Số đó đủ dùng trong 9 ngày. Hỏi tất cả có bao nhiêu trang sách?",
+     "options": [
+      "54",
+      "60",
+      "15",
+      "48"
+     ],
+     "correct": 0,
+     "explain": "6 × 9 = 54 (trang sách)."
+    },
+    {
+     "q": "Mỗi bữa ăn 3 cái bánh. Số đó đủ dùng trong 9 bữa. Hỏi tất cả có bao nhiêu cái bánh?",
+     "options": [
+      "12",
+      "24",
+      "30",
+      "27"
+     ],
+     "correct": 3,
+     "explain": "3 × 9 = 27 (cái bánh)."
+    },
+    {
+     "q": "Mỗi ngày đọc 4 trang sách. Số đó đủ dùng trong 4 ngày. Hỏi tất cả có bao nhiêu trang sách?",
+     "options": [
+      "8",
+      "12",
+      "20",
+      "16"
+     ],
+     "correct": 3,
+     "explain": "4 × 4 = 16 (trang sách)."
+    },
+    {
+     "q": "Mỗi bữa ăn 3 cái bánh. Số đó đủ dùng trong 6 bữa. Hỏi tất cả có bao nhiêu cái bánh?",
+     "options": [
+      "21",
+      "15",
+      "9",
+      "18"
+     ],
+     "correct": 3,
+     "explain": "3 × 6 = 18 (cái bánh)."
+    },
+    {
+     "q": "Mỗi ngày trồng 7 cây. Số đó đủ dùng trong 9 ngày. Hỏi tất cả có bao nhiêu cây?",
+     "options": [
+      "16",
+      "63",
+      "56",
+      "70"
+     ],
+     "correct": 1,
+     "explain": "7 × 9 = 63 (cây)."
+    },
+    {
+     "q": "Mỗi ngày trồng 3 cây. Số đó đủ dùng trong 9 ngày. Hỏi tất cả có bao nhiêu cây?",
+     "options": [
+      "24",
+      "27",
+      "30",
+      "12"
+     ],
+     "correct": 1,
+     "explain": "3 × 9 = 27 (cây)."
+    },
+    {
+     "q": "Mỗi ngày uống 8 viên thuốc. Số đó đủ dùng trong 7 ngày. Hỏi tất cả có bao nhiêu viên thuốc?",
+     "options": [
+      "15",
+      "48",
+      "56",
+      "64"
+     ],
+     "correct": 2,
+     "explain": "8 × 7 = 56 (viên thuốc)."
+    },
+    {
+     "q": "Mỗi ngày đọc 6 trang sách. Số đó đủ dùng trong 3 ngày. Hỏi tất cả có bao nhiêu trang sách?",
+     "options": [
+      "24",
+      "18",
+      "12",
+      "9"
+     ],
+     "correct": 1,
+     "explain": "6 × 3 = 18 (trang sách)."
+    },
+    {
+     "q": "Mỗi ngày đọc 3 trang sách. Số đó đủ dùng trong 9 ngày. Hỏi tất cả có bao nhiêu trang sách?",
+     "options": [
+      "12",
+      "27",
+      "30",
+      "24"
+     ],
+     "correct": 1,
+     "explain": "3 × 9 = 27 (trang sách)."
+    },
+    {
+     "q": "Mỗi bữa ăn 4 cái bánh. Số đó đủ dùng trong 8 bữa. Hỏi tất cả có bao nhiêu cái bánh?",
+     "options": [
+      "28",
+      "32",
+      "12",
+      "36"
+     ],
+     "correct": 1,
+     "explain": "4 × 8 = 32 (cái bánh)."
+    },
+    {
+     "q": "Mỗi ngày uống 4 viên thuốc. Số đó đủ dùng trong 7 ngày. Hỏi tất cả có bao nhiêu viên thuốc?",
+     "options": [
+      "11",
+      "32",
+      "28",
+      "24"
+     ],
+     "correct": 2,
+     "explain": "4 × 7 = 28 (viên thuốc)."
+    },
+    {
+     "q": "Mỗi bữa ăn 4 cái bánh. Số đó đủ dùng trong 7 bữa. Hỏi tất cả có bao nhiêu cái bánh?",
+     "options": [
+      "24",
+      "32",
+      "11",
+      "28"
+     ],
+     "correct": 3,
+     "explain": "4 × 7 = 28 (cái bánh)."
+    },
+    {
+     "q": "Mỗi ngày đọc 5 trang sách. Số đó đủ dùng trong 7 ngày. Hỏi tất cả có bao nhiêu trang sách?",
+     "options": [
+      "40",
+      "30",
+      "12",
+      "35"
+     ],
+     "correct": 3,
+     "explain": "5 × 7 = 35 (trang sách)."
+    },
+    {
+     "q": "Mỗi ngày uống 3 viên thuốc. Số đó đủ dùng trong 4 ngày. Hỏi tất cả có bao nhiêu viên thuốc?",
+     "options": [
+      "7",
+      "15",
+      "9",
+      "12"
+     ],
+     "correct": 3,
+     "explain": "3 × 4 = 12 (viên thuốc)."
+    },
+    {
+     "q": "Mỗi bữa ăn 3 cái bánh. Số đó đủ dùng trong 4 bữa. Hỏi tất cả có bao nhiêu cái bánh?",
+     "options": [
+      "15",
+      "7",
+      "12",
+      "9"
+     ],
+     "correct": 2,
+     "explain": "3 × 4 = 12 (cái bánh)."
+    },
+    {
+     "q": "Mỗi ngày trồng 6 cây. Số đó đủ dùng trong 5 ngày. Hỏi tất cả có bao nhiêu cây?",
+     "options": [
+      "24",
+      "36",
+      "11",
+      "30"
+     ],
+     "correct": 3,
+     "explain": "6 × 5 = 30 (cây)."
+    },
+    {
+     "q": "Mỗi bữa ăn 7 cái bánh. Số đó đủ dùng trong 4 bữa. Hỏi tất cả có bao nhiêu cái bánh?",
+     "options": [
+      "28",
+      "11",
+      "21",
+      "35"
+     ],
+     "correct": 0,
+     "explain": "7 × 4 = 28 (cái bánh)."
+    },
+    {
+     "q": "Mỗi ngày trồng 9 cây. Số đó đủ dùng trong 7 ngày. Hỏi tất cả có bao nhiêu cây?",
+     "options": [
+      "72",
+      "63",
+      "16",
+      "54"
+     ],
+     "correct": 1,
+     "explain": "9 × 7 = 63 (cây)."
+    }
+   ]
+  },
+  {
+   "type": 7,
+   "title": "Bài 7 - Tìm số ban đầu (sơ đồ ngược)",
+   "exercises": [
+    {
+     "q": "Bạn Bình viết một số, đem số đó nhân với 6 rồi chia cho 6 thì được 3. Hỏi Bình đã viết số nào?",
+     "options": [
+      "2",
+      "3",
+      "18",
+      "4"
+     ],
+     "correct": 1,
+     "explain": "Ngược lại: 3 × 6 = 18, rồi 18 ÷ 6 = 3."
+    },
+    {
+     "q": "Bạn Hùng viết một số, đem số đó nhân với 4 rồi chia cho 4 thì được 5. Hỏi Hùng đã viết số nào?",
+     "options": [
+      "4",
+      "5",
+      "6",
+      "20"
+     ],
+     "correct": 1,
+     "explain": "Ngược lại: 5 × 4 = 20, rồi 20 ÷ 4 = 5."
+    },
+    {
+     "q": "Bạn Lan viết một số, đem số đó nhân với 6 rồi chia cho 2 thì được 6. Hỏi Lan đã viết số nào?",
+     "options": [
+      "12",
+      "6",
+      "2",
+      "36"
+     ],
+     "correct": 2,
+     "explain": "Ngược lại: 6 × 2 = 12, rồi 12 ÷ 6 = 2."
+    },
+    {
+     "q": "Bạn Mai viết một số, đem số đó nhân với 4 rồi chia cho 4 thì được 6. Hỏi Mai đã viết số nào?",
+     "options": [
+      "7",
+      "6",
+      "5",
+      "24"
+     ],
+     "correct": 1,
+     "explain": "Ngược lại: 6 × 4 = 24, rồi 24 ÷ 4 = 6."
+    },
+    {
+     "q": "Bạn Hùng viết một số, đem số đó nhân với 6 rồi chia cho 4 thì được 3. Hỏi Hùng đã viết số nào?",
+     "options": [
+      "3",
+      "18",
+      "12",
+      "2"
+     ],
+     "correct": 3,
+     "explain": "Ngược lại: 3 × 4 = 12, rồi 12 ÷ 6 = 2."
+    },
+    {
+     "q": "Bạn Hùng viết một số, đem số đó nhân với 4 rồi chia cho 4 thì được 6. Hỏi Hùng đã viết số nào?",
+     "options": [
+      "6",
+      "5",
+      "24",
+      "7"
+     ],
+     "correct": 0,
+     "explain": "Ngược lại: 6 × 4 = 24, rồi 24 ÷ 4 = 6."
+    },
+    {
+     "q": "Bạn Lan viết một số, đem số đó nhân với 6 rồi chia cho 3 thì được 4. Hỏi Lan đã viết số nào?",
+     "options": [
+      "4",
+      "2",
+      "12",
+      "24"
+     ],
+     "correct": 1,
+     "explain": "Ngược lại: 4 × 3 = 12, rồi 12 ÷ 6 = 2."
+    },
+    {
+     "q": "Bạn Lan viết một số, đem số đó nhân với 3 rồi chia cho 3 thì được 4. Hỏi Lan đã viết số nào?",
+     "options": [
+      "12",
+      "3",
+      "5",
+      "4"
+     ],
+     "correct": 3,
+     "explain": "Ngược lại: 4 × 3 = 12, rồi 12 ÷ 3 = 4."
+    },
+    {
+     "q": "Bạn Lan viết một số, đem số đó nhân với 2 rồi chia cho 2 thì được 5. Hỏi Lan đã viết số nào?",
+     "options": [
+      "5",
+      "10",
+      "4",
+      "6"
+     ],
+     "correct": 0,
+     "explain": "Ngược lại: 5 × 2 = 10, rồi 10 ÷ 2 = 5."
+    },
+    {
+     "q": "Bạn Hùng viết một số, đem số đó nhân với 5 rồi chia cho 5 thì được 6. Hỏi Hùng đã viết số nào?",
+     "options": [
+      "6",
+      "5",
+      "7",
+      "30"
+     ],
+     "correct": 0,
+     "explain": "Ngược lại: 6 × 5 = 30, rồi 30 ÷ 5 = 6."
+    },
+    {
+     "q": "Bạn Bình viết một số, đem số đó nhân với 3 rồi chia cho 2 thì được 3. Hỏi Bình đã viết số nào?",
+     "options": [
+      "9",
+      "6",
+      "2",
+      "3"
+     ],
+     "correct": 2,
+     "explain": "Ngược lại: 3 × 2 = 6, rồi 6 ÷ 3 = 2."
+    },
+    {
+     "q": "Bạn Bình viết một số, đem số đó nhân với 4 rồi chia cho 6 thì được 4. Hỏi Bình đã viết số nào?",
+     "options": [
+      "6",
+      "4",
+      "24",
+      "16"
+     ],
+     "correct": 0,
+     "explain": "Ngược lại: 4 × 6 = 24, rồi 24 ÷ 4 = 6."
+    },
+    {
+     "q": "Bạn Mai viết một số, đem số đó nhân với 2 rồi chia cho 4 thì được 3. Hỏi Mai đã viết số nào?",
+     "options": [
+      "6",
+      "7",
+      "12",
+      "3"
+     ],
+     "correct": 0,
+     "explain": "Ngược lại: 3 × 4 = 12, rồi 12 ÷ 2 = 6."
+    },
+    {
+     "q": "Bạn Hùng viết một số, đem số đó nhân với 5 rồi chia cho 5 thì được 2. Hỏi Hùng đã viết số nào?",
+     "options": [
+      "2",
+      "1",
+      "3",
+      "10"
+     ],
+     "correct": 0,
+     "explain": "Ngược lại: 2 × 5 = 10, rồi 10 ÷ 5 = 2."
+    },
+    {
+     "q": "Bạn An viết một số, đem số đó nhân với 4 rồi chia cho 6 thì được 8. Hỏi An đã viết số nào?",
+     "options": [
+      "12",
+      "32",
+      "48",
+      "8"
+     ],
+     "correct": 0,
+     "explain": "Ngược lại: 8 × 6 = 48, rồi 48 ÷ 4 = 12."
+    },
+    {
+     "q": "Bạn An viết một số, đem số đó nhân với 4 rồi chia cho 2 thì được 8. Hỏi An đã viết số nào?",
+     "options": [
+      "16",
+      "32",
+      "8",
+      "4"
+     ],
+     "correct": 3,
+     "explain": "Ngược lại: 8 × 2 = 16, rồi 16 ÷ 4 = 4."
+    },
+    {
+     "q": "Bạn Lan viết một số, đem số đó nhân với 3 rồi chia cho 5 thì được 9. Hỏi Lan đã viết số nào?",
+     "options": [
+      "9",
+      "27",
+      "15",
+      "45"
+     ],
+     "correct": 2,
+     "explain": "Ngược lại: 9 × 5 = 45, rồi 45 ÷ 3 = 15."
+    },
+    {
+     "q": "Bạn An viết một số, đem số đó nhân với 3 rồi chia cho 3 thì được 5. Hỏi An đã viết số nào?",
+     "options": [
+      "4",
+      "15",
+      "6",
+      "5"
+     ],
+     "correct": 3,
+     "explain": "Ngược lại: 5 × 3 = 15, rồi 15 ÷ 3 = 5."
+    }
+   ]
+  },
+  {
+   "type": 8,
+   "title": "Bài 8 - Phân tích bài toán đố",
+   "exercises": [
+    {
+     "q": "Cô Lan hái được một số quả cam. Nếu chia đều mỗi túi 4 quả thì cần 9 túi. Hỏi nếu chia đều mỗi túi 3 quả thì cần bao nhiêu túi?",
+     "options": [
+      "13",
+      "12",
+      "9",
+      "36"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: tổng = 4 × 9 = 36. Bước 2: 36 ÷ 3 = 12 (túi)."
+    },
+    {
+     "q": "Cô Lan hái được một số quả cam. Nếu chia đều mỗi túi 6 quả thì cần 3 túi. Hỏi nếu chia đều mỗi túi 2 quả thì cần bao nhiêu túi?",
+     "options": [
+      "18",
+      "10",
+      "3",
+      "9"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: tổng = 6 × 3 = 18. Bước 2: 18 ÷ 2 = 9 (túi)."
+    },
+    {
+     "q": "Anh Nam hái được một số quả cam. Nếu chia đều mỗi túi 5 quả thì cần 9 túi. Hỏi nếu chia đều mỗi túi 3 quả thì cần bao nhiêu túi?",
+     "options": [
+      "9",
+      "16",
+      "45",
+      "15"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: tổng = 5 × 9 = 45. Bước 2: 45 ÷ 3 = 15 (túi)."
+    },
+    {
+     "q": "Bác Tư hái được một số quả cam. Nếu chia đều mỗi túi 4 quả thì cần 8 túi. Hỏi nếu chia đều mỗi túi 2 quả thì cần bao nhiêu túi?",
+     "options": [
+      "32",
+      "17",
+      "16",
+      "8"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: tổng = 4 × 8 = 32. Bước 2: 32 ÷ 2 = 16 (túi)."
+    },
+    {
+     "q": "Cô Lan hái được một số quả cam. Nếu chia đều mỗi túi 3 quả thì cần 4 túi. Hỏi nếu chia đều mỗi túi 2 quả thì cần bao nhiêu túi?",
+     "options": [
+      "4",
+      "6",
+      "12",
+      "7"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: tổng = 3 × 4 = 12. Bước 2: 12 ÷ 2 = 6 (túi)."
+    },
+    {
+     "q": "Bác Tư hái được một số quả cam. Nếu chia đều mỗi túi 5 quả thì cần 4 túi. Hỏi nếu chia đều mỗi túi 4 quả thì cần bao nhiêu túi?",
+     "options": [
+      "4",
+      "20",
+      "5",
+      "6"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: tổng = 5 × 4 = 20. Bước 2: 20 ÷ 4 = 5 (túi)."
+    },
+    {
+     "q": "Anh Nam hái được một số quả cam. Nếu chia đều mỗi túi 2 quả thì cần 6 túi. Hỏi nếu chia đều mỗi túi 6 quả thì cần bao nhiêu túi?",
+     "options": [
+      "12",
+      "3",
+      "6",
+      "2"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: tổng = 2 × 6 = 12. Bước 2: 12 ÷ 6 = 2 (túi)."
+    },
+    {
+     "q": "Anh Nam hái được một số quả cam. Nếu chia đều mỗi túi 5 quả thì cần 4 túi. Hỏi nếu chia đều mỗi túi 4 quả thì cần bao nhiêu túi?",
+     "options": [
+      "4",
+      "6",
+      "20",
+      "5"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: tổng = 5 × 4 = 20. Bước 2: 20 ÷ 4 = 5 (túi)."
+    },
+    {
+     "q": "Bác Tư hái được một số quả cam. Nếu chia đều mỗi túi 6 quả thì cần 4 túi. Hỏi nếu chia đều mỗi túi 4 quả thì cần bao nhiêu túi?",
+     "options": [
+      "6",
+      "7",
+      "4",
+      "24"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: tổng = 6 × 4 = 24. Bước 2: 24 ÷ 4 = 6 (túi)."
+    },
+    {
+     "q": "Anh Nam hái được một số quả cam. Nếu chia đều mỗi túi 3 quả thì cần 8 túi. Hỏi nếu chia đều mỗi túi 2 quả thì cần bao nhiêu túi?",
+     "options": [
+      "24",
+      "12",
+      "8",
+      "13"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: tổng = 3 × 8 = 24. Bước 2: 24 ÷ 2 = 12 (túi)."
+    },
+    {
+     "q": "Cô Lan hái được một số quả cam. Nếu chia đều mỗi túi 5 quả thì cần 3 túi. Hỏi nếu chia đều mỗi túi 3 quả thì cần bao nhiêu túi?",
+     "options": [
+      "6",
+      "15",
+      "5",
+      "3"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: tổng = 5 × 3 = 15. Bước 2: 15 ÷ 3 = 5 (túi)."
+    },
+    {
+     "q": "Bác Tư hái được một số quả cam. Nếu chia đều mỗi túi 6 quả thì cần 9 túi. Hỏi nếu chia đều mỗi túi 3 quả thì cần bao nhiêu túi?",
+     "options": [
+      "9",
+      "54",
+      "18",
+      "19"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: tổng = 6 × 9 = 54. Bước 2: 54 ÷ 3 = 18 (túi)."
+    },
+    {
+     "q": "Cô Lan hái được một số quả cam. Nếu chia đều mỗi túi 5 quả thì cần 8 túi. Hỏi nếu chia đều mỗi túi 8 quả thì cần bao nhiêu túi?",
+     "options": [
+      "5",
+      "8",
+      "40",
+      "6"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: tổng = 5 × 8 = 40. Bước 2: 40 ÷ 8 = 5 (túi)."
+    },
+    {
+     "q": "Chú Bình hái được một số quả cam. Nếu chia đều mỗi túi 4 quả thì cần 9 túi. Hỏi nếu chia đều mỗi túi 6 quả thì cần bao nhiêu túi?",
+     "options": [
+      "9",
+      "36",
+      "6",
+      "7"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: tổng = 4 × 9 = 36. Bước 2: 36 ÷ 6 = 6 (túi)."
+    },
+    {
+     "q": "Chú Bình hái được một số quả cam. Nếu chia đều mỗi túi 6 quả thì cần 7 túi. Hỏi nếu chia đều mỗi túi 2 quả thì cần bao nhiêu túi?",
+     "options": [
+      "21",
+      "22",
+      "42",
+      "7"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: tổng = 6 × 7 = 42. Bước 2: 42 ÷ 2 = 21 (túi)."
+    },
+    {
+     "q": "Chú Bình hái được một số quả cam. Nếu chia đều mỗi túi 3 quả thì cần 8 túi. Hỏi nếu chia đều mỗi túi 2 quả thì cần bao nhiêu túi?",
+     "options": [
+      "12",
+      "8",
+      "24",
+      "13"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: tổng = 3 × 8 = 24. Bước 2: 24 ÷ 2 = 12 (túi)."
+    },
+    {
+     "q": "Cô Lan hái được một số quả cam. Nếu chia đều mỗi túi 4 quả thì cần 7 túi. Hỏi nếu chia đều mỗi túi 7 quả thì cần bao nhiêu túi?",
+     "options": [
+      "28",
+      "7",
+      "5",
+      "4"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: tổng = 4 × 7 = 28. Bước 2: 28 ÷ 7 = 4 (túi)."
+    },
+    {
+     "q": "Cô Lan hái được một số quả cam. Nếu chia đều mỗi túi 3 quả thì cần 7 túi. Hỏi nếu chia đều mỗi túi 7 quả thì cần bao nhiêu túi?",
+     "options": [
+      "7",
+      "21",
+      "3",
+      "4"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: tổng = 3 × 7 = 21. Bước 2: 21 ÷ 7 = 3 (túi)."
+    }
+   ]
+  },
+  {
+   "type": 9,
+   "title": "Bài 9 - Bài toán bớt rồi chia",
+   "exercises": [
+    {
+     "q": "Cô Hà mua 40 cái bánh, đã ăn 4 cái bánh rồi đem số còn lại chia đều vào các cái hộp, mỗi cái hộp 4 cái bánh. Hỏi cần bao nhiêu cái hộp?",
+     "options": [
+      "9",
+      "8",
+      "36",
+      "10"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 40 − 4 = 36. Bước 2: 36 ÷ 4 = 9 (cái hộp)."
+    },
+    {
+     "q": "Chị Mai mua 27 quả táo, đã ăn 6 quả táo rồi đem số còn lại chia đều vào các cái đĩa, mỗi cái đĩa 3 quả táo. Hỏi cần bao nhiêu cái đĩa?",
+     "options": [
+      "7",
+      "21",
+      "8",
+      "9"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 27 − 6 = 21. Bước 2: 21 ÷ 3 = 7 (cái đĩa)."
+    },
+    {
+     "q": "Bác Sơn mua 34 cái bánh, đã ăn 4 cái bánh rồi đem số còn lại chia đều vào các cái hộp, mỗi cái hộp 5 cái bánh. Hỏi cần bao nhiêu cái hộp?",
+     "options": [
+      "30",
+      "6",
+      "5",
+      "7"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 34 − 4 = 30. Bước 2: 30 ÷ 5 = 6 (cái hộp)."
+    },
+    {
+     "q": "Chị Mai mua 40 quả cam, đã ăn 4 quả cam rồi đem số còn lại chia đều vào các cái rổ, mỗi cái rổ 6 quả cam. Hỏi cần bao nhiêu cái rổ?",
+     "options": [
+      "36",
+      "5",
+      "6",
+      "7"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 40 − 4 = 36. Bước 2: 36 ÷ 6 = 6 (cái rổ)."
+    },
+    {
+     "q": "Anh Tâm mua 61 quả cam, đã ăn 5 quả cam rồi đem số còn lại chia đều vào các cái rổ, mỗi cái rổ 7 quả cam. Hỏi cần bao nhiêu cái rổ?",
+     "options": [
+      "56",
+      "8",
+      "7",
+      "9"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 61 − 5 = 56. Bước 2: 56 ÷ 7 = 8 (cái rổ)."
+    },
+    {
+     "q": "Bác Sơn mua 45 quả cam, đã ăn 5 quả cam rồi đem số còn lại chia đều vào các cái rổ, mỗi cái rổ 4 quả cam. Hỏi cần bao nhiêu cái rổ?",
+     "options": [
+      "40",
+      "10",
+      "9",
+      "11"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 45 − 5 = 40. Bước 2: 40 ÷ 4 = 10 (cái rổ)."
+    },
+    {
+     "q": "Bác Sơn mua 55 cái bánh, đã ăn 1 cái bánh rồi đem số còn lại chia đều vào các cái hộp, mỗi cái hộp 6 cái bánh. Hỏi cần bao nhiêu cái hộp?",
+     "options": [
+      "9",
+      "54",
+      "8",
+      "10"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 55 − 1 = 54. Bước 2: 54 ÷ 6 = 9 (cái hộp)."
+    },
+    {
+     "q": "Cô Hà mua 23 quả cam, đã ăn 5 quả cam rồi đem số còn lại chia đều vào các cái rổ, mỗi cái rổ 3 quả cam. Hỏi cần bao nhiêu cái rổ?",
+     "options": [
+      "6",
+      "5",
+      "7",
+      "18"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 23 − 5 = 18. Bước 2: 18 ÷ 3 = 6 (cái rổ)."
+    },
+    {
+     "q": "Cô Hà mua 53 quả cam, đã ăn 3 quả cam rồi đem số còn lại chia đều vào các cái rổ, mỗi cái rổ 5 quả cam. Hỏi cần bao nhiêu cái rổ?",
+     "options": [
+      "9",
+      "11",
+      "50",
+      "10"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 53 − 3 = 50. Bước 2: 50 ÷ 5 = 10 (cái rổ)."
+    },
+    {
+     "q": "Anh Tâm mua 48 quả cam, đã ăn 6 quả cam rồi đem số còn lại chia đều vào các cái rổ, mỗi cái rổ 6 quả cam. Hỏi cần bao nhiêu cái rổ?",
+     "options": [
+      "6",
+      "8",
+      "42",
+      "7"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 48 − 6 = 42. Bước 2: 42 ÷ 6 = 7 (cái rổ)."
+    },
+    {
+     "q": "Chị Mai mua 45 quả táo, đã ăn 5 quả táo rồi đem số còn lại chia đều vào các cái đĩa, mỗi cái đĩa 5 quả táo. Hỏi cần bao nhiêu cái đĩa?",
+     "options": [
+      "7",
+      "9",
+      "40",
+      "8"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 45 − 5 = 40. Bước 2: 40 ÷ 5 = 8 (cái đĩa)."
+    },
+    {
+     "q": "Cô Hà mua 56 quả táo, đã ăn 6 quả táo rồi đem số còn lại chia đều vào các cái đĩa, mỗi cái đĩa 5 quả táo. Hỏi cần bao nhiêu cái đĩa?",
+     "options": [
+      "50",
+      "10",
+      "9",
+      "11"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 56 − 6 = 50. Bước 2: 50 ÷ 5 = 10 (cái đĩa)."
+    },
+    {
+     "q": "Cô Hà mua 16 quả táo, đã ăn 1 quả táo rồi đem số còn lại chia đều vào các cái đĩa, mỗi cái đĩa 3 quả táo. Hỏi cần bao nhiêu cái đĩa?",
+     "options": [
+      "6",
+      "5",
+      "15",
+      "4"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 16 − 1 = 15. Bước 2: 15 ÷ 3 = 5 (cái đĩa)."
+    },
+    {
+     "q": "Chị Mai mua 18 quả táo, đã ăn 6 quả táo rồi đem số còn lại chia đều vào các cái đĩa, mỗi cái đĩa 3 quả táo. Hỏi cần bao nhiêu cái đĩa?",
+     "options": [
+      "6",
+      "5",
+      "12",
+      "4"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 18 − 6 = 12. Bước 2: 12 ÷ 3 = 4 (cái đĩa)."
+    },
+    {
+     "q": "Chị Mai mua 61 cái bánh, đã ăn 1 cái bánh rồi đem số còn lại chia đều vào các cái hộp, mỗi cái hộp 6 cái bánh. Hỏi cần bao nhiêu cái hộp?",
+     "options": [
+      "9",
+      "60",
+      "11",
+      "10"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 61 − 1 = 60. Bước 2: 60 ÷ 6 = 10 (cái hộp)."
+    },
+    {
+     "q": "Anh Tâm mua 23 quả cam, đã ăn 3 quả cam rồi đem số còn lại chia đều vào các cái rổ, mỗi cái rổ 4 quả cam. Hỏi cần bao nhiêu cái rổ?",
+     "options": [
+      "4",
+      "5",
+      "20",
+      "6"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 23 − 3 = 20. Bước 2: 20 ÷ 4 = 5 (cái rổ)."
+    },
+    {
+     "q": "Chị Mai mua 50 cái bánh, đã ăn 1 cái bánh rồi đem số còn lại chia đều vào các cái hộp, mỗi cái hộp 7 cái bánh. Hỏi cần bao nhiêu cái hộp?",
+     "options": [
+      "49",
+      "7",
+      "8",
+      "6"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 50 − 1 = 49. Bước 2: 49 ÷ 7 = 7 (cái hộp)."
+    },
+    {
+     "q": "Cô Hà mua 50 quả cam, đã ăn 2 quả cam rồi đem số còn lại chia đều vào các cái rổ, mỗi cái rổ 6 quả cam. Hỏi cần bao nhiêu cái rổ?",
+     "options": [
+      "8",
+      "48",
+      "7",
+      "9"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 50 − 2 = 48. Bước 2: 48 ÷ 6 = 8 (cái rổ)."
+    }
+   ]
+  },
+  {
+   "type": 10,
+   "title": "Bài 10 - Bài toán chia tỉ lệ",
+   "exercises": [
+    {
+     "q": "Người ta xếp cam vào các đĩa, mỗi đĩa số quả như nhau. Nếu có 18 quả cam thì xếp được 3 đĩa. Hỏi muốn xếp 7 đĩa như thế thì cần bao nhiêu quả cam?",
+     "options": [
+      "6",
+      "18",
+      "42",
+      "48"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: mỗi đĩa = 18 ÷ 3 = 6 quả. Bước 2: 6 × 7 = 42 quả."
+    },
+    {
+     "q": "Người ta xếp cam vào các đĩa, mỗi đĩa số quả như nhau. Nếu có 12 quả cam thì xếp được 3 đĩa. Hỏi muốn xếp 6 đĩa như thế thì cần bao nhiêu quả cam?",
+     "options": [
+      "12",
+      "4",
+      "24",
+      "28"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: mỗi đĩa = 12 ÷ 3 = 4 quả. Bước 2: 4 × 6 = 24 quả."
+    },
+    {
+     "q": "Người ta xếp cam vào các đĩa, mỗi đĩa số quả như nhau. Nếu có 42 quả cam thì xếp được 7 đĩa. Hỏi muốn xếp 9 đĩa như thế thì cần bao nhiêu quả cam?",
+     "options": [
+      "60",
+      "6",
+      "42",
+      "54"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: mỗi đĩa = 42 ÷ 7 = 6 quả. Bước 2: 6 × 9 = 54 quả."
+    },
+    {
+     "q": "Người ta xếp cam vào các đĩa, mỗi đĩa số quả như nhau. Nếu có 15 quả cam thì xếp được 5 đĩa. Hỏi muốn xếp 7 đĩa như thế thì cần bao nhiêu quả cam?",
+     "options": [
+      "15",
+      "21",
+      "24",
+      "3"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: mỗi đĩa = 15 ÷ 5 = 3 quả. Bước 2: 3 × 7 = 21 quả."
+    },
+    {
+     "q": "Người ta xếp cam vào các đĩa, mỗi đĩa số quả như nhau. Nếu có 40 quả cam thì xếp được 5 đĩa. Hỏi muốn xếp 5 đĩa như thế thì cần bao nhiêu quả cam?",
+     "options": [
+      "8",
+      "40",
+      "48",
+      "32"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: mỗi đĩa = 40 ÷ 5 = 8 quả. Bước 2: 8 × 5 = 40 quả."
+    },
+    {
+     "q": "Người ta xếp cam vào các đĩa, mỗi đĩa số quả như nhau. Nếu có 27 quả cam thì xếp được 3 đĩa. Hỏi muốn xếp 5 đĩa như thế thì cần bao nhiêu quả cam?",
+     "options": [
+      "54",
+      "9",
+      "27",
+      "45"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: mỗi đĩa = 27 ÷ 3 = 9 quả. Bước 2: 9 × 5 = 45 quả."
+    },
+    {
+     "q": "Người ta xếp cam vào các đĩa, mỗi đĩa số quả như nhau. Nếu có 16 quả cam thì xếp được 4 đĩa. Hỏi muốn xếp 9 đĩa như thế thì cần bao nhiêu quả cam?",
+     "options": [
+      "16",
+      "36",
+      "40",
+      "4"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: mỗi đĩa = 16 ÷ 4 = 4 quả. Bước 2: 4 × 9 = 36 quả."
+    },
+    {
+     "q": "Người ta xếp cam vào các đĩa, mỗi đĩa số quả như nhau. Nếu có 48 quả cam thì xếp được 6 đĩa. Hỏi muốn xếp 3 đĩa như thế thì cần bao nhiêu quả cam?",
+     "options": [
+      "48",
+      "24",
+      "8",
+      "32"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: mỗi đĩa = 48 ÷ 6 = 8 quả. Bước 2: 8 × 3 = 24 quả."
+    },
+    {
+     "q": "Người ta xếp cam vào các đĩa, mỗi đĩa số quả như nhau. Nếu có 48 quả cam thì xếp được 8 đĩa. Hỏi muốn xếp 4 đĩa như thế thì cần bao nhiêu quả cam?",
+     "options": [
+      "48",
+      "24",
+      "30",
+      "6"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: mỗi đĩa = 48 ÷ 8 = 6 quả. Bước 2: 6 × 4 = 24 quả."
+    },
+    {
+     "q": "Người ta xếp cam vào các đĩa, mỗi đĩa số quả như nhau. Nếu có 40 quả cam thì xếp được 5 đĩa. Hỏi muốn xếp 6 đĩa như thế thì cần bao nhiêu quả cam?",
+     "options": [
+      "40",
+      "48",
+      "8",
+      "56"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: mỗi đĩa = 40 ÷ 5 = 8 quả. Bước 2: 8 × 6 = 48 quả."
+    },
+    {
+     "q": "Người ta xếp cam vào các đĩa, mỗi đĩa số quả như nhau. Nếu có 24 quả cam thì xếp được 4 đĩa. Hỏi muốn xếp 6 đĩa như thế thì cần bao nhiêu quả cam?",
+     "options": [
+      "42",
+      "36",
+      "6",
+      "24"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: mỗi đĩa = 24 ÷ 4 = 6 quả. Bước 2: 6 × 6 = 36 quả."
+    },
+    {
+     "q": "Người ta xếp cam vào các đĩa, mỗi đĩa số quả như nhau. Nếu có 25 quả cam thì xếp được 5 đĩa. Hỏi muốn xếp 5 đĩa như thế thì cần bao nhiêu quả cam?",
+     "options": [
+      "20",
+      "5",
+      "25",
+      "30"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: mỗi đĩa = 25 ÷ 5 = 5 quả. Bước 2: 5 × 5 = 25 quả."
+    },
+    {
+     "q": "Người ta xếp cam vào các đĩa, mỗi đĩa số quả như nhau. Nếu có 64 quả cam thì xếp được 8 đĩa. Hỏi muốn xếp 3 đĩa như thế thì cần bao nhiêu quả cam?",
+     "options": [
+      "64",
+      "8",
+      "24",
+      "32"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: mỗi đĩa = 64 ÷ 8 = 8 quả. Bước 2: 8 × 3 = 24 quả."
+    },
+    {
+     "q": "Người ta xếp cam vào các đĩa, mỗi đĩa số quả như nhau. Nếu có 36 quả cam thì xếp được 4 đĩa. Hỏi muốn xếp 4 đĩa như thế thì cần bao nhiêu quả cam?",
+     "options": [
+      "27",
+      "36",
+      "9",
+      "45"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: mỗi đĩa = 36 ÷ 4 = 9 quả. Bước 2: 9 × 4 = 36 quả."
+    },
+    {
+     "q": "Người ta xếp cam vào các đĩa, mỗi đĩa số quả như nhau. Nếu có 24 quả cam thì xếp được 8 đĩa. Hỏi muốn xếp 8 đĩa như thế thì cần bao nhiêu quả cam?",
+     "options": [
+      "24",
+      "3",
+      "27",
+      "21"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: mỗi đĩa = 24 ÷ 8 = 3 quả. Bước 2: 3 × 8 = 24 quả."
+    },
+    {
+     "q": "Người ta xếp cam vào các đĩa, mỗi đĩa số quả như nhau. Nếu có 21 quả cam thì xếp được 3 đĩa. Hỏi muốn xếp 7 đĩa như thế thì cần bao nhiêu quả cam?",
+     "options": [
+      "49",
+      "21",
+      "7",
+      "56"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: mỗi đĩa = 21 ÷ 3 = 7 quả. Bước 2: 7 × 7 = 49 quả."
+    },
+    {
+     "q": "Người ta xếp cam vào các đĩa, mỗi đĩa số quả như nhau. Nếu có 16 quả cam thì xếp được 4 đĩa. Hỏi muốn xếp 6 đĩa như thế thì cần bao nhiêu quả cam?",
+     "options": [
+      "16",
+      "24",
+      "4",
+      "28"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: mỗi đĩa = 16 ÷ 4 = 4 quả. Bước 2: 4 × 6 = 24 quả."
+    },
+    {
+     "q": "Người ta xếp cam vào các đĩa, mỗi đĩa số quả như nhau. Nếu có 48 quả cam thì xếp được 8 đĩa. Hỏi muốn xếp 5 đĩa như thế thì cần bao nhiêu quả cam?",
+     "options": [
+      "36",
+      "48",
+      "30",
+      "6"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: mỗi đĩa = 48 ÷ 8 = 6 quả. Bước 2: 6 × 5 = 30 quả."
+    }
+   ]
+  },
+  {
+   "type": 11,
+   "title": "Bài 11 - Bài toán ba bước (chia hàng)",
+   "exercises": [
+    {
+     "q": "Lớp 3A xếp thành 4 hàng thì mỗi hàng có 7 bạn và thừa ra 2 bạn. Hỏi nếu xếp thành 6 hàng thì mỗi hàng có bao nhiêu bạn?",
+     "options": [
+      "30",
+      "7",
+      "6",
+      "5"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 4 × 7 = 28. Bước 2: 28 + 2 = 30. Bước 3: 30 ÷ 6 = 5 (bạn)."
+    },
+    {
+     "q": "Lớp 3A xếp thành 5 hàng thì mỗi hàng có 5 bạn và thừa ra 3 bạn. Hỏi nếu xếp thành 4 hàng thì mỗi hàng có bao nhiêu bạn?",
+     "options": [
+      "7",
+      "8",
+      "28",
+      "5"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 5 × 5 = 25. Bước 2: 25 + 3 = 28. Bước 3: 28 ÷ 4 = 7 (bạn)."
+    },
+    {
+     "q": "Lớp 3A xếp thành 4 hàng thì mỗi hàng có 8 bạn và thừa ra 7 bạn. Hỏi nếu xếp thành 3 hàng thì mỗi hàng có bao nhiêu bạn?",
+     "options": [
+      "8",
+      "14",
+      "13",
+      "39"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 4 × 8 = 32. Bước 2: 32 + 7 = 39. Bước 3: 39 ÷ 3 = 13 (bạn)."
+    },
+    {
+     "q": "Lớp 3A xếp thành 4 hàng thì mỗi hàng có 6 bạn và thừa ra 4 bạn. Hỏi nếu xếp thành 4 hàng thì mỗi hàng có bao nhiêu bạn?",
+     "options": [
+      "7",
+      "28",
+      "8",
+      "6"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 4 × 6 = 24. Bước 2: 24 + 4 = 28. Bước 3: 28 ÷ 4 = 7 (bạn)."
+    },
+    {
+     "q": "Lớp 3A xếp thành 5 hàng thì mỗi hàng có 9 bạn và thừa ra 4 bạn. Hỏi nếu xếp thành 7 hàng thì mỗi hàng có bao nhiêu bạn?",
+     "options": [
+      "7",
+      "8",
+      "49",
+      "9"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 5 × 9 = 45. Bước 2: 45 + 4 = 49. Bước 3: 49 ÷ 7 = 7 (bạn)."
+    },
+    {
+     "q": "Lớp 3A xếp thành 4 hàng thì mỗi hàng có 5 bạn và thừa ra 1 bạn. Hỏi nếu xếp thành 3 hàng thì mỗi hàng có bao nhiêu bạn?",
+     "options": [
+      "8",
+      "7",
+      "5",
+      "21"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 4 × 5 = 20. Bước 2: 20 + 1 = 21. Bước 3: 21 ÷ 3 = 7 (bạn)."
+    },
+    {
+     "q": "Lớp 3A xếp thành 5 hàng thì mỗi hàng có 7 bạn và thừa ra 5 bạn. Hỏi nếu xếp thành 4 hàng thì mỗi hàng có bao nhiêu bạn?",
+     "options": [
+      "7",
+      "10",
+      "11",
+      "40"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 5 × 7 = 35. Bước 2: 35 + 5 = 40. Bước 3: 40 ÷ 4 = 10 (bạn)."
+    },
+    {
+     "q": "Lớp 3A xếp thành 4 hàng thì mỗi hàng có 7 bạn và thừa ra 5 bạn. Hỏi nếu xếp thành 3 hàng thì mỗi hàng có bao nhiêu bạn?",
+     "options": [
+      "11",
+      "12",
+      "7",
+      "33"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 4 × 7 = 28. Bước 2: 28 + 5 = 33. Bước 3: 33 ÷ 3 = 11 (bạn)."
+    },
+    {
+     "q": "Lớp 3A xếp thành 7 hàng thì mỗi hàng có 8 bạn và thừa ra 7 bạn. Hỏi nếu xếp thành 3 hàng thì mỗi hàng có bao nhiêu bạn?",
+     "options": [
+      "8",
+      "21",
+      "63",
+      "22"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 7 × 8 = 56. Bước 2: 56 + 7 = 63. Bước 3: 63 ÷ 3 = 21 (bạn)."
+    },
+    {
+     "q": "Lớp 3A xếp thành 5 hàng thì mỗi hàng có 9 bạn và thừa ra 6 bạn. Hỏi nếu xếp thành 3 hàng thì mỗi hàng có bao nhiêu bạn?",
+     "options": [
+      "18",
+      "51",
+      "9",
+      "17"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 5 × 9 = 45. Bước 2: 45 + 6 = 51. Bước 3: 51 ÷ 3 = 17 (bạn)."
+    },
+    {
+     "q": "Lớp 3A xếp thành 5 hàng thì mỗi hàng có 6 bạn và thừa ra 5 bạn. Hỏi nếu xếp thành 7 hàng thì mỗi hàng có bao nhiêu bạn?",
+     "options": [
+      "35",
+      "6",
+      "5",
+      "4"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 5 × 6 = 30. Bước 2: 30 + 5 = 35. Bước 3: 35 ÷ 7 = 5 (bạn)."
+    },
+    {
+     "q": "Lớp 3A xếp thành 7 hàng thì mỗi hàng có 9 bạn và thừa ra 5 bạn. Hỏi nếu xếp thành 4 hàng thì mỗi hàng có bao nhiêu bạn?",
+     "options": [
+      "68",
+      "18",
+      "17",
+      "9"
+     ],
+     "correct": 2,
+     "explain": "Bước 1: 7 × 9 = 63. Bước 2: 63 + 5 = 68. Bước 3: 68 ÷ 4 = 17 (bạn)."
+    },
+    {
+     "q": "Lớp 3A xếp thành 7 hàng thì mỗi hàng có 7 bạn và thừa ra 2 bạn. Hỏi nếu xếp thành 3 hàng thì mỗi hàng có bao nhiêu bạn?",
+     "options": [
+      "51",
+      "17",
+      "18",
+      "7"
+     ],
+     "correct": 1,
+     "explain": "Bước 1: 7 × 7 = 49. Bước 2: 49 + 2 = 51. Bước 3: 51 ÷ 3 = 17 (bạn)."
+    },
+    {
+     "q": "Lớp 3A xếp thành 7 hàng thì mỗi hàng có 9 bạn và thừa ra 6 bạn. Hỏi nếu xếp thành 3 hàng thì mỗi hàng có bao nhiêu bạn?",
+     "options": [
+      "24",
+      "9",
+      "69",
+      "23"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 7 × 9 = 63. Bước 2: 63 + 6 = 69. Bước 3: 69 ÷ 3 = 23 (bạn)."
+    },
+    {
+     "q": "Lớp 3A xếp thành 5 hàng thì mỗi hàng có 9 bạn và thừa ra 3 bạn. Hỏi nếu xếp thành 3 hàng thì mỗi hàng có bao nhiêu bạn?",
+     "options": [
+      "16",
+      "48",
+      "9",
+      "17"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 5 × 9 = 45. Bước 2: 45 + 3 = 48. Bước 3: 48 ÷ 3 = 16 (bạn)."
+    },
+    {
+     "q": "Lớp 3A xếp thành 7 hàng thì mỗi hàng có 9 bạn và thừa ra 2 bạn. Hỏi nếu xếp thành 5 hàng thì mỗi hàng có bao nhiêu bạn?",
+     "options": [
+      "13",
+      "9",
+      "65",
+      "14"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 7 × 9 = 63. Bước 2: 63 + 2 = 65. Bước 3: 65 ÷ 5 = 13 (bạn)."
+    },
+    {
+     "q": "Lớp 3A xếp thành 5 hàng thì mỗi hàng có 6 bạn và thừa ra 5 bạn. Hỏi nếu xếp thành 5 hàng thì mỗi hàng có bao nhiêu bạn?",
+     "options": [
+      "35",
+      "8",
+      "6",
+      "7"
+     ],
+     "correct": 3,
+     "explain": "Bước 1: 5 × 6 = 30. Bước 2: 30 + 5 = 35. Bước 3: 35 ÷ 5 = 7 (bạn)."
+    },
+    {
+     "q": "Lớp 3A xếp thành 7 hàng thì mỗi hàng có 6 bạn và thừa ra 2 bạn. Hỏi nếu xếp thành 4 hàng thì mỗi hàng có bao nhiêu bạn?",
+     "options": [
+      "11",
+      "44",
+      "6",
+      "12"
+     ],
+     "correct": 0,
+     "explain": "Bước 1: 7 × 6 = 42. Bước 2: 42 + 2 = 44. Bước 3: 44 ÷ 4 = 11 (bạn)."
+    }
+   ]
+  }
+ ]
+}
